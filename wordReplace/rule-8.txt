@@ -1,0 +1,4 @@
+﻿\bBRB\b,bear body
+\bTTR\b,tight trading range
+\bOB\b,outside bar
+\bIB\b,inside bar

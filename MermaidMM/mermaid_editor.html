@@ -1,0 +1,48 @@
+
+    <!DOCTYPE html>
+    <script>
+    mermaid.initialize({startOnLoad: true});
+</script>
+    <html>
+    <head>
+        <title>Mermaid Mind Map Editor</title>
+        <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+        <script>
+            mermaid.initialize({ startOnLoad: true });
+        </script>
+        <style>
+            #container {
+                display: flex;
+            }
+            #code-editor, #mind-map {
+                width: 50%;
+                height: 100vh;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <textarea id="code-editor">graph LR
+    A-->B
+    B-->C
+    C-->D</textarea>
+            <div id="mind-map"></div>
+        </div>
+        <script>
+            const codeEditor = document.getElementById('code-editor');
+            const mindMap = document.getElementById('mind-map');
+
+            function updateMindMap() {
+                const mermaidCode = codeEditor.value;
+                
+                mermaid.render('mind-map', mermaidCode, svg => {
+                    mindMap.innerHTML = svg;
+                });
+            }
+
+            codeEditor.addEventListener('input', updateMindMap);
+            window.addEventListener('DOMContentLoaded', updateMindMap);
+        </script>
+    </body>
+    </html>
+    

@@ -1,0 +1,15 @@
+study(title="Brooks 5min setup", overlay=true)
+// 5m k线图下模仿，5分钟，15分钟，1小时的ema 20 形态
+
+ema20 = ema(close, 20)
+
+ema50 = ema(close, 50)
+
+ema220 = ema(close, 220)
+
+
+plot(ema20,"20", color = blue)
+
+plot(ema50,"50", color = purple)
+
+plot(ema220,"220", color = black)
