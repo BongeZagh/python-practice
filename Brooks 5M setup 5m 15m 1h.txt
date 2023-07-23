@@ -1,0 +1,22 @@
+study(title="Brooks 5min setup", overlay=true)
+// 15m k线图来看的话，对应的是15m，30m，60，2h的ema 20 形态
+
+ema20 = ema(close, 20)
+
+ema50 = ema(close, 50)
+
+ema220 = ema(close, 220)
+
+//ema160 = ema(close, 160)
+
+//ema320 = ema(close, 320)
+
+plot(ema20,"20", color = blue)
+
+plot(ema50,"50", color = purple)
+
+plot(ema220,"220", color = black)
+
+//plot(ema160,"160",color =green)
+
+//plot(ema320,"320",color =purple)
