@@ -1,0 +1,1808 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- mod : Loewen Enterprise - PAYPAL IPN REG / SUBSCRIPTION - GROUP -->
+<html dir="ltr">
+
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="refresh" content="; URL=">
+<meta http-equiv="refresh" content="">
+<meta http-equiv="pragma" content="">
+<meta http-equiv="content-language" content=""><title>Brooks Price Action - Trading Updates from Al Brooks</title>
+<meta name="keywords" content="futures,stock,price,action,brooks,al,trading,bar,options,eminis,e-minis,daytrading,charts,technical,analysis,free,course,education,torrent">
+<meta name="description" content="al brooks price action trading reading bar charts bar by bar">
+<meta name="author" content="">
+<meta name="identifier-url" content="www.brookspriceaction.com">
+<meta name="reply-to" content="">
+<meta name="revisit-after" content="15 days">
+<meta name="category" content="">
+<meta name="copyright" content="">
+<meta name="generator" content="">
+<meta name="robots" content="">
+<meta name="distribution" content="">
+<meta name="date-creation-yyyymmdd" content="20091101">
+<meta name="date-revision-yyyymmdd" content="20132403"><link rel="top" href="./index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Brooks Price Action Forum Index" />
+<link rel="search" href="./search.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Search" />
+<link rel="help" href="./faq.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Memberlist" />
+<link rel="up" href="index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Brooks Price Action Forum Index" />
+<!--[if gte IE 5]><![if lt IE 7]><script type="text/javascript" src="templates/pngfix.js"></script><![endif]><![endif]--> <link rel="shortcut icon" href="./favicon.ico">
+<link rel="stylesheet" href="templates/BBLite/BBLite.css" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="templates/toggle_display.js"></script>
+<link rel="shortcut icon" href="./favicon.ico">
+<script language="Javascript" type="text/javascript">
+<!--
+if ( 0 )
+{
+window.open('privmsg.php?mode=newpm&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2', '_phpbbprivmsg', 'HEIGHT=225,resizable=yes,WIDTH=400');;
+}
+//-->
+</script>
+<!-- Start add - No copy MOD -->
+<script language="javascript"> <!-- 
+var previous_key ;
+
+function clickIE4(){
+if (event.button==2){
+alert('No Right Click Is Allowed');
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert('No Right Click Is Allowed');
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+function handleKeyDown()
+{
+	if (previous_key==17 )
+	{
+		switch (window.event.keyCode)
+		{
+			case 45 :
+			case 46: 
+			case 67:
+			case 88:
+				alert('Copy Is Not Allowed');
+				event.keyCode=0;
+				previous_key=window.event.keyCode;
+				event.returnValue=false;
+				break;
+		}
+	} else if (previous_key==16)
+	{
+		switch (window.event.keyCode)
+		{
+			case 45 :
+			case 46: 
+				alert('Copy Is Not Allowed'+window.event.keyCode);
+				event.keyCode=0;
+				previous_key=window.event.keyCode;
+				event.returnValue=false;
+				break;
+		}
+	}
+	previous_key=window.event.keyCode;
+}
+function handleKeyUp()
+{
+	previous_key=0;
+}
+
+if ( 0 )
+{
+document.oncontextmenu=new Function("alert('No Right Click Is Allowed');return false")
+document.onkeyup = handleKeyUp;
+document.onkeydown = handleKeyDown;
+}
+//-->
+</script>
+<!-- End add - No copy MOD -->
+<script language="JavaScript" type="text/javascript"> 
+<!-- 
+function tour() { 
+window.open("tour.php", "_tour", "width=800,height=600,scrollbars,resizable=yes");
+} 
+//--> 
+</script>
+<script language="JavaScript" type="text/javascript" src="templates/mouseover.js"></script>
+<!-- Prillian - Begin Code Additions -->
+<script language="JavaScript" type="text/javascript">
+<!--
+function prill_launch(url, w, h)
+{
+window.name = 'phpbbmain';
+prillian = window.open(url, 'prillian', 'height=' + h + ', width=' + w + ', innerWidth=' + w + ', innerHeight=' + h + ', resizable, scrollbars');
+}
+if ( 0 ) 
+{ 
+prill_launch('./imclient.php?mode=4&mode2=1&mode_switch=1&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2', '227', '400');
+} 
+//-->
+</script>
+<!-- Prillian - End Code Additions -->
+</head>
+<body>
+<!-- Start add - Complete banner MOD -->
+<!-- Banners -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="20%">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+</table>
+</td>
+<td width="60%">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+</table>
+</td>
+<td width="20%">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+</table>
+</td>
+</tr>
+</table>
+<!-- End Banners -->
+<!-- End add - Complete banner MOD -->
+<!-- Removed RG qbars so it can replace  below.
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tr>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="/" title="" class="nav">          </a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Go to the homepage" class="nav">Home</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Index of the forum." class="nav">Forums</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a target="_blank" href="https://brookstradingcourse.com/price-action-trading-blog/" title="Link to Al's Blog" class="nav">Blog</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?page=4" title="Technical Analysis for the Serious Trader" class="nav">Books</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?page=9" title="Information on Al's Daily Webinar" class="nav">Trading Room</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a target="_blank" href="https://brookstradingcourse.com" title="Al Brook's Trading Course" class="nav">Trading Course</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="groupcp.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Groups of registered users." class="nav">Subscriptions</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="profile.php?mode=editprofile&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Edit your profile." class="nav">Profile</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="privmsg.php?folder=inbox&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="See your private message." class="nav">No new message(s)</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="login.php?logout=true&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="End your session." class="nav">Log out [ Zagh ]</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="/" title="" class="nav">          </a>				</td></tr></table>
+					</td>
+	</tr>
+</table>
+ -->
+<a name="top" id="top"></a>
+<table class="bodyline" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<table class="topbkg" width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tr> 
+        <td><img src="templates/BBLite/images/L_header.gif" border="0" alt="Brooks Price Action Forum Index" title="Brooks Price Action Forum Index" width="30" height="175" /></td>
+        <td width="100%" colspan="3" background="templates/BBLite/images/BBLite-main_03.gif"><a href="portal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2"><img src="./images/logo/BPAlogo3.png" width="500" height="110" border="0" alt="Brooks Price Action" title="Brooks Price Action" /></a></td> 
+		<td width="100%" colspan="3" background="templates/BBLite/images/BBLite-main_03.gif"><div align="right">
+
+<!-- removed RG <a href="redirect.php?banner_id=5&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" target="_blank"><img src="images/banners/phpbbintegraMOD.jpg"  border="0" alt="phpbb2 integraMOD" title="phpbb2 integraMOD" /></a> -->
+
+<!--  RG Kiva banner location  *removed* 
+<A HREF="https://www.brookspriceaction.com/portal.php?page=10"><object width="400" height="50"><param name="movie" value="https://media.kiva.org/SoOnCycle_banner5.swf"></param>
+<embed src="https://media.kiva.org/SoOnCycle_banner5.swf" type="application/x-shockwave-flash" width="400" height="50"></embed></object>  -->
+</A>
+
+<!-- removed DallasTXTE12.gif RG Other banner location
+<A HREF="https://secure.moneyshow.com/msc/txot/registration.asp?sid=TXOT12&scode=026993"><object width="468" height="60">
+<img src="https://www.brookspriceaction.com/images/BPA/DallasTXTE12-2.gif" alt="Dallas Traders Expo" width="468" height="60"></object>
+</A> -->
+
+<!-- PATC banner -->
+<A HREF="portal.php?page=17"><object width="468" height="60">
+<img src="images/BPA/patc1ani.gif" alt="Brooks Price Action Trading Course" width="468" height="60"></object>
+</A> 
+
+
+
+</div></td>
+        <td width="100%" valign="top" background="templates/BBLite/images/BBLite-main_03.gif"> 
+          <div align="right"><img src="templates/BBLite/images/R_header.gif" width="33" height="175" border="0"></div></td>
+      </tr>
+</table>
+<!-- Removed RG  so it can be replaced with <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tr>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="/" title="" class="nav">          </a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Go to the homepage" class="nav">Home</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Index of the forum." class="nav">Forums</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a target="_blank" href="https://brookstradingcourse.com/price-action-trading-blog/" title="Link to Al's Blog" class="nav">Blog</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?page=4" title="Technical Analysis for the Serious Trader" class="nav">Books</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?page=9" title="Information on Al's Daily Webinar" class="nav">Trading Room</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a target="_blank" href="https://brookstradingcourse.com" title="Al Brook's Trading Course" class="nav">Trading Course</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="groupcp.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Groups of registered users." class="nav">Subscriptions</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="profile.php?mode=editprofile&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Edit your profile." class="nav">Profile</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="privmsg.php?folder=inbox&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="See your private message." class="nav">No new message(s)</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="login.php?logout=true&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="End your session." class="nav">Log out [ Zagh ]</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="/" title="" class="nav">          </a>				</td></tr></table>
+					</td>
+	</tr>
+</table>
+ (from above) which do not have bullets in the names. 
+ -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tr>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="/" title="" class="nav">          </a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Go to the homepage" class="nav">Home</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Index of the forum." class="nav">Forums</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a target="_blank" href="https://brookstradingcourse.com/price-action-trading-blog/" title="Link to Al's Blog" class="nav">Blog</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?page=4" title="Technical Analysis for the Serious Trader" class="nav">Books</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="portal.php?page=9" title="Information on Al's Daily Webinar" class="nav">Trading Room</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a target="_blank" href="https://brookstradingcourse.com" title="Al Brook's Trading Course" class="nav">Trading Course</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="groupcp.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Groups of registered users." class="nav">Subscriptions</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="profile.php?mode=editprofile&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Edit your profile." class="nav">Profile</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="privmsg.php?folder=inbox&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="See your private message." class="nav">No new message(s)</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="login.php?logout=true&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="End your session." class="nav">Log out [ Zagh ]</a>				</td></tr></table>
+					</td>
+		<td align="left" width="9%" nowrap="nowrap">
+						<table cellspacing="0" cellpadding="2" border="0" width="100%" class="bodyline"><tr><td align="center" nowrap="nowrap" class="cat">
+				<a href="/" title="" class="nav">          </a>				</td></tr></table>
+					</td>
+	</tr>
+</table>
+		<br />
+
+<table border="0" cellpadding="0" cellspacing="0" class="tbl"><tr><td class="tbll"><img src="images/spacer.gif" alt="" width="8" height="4" /></td><td class="tblbot"><img src="images/spacer.gif" alt="" width="8" height="4" /></td><td class="tblr"><img src="images/spacer.gif" alt="" width="8" height="4" /></td></tr></table>
+
+
+<table align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+	<td width="100%"></td>
+	<td align="right" nowrap="nowrap"><span class="mainmenu"><a href="#" onClick="hdr_toggle('calendar_display','calendar_open_close', 'templates/BBLite/images/icon_down_arrow.gif', 'templates/BBLite/images/icon_up_arrow.gif'); return false;" class="gensmall"><img src="templates/BBLite/images/icon_down_arrow.gif" id="calendar_open_close" hspace="2" border="0" />Calendar</a>&nbsp;</span></td>
+</tr>
+<tbody id="calendar_display" style="display:none">
+<tr height="2"><td></td></tr>
+<tr><td colspan="2">
+	<table align="center" cellpadding="0" cellspacing="1" border="0" width="100%" class="forumline">
+	<tr>
+		<th align="center" colspan="7" width="100%"><a href="././calendar.php?start=20230824&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2"><img src="templates/BBLite/images/icon_calendar.gif" hspace="3" border="0" align="top" alt="Calendar event" /></a>Calendar</th>
+	</tr>
+<tr>
+				<td class="row1" valign="top" colspan="1" width="14%">
+		<table cellspacing="0" cellpadding="2" width="100%" height="94" valign="top">
+		<tr>
+			<td class="row2" align="center" height="4" nowrap="nowrap"><span class="genmed"><a href="././calendar_scheduler.php?d=1692774000&fid=&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" alt="Wed 23 Aug 2023" class="genmed">Wed 23 Aug 2023</a></span></td>
+		</tr>
+		<tr valign="top">
+			<td class="row1" nowrap="nowrap">
+				<table cellspacing="0" cellpadding="0" width="100%" valign="top">
+								</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+					<td class="row1" valign="top" colspan="1" width="14%">
+		<table cellspacing="0" cellpadding="2" width="100%" height="94" valign="top">
+		<tr>
+			<td class="row2" align="center" height="4" nowrap="nowrap"><span class="genmed"><a href="././calendar_scheduler.php?d=1692860400&fid=&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" alt="<b>Thu 24 Aug 2023</b>" class="genmed"><b>Thu 24 Aug 2023</b></a></span></td>
+		</tr>
+		<tr valign="top">
+			<td class="row1" nowrap="nowrap">
+				<table cellspacing="0" cellpadding="0" width="100%" valign="top">
+								</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+					<td class="row1" valign="top" colspan="1" width="14%">
+		<table cellspacing="0" cellpadding="2" width="100%" height="94" valign="top">
+		<tr>
+			<td class="row2" align="center" height="4" nowrap="nowrap"><span class="genmed"><a href="././calendar_scheduler.php?d=1692946800&fid=&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" alt="Fri 25 Aug 2023" class="genmed">Fri 25 Aug 2023</a></span></td>
+		</tr>
+		<tr valign="top">
+			<td class="row1" nowrap="nowrap">
+				<table cellspacing="0" cellpadding="0" width="100%" valign="top">
+								</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+					<td class="row1" valign="top" colspan="1" width="14%">
+		<table cellspacing="0" cellpadding="2" width="100%" height="94" valign="top">
+		<tr>
+			<td class="row2" align="center" height="4" nowrap="nowrap"><span class="genmed"><a href="././calendar_scheduler.php?d=1693033200&fid=&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" alt="Sat 26 Aug 2023" class="genmed">Sat 26 Aug 2023</a></span></td>
+		</tr>
+		<tr valign="top">
+			<td class="row1" nowrap="nowrap">
+				<table cellspacing="0" cellpadding="0" width="100%" valign="top">
+								</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+					<td class="row1" valign="top" colspan="1" width="14%">
+		<table cellspacing="0" cellpadding="2" width="100%" height="94" valign="top">
+		<tr>
+			<td class="row2" align="center" height="4" nowrap="nowrap"><span class="genmed"><a href="././calendar_scheduler.php?d=1693119600&fid=&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" alt="Sun 27 Aug 2023" class="genmed">Sun 27 Aug 2023</a></span></td>
+		</tr>
+		<tr valign="top">
+			<td class="row1" nowrap="nowrap">
+				<table cellspacing="0" cellpadding="0" width="100%" valign="top">
+								</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+					<td class="row1" valign="top" colspan="1" width="14%">
+		<table cellspacing="0" cellpadding="2" width="100%" height="94" valign="top">
+		<tr>
+			<td class="row2" align="center" height="4" nowrap="nowrap"><span class="genmed"><a href="././calendar_scheduler.php?d=1693206000&fid=&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" alt="Mon 28 Aug 2023" class="genmed">Mon 28 Aug 2023</a></span></td>
+		</tr>
+		<tr valign="top">
+			<td class="row1" nowrap="nowrap">
+				<table cellspacing="0" cellpadding="0" width="100%" valign="top">
+								</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+					<td class="row1" valign="top" colspan="1" width="14%">
+		<table cellspacing="0" cellpadding="2" width="100%" height="94" valign="top">
+		<tr>
+			<td class="row2" align="center" height="4" nowrap="nowrap"><span class="genmed"><a href="././calendar_scheduler.php?d=1693292400&fid=&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" alt="Tue 29 Aug 2023" class="genmed">Tue 29 Aug 2023</a></span></td>
+		</tr>
+		<tr valign="top">
+			<td class="row1" nowrap="nowrap">
+				<table cellspacing="0" cellpadding="0" width="100%" valign="top">
+								</table>
+			</td>
+		</tr>
+		</table>
+	</td>
+		</tr>
+</table></td></tr></tbody>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="10">&nbsp;</td>
+<td width="140" valign="top">&nbsp;</td>
+<td width="10">&nbsp;</td>
+<td width>&nbsp;</td>
+<td width="10">&nbsp;</td>
+</tr>
+<tr> 
+<td width="2"><img src="images/spacer.gif" alt="" width="2" /></td>
+<td width="140" valign="top">
+  
+<table border="0" cellpadding="0" cellspacing="0" width="160">
+  <tr>
+   <td><img name="tlc" src="templates/BBLite/images/tlc.gif" WIDTH=15 HEIGHT=30 border="0" alt=""></td> 
+   <td width="100%" background="templates/BBLite/images/tm.gif"><img name="tm" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+   <td><img name="trc" src="templates/BBLite/images/trc.gif" WIDTH=15 HEIGHT=30 border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td background="templates/BBLite/images/left.gif"><img name="left" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        <td valign="top" bgcolor="#D8D8D8">
+<table width="100%" cellpadding="2" cellspacing="0" border="0" class="forumline">
+            <tr> 
+        <th>Board Navigation</th>
+      </tr>
+            <tr> <td
+		
+                class="row1" 
+                ><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Go to the homepage" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Go to the homepage" align="absbottom" border="0" hspace="5" />Home</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Index of the forum." class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Index of the forum." align="absbottom" border="0" hspace="5" />Forum</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?page=4&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Technical Analysis for the Serious Trader" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Technical Analysis for the Serious Trader" align="absbottom" border="0" hspace="5" />Books</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?page=9&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Al Brooks Live Trading Room" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Al Brooks Live Trading Room" align="absbottom" border="0" hspace="5" />Trading Room</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?page=17&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Brooks Price Action Trading Course" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Brooks Price Action Trading Course" align="absbottom" border="0" hspace="5" />Trading Course</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?page=19&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="" align="absbottom" border="0" hspace="5" />Twitter Feed</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?page=15&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="BrooksPriceAction YouTube Channel" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="BrooksPriceAction YouTube Channel" align="absbottom" border="0" hspace="5" />YouTube Channel</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="kb.php?mode=cat&cat=1&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Check articles uploaded to the website" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Check articles uploaded to the website" align="absbottom" border="0" hspace="5" />Trading Articles</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="faq.php?mode=faq2&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Trading FAQ" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Trading FAQ" align="absbottom" border="0" hspace="5" />Trading FAQ</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="acronyms.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Display the acronyms being used by the forum" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Display the acronyms being used by the forum" align="absbottom" border="0" hspace="5" />Abbreviations</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?page=7" title="Google Map of Trader Community" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Google Map of Trader Community" align="absbottom" border="0" hspace="5" />Trader Map</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="groupcp.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Groups of registered users." class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Groups of registered users." align="absbottom" border="0" hspace="5" />Subscriptions</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="" class="navmenu"><hr></a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="album.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="View uploaded images" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="View uploaded images" align="absbottom" border="0" hspace="5" />Album</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="calendar.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Check events posted in the forum" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Check events posted in the forum" align="absbottom" border="0" hspace="5" />Calendar</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="dload.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="" align="absbottom" border="0" hspace="5" />Downloads</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="album_personal_index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="All personal albums" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="All personal albums" align="absbottom" border="0" hspace="5" />Personal Albums</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="faq.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Frequently Asked Questions." class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Frequently Asked Questions." align="absbottom" border="0" hspace="5" />Board FAQ</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="lwdonate.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Donate to Brooks Price Action" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Donate to Brooks Price Action" align="absbottom" border="0" hspace="5" />Donate</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="rules.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Rules & Disclaimer" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Rules & Disclaimer" align="absbottom" border="0" hspace="5" />Rules&Disclaimer</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="staff.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Members of our staff" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Members of our staff" align="absbottom" border="0" hspace="5" />Staff</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?page=3&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Contact information for Al Brooks" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Contact information for Al Brooks" align="absbottom" border="0" hspace="5" />Contact Us</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="statistics.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="View website statistics" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="View website statistics" align="absbottom" border="0" hspace="5" />Statistics</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="" class="navmenu"><hr></a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="search.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Search through forums." class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Search through forums." align="absbottom" border="0" hspace="5" />Search Forums</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="portal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="" class="navmenu"><hr></a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="profile.php?mode=profil&sub=digests&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Subscribe to the daily e-mail digest of this site" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Subscribe to the daily e-mail digest of this site" align="absbottom" border="0" hspace="5" />Digests</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="album_personal.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Your own personal album" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Your own personal album" align="absbottom" border="0" hspace="5" />My Album</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="viewonline.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="See who is online at this time." class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="See who is online at this time." align="absbottom" border="0" hspace="5" />Online Users</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="search.php?search_id=bookmarks&sid=2c88f6e9f0131128edded77bf5dfaaa2" title="See your bookmarked posts" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="See your bookmarked posts" align="absbottom" border="0" hspace="5" />My Bookmarks</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="mycookies.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Manage your own cookies" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Manage your own cookies" align="absbottom" border="0" hspace="5" />My Cookies</a></span>
+</td>
+</tr>
+<tr>
+<td align="left" width="20%">
+<span class="genmed"><a href="ct_login_history.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" title="Track login security" class="navmenu"><img src="templates/BBLite/images/pip.gif" alt="Track login security" align="absbottom" border="0" hspace="5" />Login Security</a></span>
+</td>
+</tr>
+</table>
+</td> </tr> 
+    </table>
+</td>
+    <td background="templates/BBLite/images/right.gif"><img name="right" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img name="blc" src="templates/BBLite/images/blc.gif" WIDTH=15 HEIGHT=20 border="0" alt=""></td>
+    <td background="templates/BBLite/images/btm.gif"><img name="btm" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+   <td><img name="brc" src="templates/BBLite/images/brc.gif" WIDTH=15 HEIGHT=20 border="0" alt=""></td>
+  </tr></table>
+<table border="0" cellpadding="0" cellspacing="0" class="tbl"><tr><td class="tbll"><img src="images/spacer.gif" alt="" width="8" height="4" /></td><td class="tblbot"><img src="images/spacer.gif" alt="" width="8" height="4" /></td><td class="tblr"><img src="images/spacer.gif" alt="" width="8" height="4" /></td></tr></table>
+  
+<table border="0" cellpadding="0" cellspacing="0" width="160">
+  <tr>
+   <td><img name="tlc" src="templates/BBLite/images/tlc.gif" WIDTH=15 HEIGHT=30 border="0" alt=""></td> 
+   <td width="100%" background="templates/BBLite/images/tm.gif"><img name="tm" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+   <td><img name="trc" src="templates/BBLite/images/trc.gif" WIDTH=15 HEIGHT=30 border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td background="templates/BBLite/images/left.gif"><img name="left" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        <td valign="top" bgcolor="#D8D8D8">
+<table width="100%" cellpadding="2" cellspacing="0" border="0" class="forumline">
+            <tr> 
+        <th>Articles</th>
+      </tr>
+            <tr> <td
+		
+                class="row1" 
+                ><span class="postbody"><div style="text-align:center"><span style="font-weight:bold">Read Al Brook's latest trading articles</span>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=1" target="_blank" class="postlink">Price Action</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=2" target="_blank" class="postlink">Why No Indicators?</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=3" target="_blank" class="postlink">Traders Starting Out</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=4" target="_blank" class="postlink">Swing and Don't Scalp</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=12" target="_blank" class="postlink">The Mathematics of Trading</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=5" target="_blank" class="postlink">Extreme Scalping</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=6" target="_blank" class="postlink">Best Time to Trade</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=7" target="_blank" class="postlink">Daytrading ETFs and Stocks</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=8" target="_blank" class="postlink">Globex 24 Hour</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=9" target="_blank" class="postlink">Bonds and Notes</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=10" target="_blank" class="postlink">Forex</a>
+<br />
+
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=article&amp;k=11" target="_blank" class="postlink">Options</a>
+<br />
+
+<br />
+<hr noshade color='#000000' size='1'><span style="font-size:10px; line-height:normal">
+<br />
+<a href="https://www.brookspriceaction.com/kb.php?mode=cat&amp;cat=1" target="_blank" class="postlink"><span style="font-weight:bold">see all</span></a></span></div></span></td> </tr> 
+    </table>
+</td>
+    <td background="templates/BBLite/images/right.gif"><img name="right" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img name="blc" src="templates/BBLite/images/blc.gif" WIDTH=15 HEIGHT=20 border="0" alt=""></td>
+    <td background="templates/BBLite/images/btm.gif"><img name="btm" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+   <td><img name="brc" src="templates/BBLite/images/brc.gif" WIDTH=15 HEIGHT=20 border="0" alt=""></td>
+  </tr></table>
+<table border="0" cellpadding="0" cellspacing="0" class="tbl"><tr><td class="tbll"><img src="images/spacer.gif" alt="" width="8" height="4" /></td><td class="tblbot"><img src="images/spacer.gif" alt="" width="8" height="4" /></td><td class="tblr"><img src="images/spacer.gif" alt="" width="8" height="4" /></td></tr></table>
+</td>
+
+	
+<td width="10"><img src="images/spacer.gif" alt="" width="10" /></td>
+<td valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+   <td><img name="tlc" src="templates/BBLite/images/tlc.gif" WIDTH=15 HEIGHT=30 border="0" alt=""></td> 
+   <td width="100%" background="templates/BBLite/images/tm.gif"><img name="tm" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+   <td><img name="trc" src="templates/BBLite/images/trc.gif" WIDTH=15 HEIGHT=30 border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td background="templates/BBLite/images/left.gif"><img name="left" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+        <td valign="top" bgcolor="#D8D8D8">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+<tr>
+<td class="nav" width="100%">&nbsp;<a href="index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2">Brooks Price Action Forum Index</a> &nbsp;&raquo;&nbsp;<a href="./index.php?c=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="nav">Trading</a>&nbsp;&raquo;&nbsp;<a href="./viewforum.php?f=1&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="nav">Trading Updates from Al Brooks</a></a></td>
+</tr>
+<tr>
+<td class="maintitle"><a href="viewforum.php?f=1&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Trading Updates from Al Brooks</a></td>
+<td class="gensmall" align="right" valign="bottom" nowrap="nowrap">Moderators: <a href="./profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a>, <a href="./profile.php?mode=viewprofile&amp;u=3&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">AlBrooks</a>, <a href="./profile.php?mode=viewprofile&amp;u=633&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Pdubbs</a><br />
+Users browsing this forum: None<br />
+<strong><a href="viewforum.php?f=1&amp;mark=topics&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Mark all topics read</a></strong></td>
+</tr>
+</table>
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+<tr> 
+<td></td>
+<td nowrap="nowrap" class="nav" align="right">
+Goto page <select name="generate_pagination" onChange="if(this.options[this.selectedIndex].value != -1){ window.location = this.options[this.selectedIndex].value; }"><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=0&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">1</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=50&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">2</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">3</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=150&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">4</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=200&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">5</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=250&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">6</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">7</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">8</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">9</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=450&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">10</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=500&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">11</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=550&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">12</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=600&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">13</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=650&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">14</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=700&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">15</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=750&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">16</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=800&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">17</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=850&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">18</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=900&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">19</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">20</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1000&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">21</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">22</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">23</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1150&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">24</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1200&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">25</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1250&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">26</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">27</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">28</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">29</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1450&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">30</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1500&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">31</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1550&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">32</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1600&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">33</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1650&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">34</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1700&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">35</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1750&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">36</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1800&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">37</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1850&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">38</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1900&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">39</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">40</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2000&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">41</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">42</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">43</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2150&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">44</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2200&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">45</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2250&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">46</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">47</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">48</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">49</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2450&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">50</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2500&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">51</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2550&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">52</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2600&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">53</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2650&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">54</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2700&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">55</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2750&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">56</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2800&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">57</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2850&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">58</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2900&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">59</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">60</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3000&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" selected="selected">61</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">62</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">63</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3150&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">64</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3200&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">65</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3250&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">66</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">67</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">68</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">69</option></select>:  <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=2950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Previous</a>&nbsp;&nbsp;<a href="viewforum.php?f=1&amp;topicdays=0&amp;start=0&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">1</a>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=50&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">2</a>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">3</a> ... <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=2950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">60</a>, <b>61</b>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">62</a> ... <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">67</a>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">68</a>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">69</a>&nbsp;&nbsp;<a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Next</a></td>
+</tr>
+</table>
+<form method="post" name="seesince" action="viewforum.php?f=1&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">
+<script language="javascript" type="text/javascript">
+<!--
+function NewWindow(mypage,myname)
+{
+	settings='width=250,height=300,top=0,left=0,toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=yes,scrollbars=yes';
+	PopupWin=window.open(mypage,myname,settings);
+	PopupWin.focus();
+}
+// -->
+</script>
+<table border="0" cellpadding="0" cellspacing="0" class="tbt"><tr><td class="tbtl"><img src="images/spacer.gif" alt="" width="22" height="22" /></td><td class="tbtbot"><b></b><span class="gen"><a href="" class="cattitle"></a></span></td><td class="tbtr"><img src="images/spacer.gif" alt="" width="124" height="22" /></td></tr></table>
+<table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline">
+<tr> 
+	<th colspan="3" align="center" nowrap="nowrap">&nbsp;Topics&nbsp;</th>
+	<th width="50" align="center" nowrap="nowrap">&nbsp;Replies&nbsp;</th>
+	<th width="100" align="center" nowrap="nowrap">&nbsp;Author&nbsp;</th>
+	<th width="50" align="center" nowrap="nowrap">&nbsp;Views&nbsp;</th>
+	<th width="150" align="center" nowrap="nowrap">&nbsp;Last Post&nbsp;</th>
+	</tr>
+<tr>
+	<td class="row3" colspan="7"><span class="gensmall">&nbsp;&nbsp;<b>Topics</b></span></td>
+</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=893&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=893&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-16-2011 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=893&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">6</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">545</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">17 Feb 2011 01:15 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=6670&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6670"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=894&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=894&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-15-2011 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=894&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">558</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">16 Feb 2011 12:40 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1362&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">slugar</a> <a href="viewtopic.php?p=6641&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6641"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=895&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=895&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-14-2011 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=895&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">2</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">451</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">14 Feb 2011 04:00 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2874&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Daytrading Cat</a> <a href="viewtopic.php?p=6599&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6599"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=875&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=875&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-11-2011 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=875&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">585</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">13 Feb 2011 08:14 am<br /><a href="profile.php?mode=viewprofile&amp;u=1362&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">slugar</a> <a href="viewtopic.php?p=6570&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6570"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=876&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=876&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-10-2011 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=876&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">515</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">11 Feb 2011 06:16 am<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=6516&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6516"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=877&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=877&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-09-2011 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=877&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">8</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">648</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">10 Feb 2011 09:01 am<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=6497&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6497"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=878&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=878&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-08-2011 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=878&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">542</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">09 Feb 2011 08:38 am<br /><a href="profile.php?mode=viewprofile&amp;u=61&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Rigel</a> <a href="viewtopic.php?p=6463&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6463"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=879&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=879&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-07-2011 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=879&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">6</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">547</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">08 Feb 2011 11:52 am<br /><a href="profile.php?mode=viewprofile&amp;u=2828&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">funkybudha</a> <a href="viewtopic.php?p=6451&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6451"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=860&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=860&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-04-2011 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=860&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">10</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">702</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">05 Feb 2011 09:40 am<br /><a href="profile.php?mode=viewprofile&amp;u=2274&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">paction</a> <a href="viewtopic.php?p=6418&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6418"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=736&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=736&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">11-16-2010 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=736&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">6</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">609</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">04 Feb 2011 09:00 am<br /><a href="profile.php?mode=viewprofile&amp;u=2103&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">tdeu</a> <a href="viewtopic.php?p=6394&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6394"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=861&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=861&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-03-2011 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=861&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">497</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">03 Feb 2011 02:46 pm<br /><a href="profile.php?mode=viewprofile&amp;u=682&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">jz166</a> <a href="viewtopic.php?p=6379&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6379"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=862&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=862&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-02-2011 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=862&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">3</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">495</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">02 Feb 2011 08:59 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=6355&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6355"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=863&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=863&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">02-01-2011 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=863&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">10</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">589</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">01 Feb 2011 06:51 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2484&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Anchor</a> <a href="viewtopic.php?p=6329&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6329"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=864&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=864&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-31-2011 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=864&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">505</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">31 Jan 2011 09:48 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2423&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Jsyn</a> <a href="viewtopic.php?p=6303&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6303"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=844&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=844&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-28-2011 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=844&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">539</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">29 Jan 2011 11:06 am<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=6257&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6257"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=845&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=845&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-27-2011 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=845&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">484</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">28 Jan 2011 07:19 am<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=6249&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6249"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=846&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=846&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-26-2011 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=846&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">6</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">516</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">27 Jan 2011 07:19 am<br /><a href="profile.php?mode=viewprofile&amp;u=75&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">ACS</a> <a href="viewtopic.php?p=6222&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6222"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=847&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=847&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-25-2011 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=847&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">505</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">25 Jan 2011 05:12 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2501&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">jasonwj21</a> <a href="viewtopic.php?p=6198&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6198"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=848&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=848&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-24-2011 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=848&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">2</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">454</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">25 Jan 2011 11:06 am<br /><a href="profile.php?mode=viewprofile&amp;u=68&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">jgiera</a> <a href="viewtopic.php?p=6187&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6187"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=838&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=838&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-21-2011 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=838&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">570</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">24 Jan 2011 06:54 am<br /><a href="profile.php?mode=viewprofile&amp;u=1451&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Livingfoody</a> <a href="viewtopic.php?p=6172&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6172"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=470&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=470&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">06-25-2010 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=470&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">729</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">22 Jan 2011 09:49 am<br /><a href="profile.php?mode=viewprofile&amp;u=457&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Tickbanker</a> <a href="viewtopic.php?p=6163&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6163"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=839&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=839&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-20-2011 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=839&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">459</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">20 Jan 2011 04:41 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2874&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Daytrading Cat</a> <a href="viewtopic.php?p=6147&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6147"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=840&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=840&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-19-2011 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=840&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">7</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">511</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">20 Jan 2011 11:56 am<br /><a href="profile.php?mode=viewprofile&amp;u=1362&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">slugar</a> <a href="viewtopic.php?p=6141&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6141"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=841&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=841&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-18-2011 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=841&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">568</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">19 Jan 2011 01:36 am<br /><a href="profile.php?mode=viewprofile&amp;u=3239&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">mohan</a> <a href="viewtopic.php?p=6127&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6127"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=824&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=824&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-14-2011 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=824&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">6</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">620</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">17 Jan 2011 01:14 am<br /><a href="profile.php?mode=viewprofile&amp;u=1813&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">dave55</a> <a href="viewtopic.php?p=6116&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6116"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=825&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=825&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-13-2011 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=825&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">7</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">561</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">16 Jan 2011 04:55 am<br /><a href="profile.php?mode=viewprofile&amp;u=68&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">jgiera</a> <a href="viewtopic.php?p=6112&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6112"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=826&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=826&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-12-2011 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=826&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">538</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">13 Jan 2011 07:26 am<br /><a href="profile.php?mode=viewprofile&amp;u=1813&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">dave55</a> <a href="viewtopic.php?p=6078&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6078"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=827&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=827&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-11-2011 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=827&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">9</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">597</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">12 Jan 2011 02:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=6053&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6053"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=828&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=828&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-10-2011 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=828&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">3</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">520</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">11 Jan 2011 04:03 am<br /><a href="profile.php?mode=viewprofile&amp;u=1813&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">dave55</a> <a href="viewtopic.php?p=6032&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6032"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=804&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=804&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-07-2011 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=804&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">580</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">09 Jan 2011 01:52 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=6008&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#6008"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=805&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=805&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-06-2011 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=805&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">7</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">613</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">07 Jan 2011 07:42 am<br /><a href="profile.php?mode=viewprofile&amp;u=1362&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">slugar</a> <a href="viewtopic.php?p=5977&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5977"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=806&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=806&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-05-2011 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=806&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">7</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">573</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">06 Jan 2011 06:07 am<br /><a href="profile.php?mode=viewprofile&amp;u=75&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">ACS</a> <a href="viewtopic.php?p=5967&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5967"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=807&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=807&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-04-2011 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=807&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">557</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">05 Jan 2011 06:47 am<br /><a href="profile.php?mode=viewprofile&amp;u=1880&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">philhm</a> <a href="viewtopic.php?p=5955&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5955"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=808&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=808&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">01-03-2011 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=808&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">7</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">640</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">04 Jan 2011 03:19 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=5952&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5952"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=792&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=792&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-31-2010 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=792&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">6</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">457</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">01 Jan 2011 03:05 am<br /><a href="profile.php?mode=viewprofile&amp;u=61&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Rigel</a> <a href="viewtopic.php?p=5908&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5908"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=793&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=793&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-30-2010 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=793&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">2</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">412</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">30 Dec 2010 07:19 pm<br /><a href="profile.php?mode=viewprofile&amp;u=5&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">nini</a> <a href="viewtopic.php?p=5900&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5900"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=794&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=794&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-29-2010 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=794&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">430</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">29 Dec 2010 02:24 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2274&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">paction</a> <a href="viewtopic.php?p=5893&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5893"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=796&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=796&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-28-2010 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=796&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">454</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">28 Dec 2010 03:27 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2274&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">paction</a> <a href="viewtopic.php?p=5886&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5886"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=797&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=797&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-27-2010 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=797&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">3</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">436</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">27 Dec 2010 10:38 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2701&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">arpadt</a> <a href="viewtopic.php?p=5879&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5879"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=782&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=782&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-23-2010 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=782&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">3</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">447</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">23 Dec 2010 07:15 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2274&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">paction</a> <a href="viewtopic.php?p=5864&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5864"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=783&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=783&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-22-2010 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=783&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">487</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">23 Dec 2010 07:09 am<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=5859&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5859"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=784&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=784&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-21-2010 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=784&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">3</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">399</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">21 Dec 2010 05:54 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2274&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">paction</a> <a href="viewtopic.php?p=5843&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5843"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=785&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=785&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-20-2010 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=785&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">3</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">459</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">21 Dec 2010 07:01 am<br /><a href="profile.php?mode=viewprofile&amp;u=1702&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Carl</a> <a href="viewtopic.php?p=5833&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5833"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=772&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=772&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-17-2010 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=772&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">3</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">474</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">17 Dec 2010 03:28 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2274&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">paction</a> <a href="viewtopic.php?p=5814&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5814"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=773&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=773&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-16-2010 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=773&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">4</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">479</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">17 Dec 2010 02:24 am<br /><a href="profile.php?mode=viewprofile&amp;u=1813&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">dave55</a> <a href="viewtopic.php?p=5807&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5807"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=774&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=774&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-15-2010 Wednesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=774&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">5</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">591</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">15 Dec 2010 07:03 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1738&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">DallasStarsFan</a> <a href="viewtopic.php?p=5798&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5798"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=775&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=775&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-14-2010 Tuesday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=775&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">8</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">730</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">15 Dec 2010 07:00 am<br /><a href="profile.php?mode=viewprofile&amp;u=1451&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Livingfoody</a> <a href="viewtopic.php?p=5787&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5787"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=776&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=776&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-13-2010 Monday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=776&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">3</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">528</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">13 Dec 2010 02:46 pm<br /><a href="profile.php?mode=viewprofile&amp;u=2423&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Jsyn</a> <a href="viewtopic.php?p=5757&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5757"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=765&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=765&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-10-2010 Friday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=765&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">6</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">639</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">13 Dec 2010 04:07 am<br /><a href="profile.php?mode=viewprofile&amp;u=1813&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">dave55</a> <a href="viewtopic.php?p=5747&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5747"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<!-- <tr onclick="window.location.href='viewtopic.php?t=766&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2'" style="cursor: pointer; cursor: hand"> -->
+<!-- temp fix for firefox ctrl click -->
+<tr>
+		<td class="row1" align="center" valign="middle" ><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+		<td class="row1" align="center" valign="middle" width="20"><img width="20" align="middle" src="./templates/BBLite/images/spacer.gif" alt="" border="0"></td>
+		<td class="row1" width="100%"  onMouseOver="this.className='row2'" onMouseOut="this.className='row1'">
+		<span class="topictitle"></span><span class="gensmall"></span><span class="topictitle"><a href="viewtopic.php?t=766&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="topictitle">12-09-2010 Thursday</a></span>&nbsp;<span></span><span class="gensmall">&nbsp;&nbsp;		<br />
+	      </span>
+		<span class="gensmall">
+								</span>
+	</td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails"><a href="postings_popup.php?t=766&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" onclick="NewWindow(this.href,'PopupWin');return false" onfocus="this.blur()"; title="Display number of posts for each poster in this topic">9</a></span></td>
+	<td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a></span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">604</span></td>
+	<td class="row3" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">11 Dec 2010 09:33 am<br /><a href="profile.php?mode=viewprofile&amp;u=16&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">dwt1020</a> <a href="viewtopic.php?p=5738&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2#5738"><img src="templates/BBLite/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+<tr> 
+	<td class="cat" colspan="7" align="center" valign="middle"><span class="genmed">Display topics from previous:&nbsp;<select name="topicdays"><option value="0" selected="selected">All Topics</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;<input type="submit" class="liteoption" value="Go" name="submit" /></span></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="tbl"><tr><td class="tbll"><img src="images/spacer.gif" alt="" width="8" height="4" /></td><td class="tblbot"><img src="images/spacer.gif" alt="" width="8" height="4" /></td><td class="tblr"><img src="images/spacer.gif" alt="" width="8" height="4" /></td></tr></table>
+<br /></form> 
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+<tr>
+<td></td>
+<td class="nav" width="100%">&nbsp;<a href="index.php?sid=2c88f6e9f0131128edded77bf5dfaaa2">Brooks Price Action Forum Index</a> &nbsp;&raquo;&nbsp;<a href="./index.php?c=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="nav">Trading</a>&nbsp;&raquo;&nbsp;<a href="./viewforum.php?f=1&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" class="nav">Trading Updates from Al Brooks</a></td>
+<td nowrap="nowrap" class="nav">Goto page <select name="generate_pagination" onChange="if(this.options[this.selectedIndex].value != -1){ window.location = this.options[this.selectedIndex].value; }"><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=0&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">1</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=50&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">2</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">3</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=150&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">4</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=200&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">5</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=250&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">6</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">7</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">8</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">9</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=450&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">10</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=500&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">11</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=550&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">12</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=600&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">13</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=650&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">14</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=700&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">15</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=750&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">16</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=800&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">17</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=850&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">18</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=900&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">19</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">20</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1000&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">21</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">22</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">23</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1150&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">24</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1200&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">25</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1250&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">26</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">27</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">28</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">29</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1450&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">30</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1500&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">31</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1550&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">32</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1600&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">33</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1650&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">34</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1700&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">35</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1750&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">36</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1800&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">37</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1850&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">38</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1900&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">39</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=1950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">40</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2000&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">41</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">42</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">43</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2150&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">44</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2200&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">45</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2250&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">46</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">47</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">48</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">49</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2450&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">50</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2500&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">51</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2550&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">52</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2600&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">53</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2650&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">54</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2700&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">55</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2750&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">56</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2800&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">57</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2850&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">58</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2900&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">59</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=2950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">60</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3000&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2" selected="selected">61</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">62</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">63</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3150&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">64</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3200&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">65</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3250&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">66</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">67</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">68</option><option value="viewforum.php?f=1&amp;topicdays=0&amp;start=3400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">69</option></select>:  <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=2950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Previous</a>&nbsp;&nbsp;<a href="viewforum.php?f=1&amp;topicdays=0&amp;start=0&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">1</a>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=50&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">2</a>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=100&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">3</a> ... <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=2950&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">60</a>, <b>61</b>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">62</a> ... <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3300&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">67</a>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3350&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">68</a>, <a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3400&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">69</a>&nbsp;&nbsp;<a href="viewforum.php?f=1&amp;topicdays=0&amp;start=3050&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Next</a></td>
+</tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+<tr>
+<td><br /><form method="get" name="jumpbox" action="viewforum.php?sid=2c88f6e9f0131128edded77bf5dfaaa2" onsubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td class="gensmall" nowrap="nowrap">&nbsp;Jump to:&nbsp;</td>
+<td><select name="selected_id" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1"></option><option value="Root">Brooks Price Action Forum Index</option><option value="-1">|</option><option value="c2">|--Trading</option><option value="f1">|&nbsp;&nbsp;&nbsp;|--Trading Updates from Al Brooks</option><option value="f6">|&nbsp;&nbsp;&nbsp;|--Article List</option><option value="f11">|&nbsp;&nbsp;&nbsp;|--Al's Trade Setups</option><option value="f4">|&nbsp;&nbsp;&nbsp;|--New Price Action Trading Strategies</option><option value="f10">|&nbsp;&nbsp;&nbsp;|--Trading Discussions</option><option value="f28">|&nbsp;&nbsp;&nbsp;|--Trading Journals</option><option value="f89">|&nbsp;&nbsp;&nbsp;|--Trading Journals - Private</option><option value="f35">|&nbsp;&nbsp;&nbsp;|--Trading Groups</option><option value="f44">|&nbsp;&nbsp;&nbsp;|--Trading Psychology</option><option value="f36">|&nbsp;&nbsp;&nbsp;|--Trading Platforms</option><option value="f24">|&nbsp;&nbsp;&nbsp;|--Trading en Español</option><option value="f37">|&nbsp;&nbsp;&nbsp;|--Charting Platforms</option><option value="f50">|&nbsp;&nbsp;&nbsp;|--Las Vegas Trader's Expo</option><option value="f7">|&nbsp;&nbsp;&nbsp;|--Trading Lounge</option><option value="-1">|&nbsp;&nbsp;&nbsp;</option><option value="c8">|--Support</option><option value="f120">|&nbsp;&nbsp;&nbsp;|--Brooks Price Action</option><option value="f119">|&nbsp;&nbsp;&nbsp;|--Brooks Trading Course</option><option value="-1">|&nbsp;&nbsp;&nbsp;</option><option value="c3">|--Website Information</option><option value="f12">&nbsp;&nbsp;&nbsp;&nbsp;|--Webinar Discussion</option><option value="f15">&nbsp;&nbsp;&nbsp;&nbsp;|--Kiva Project</option><option value="f9">&nbsp;&nbsp;&nbsp;&nbsp;|--Visitor's Corner</option><option value="f2">&nbsp;&nbsp;&nbsp;&nbsp;|--Recent Changes</option><option value="f3">&nbsp;&nbsp;&nbsp;&nbsp;|--Suggestions, Corrections, and Thanks!</option><option value="f26">&nbsp;&nbsp;&nbsp;&nbsp;|--Arbitration</option><option value="f5">&nbsp;&nbsp;&nbsp;&nbsp;|--Upcoming Events</option><option value="f108">&nbsp;&nbsp;&nbsp;&nbsp;|--Update on Webinar and Al</option></select><input type="hidden" name="sid" value="2c88f6e9f0131128edded77bf5dfaaa2" />&nbsp;</td>
+<td><input type="submit" value="Go" class="catbutton" />
+</td>
+</tr>
+</table>
+</form>
+</td>
+<td class="gensmall" align="right" valign="top"><strong><a href="viewforum.php?f=1&amp;mark=topics&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Mark all topics read</a></strong><br />
+Moderators: <a href="./profile.php?mode=viewprofile&amp;u=2&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">BPAAdmin</a>, <a href="./profile.php?mode=viewprofile&amp;u=3&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">AlBrooks</a>, <a href="./profile.php?mode=viewprofile&amp;u=633&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Pdubbs</a><br />
+Users browsing this forum: None</td>
+</tr>
+</table>
+<br />
+<table width="100%" cellspacing="0" border="0" align="center" cellpadding="0">
+<tr>
+<td valign="top">
+<table border="0" cellspacing="1" cellpadding="0">
+<tr>
+<td><img src="templates/BBLite/images/folder_new.gif" alt="New posts" title="New posts" /></td>
+<td class="gensmall">&nbsp;New posts</td>
+<td>&nbsp;&nbsp;</td>
+<td><img src="templates/BBLite/images/folder.gif" alt="No new posts" title="No new posts" /></td>
+<td class="gensmall">&nbsp;No new posts</td>
+<td>&nbsp;&nbsp;</td>
+<td><img src="templates/BBLite/images/folder_announce.gif" alt="Announcement" title="Announcement" /></td>
+<td class="gensmall">Announcement</td>
+</tr>
+<tr>
+<td><img src="templates/BBLite/images/folder_new_hot.gif" alt="New posts [ Popular ]" title="New posts [ Popular ]" /></td>
+<td class="gensmall">New posts [ Popular ]</td>
+<td>&nbsp;</td>
+<td><img src="templates/BBLite/images/folder_hot.gif" alt="No new posts [ Popular ]" vspace="4" title="No new posts [ Popular ]" /></td>
+<td class="gensmall">No new posts [ Popular ]</td>
+<td>&nbsp;</td>
+<td><img src="templates/BBLite/images/folder_sticky.gif" alt="Sticky" title="Sticky" /></td>
+<td class="gensmall">Sticky</td>
+</tr>
+<tr>
+<td><img src="templates/BBLite/images/folder_lock_new.gif" alt="New posts [ Locked ]" title="New posts [ Locked ]" /></td>
+<td class="gensmall">New posts [ Locked ]</td>
+<td>&nbsp;</td>
+<td><img src="templates/BBLite/images/folder_lock.gif" alt="No new posts [ Locked ]" title="No new posts [ Locked ]" /></td>
+<td class="gensmall">No new posts [ Locked ]</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+</td>
+<td align="right" valign="top"><span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>can</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br />You <b>can</b> report post to moderators in this forum<br />You <b>cannot</b> post calendar events in this forum<br />You <b>cannot</b> attach files in this forum<br />You <b>cannot</b> download files in this forum<br /></span></td>
+</tr>
+</table>
+</td>
+    <td background="templates/BBLite/images/right.gif"><img name="right" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+  </tr>
+  <tr>
+   <td><img name="blc" src="templates/BBLite/images/blc.gif" WIDTH=15 HEIGHT=20 border="0" alt=""></td>
+    <td background="templates/BBLite/images/btm.gif"><img name="btm" src="templates/BBLite/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+   <td><img name="brc" src="templates/BBLite/images/brc.gif" WIDTH=15 HEIGHT=20 border="0" alt=""></td>
+  </tr></table>                    <td width="10"><img src="images/spacer.gif" alt="" width="10" /></td>
+        </tr>
+        <tr>
+          <td colspan ="10">
+<!-- 
+          <div align="center" class="gensmall">https://www.integramod.com/forum/portal.php?page=3
+-->
+          <table border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td><img src="templates/BBLite/images/BBLite-ft_01.gif" width="23" height="188"></td>
+          <td valign="middle" background="templates/BBLite/images/BBLite-ft_lt.gif">
+					<div align="center" class="gensmall">
+          <a href="./mycookies.php" class="menubar">MyCookies Manager</a> &nbsp;:&nbsp; 							<script type="text/javascript">
+<!--
+imup = new Image; imup.src = "images/ftr_images/im_foot.png";
+imdown = new Image; imdown.src = "images/ftr_images/im_foot_over.png";
+phpbbup = new Image; phpbbup.src = "images/ftr_images/phpbb_foot.png";
+phpbbdown = new Image; phpbbdown.src = "images/ftr_images/phpbb_foot_over.png";
+
+function MouseOverRoutine(ButtonName)
+{
+if (ButtonName=="im"){document.im.src = imdown.src;}
+if (ButtonName=="phpbb"){document.phpbb.src = phpbbdown.src;}
+}
+
+function MouseOutRoutine(ButtonName)
+{
+if (ButtonName=="im"){document.im.src = imup.src;}
+if (ButtonName=="phpbb"){document.phpbb.src = phpbbup.src;}
+}
+//-->
+</script>
+<div align="center" class="genmed">
+
+<a href="https://plus.google.com/u/0/112541168737987097203?rel=author" onclick="window.open(this.href,'_blank');return false;" title="Al Brooks Google+">Al Brooks on Google+</a><br>
+
+<!-- Begin Lo-Fi Mod -->
+<!-- 
+<a href="viewforum.php?f=1&topicdays=0&start=3000&lofi=1&amp;sid=2c88f6e9f0131128edded77bf5dfaaa2">Lo-Fi Version</a><br />-->
+<!-- End Lo-Fi Mod -->
+IP Range Scanning for your Account is <b>OFF</b><br />
+
+<!--
+Protected by <a href="http://www.cback.de" target="_blank">CBACK CrackerTracker</a><br /><b>1.61853549053E+231</b> Attacks blocked.<br />
+-->
+
+<div align="center" class="genmed">
+<!--
+	Protected by phpBB Security &copy; <a href="http://phpbb-amod.com" class="copyright" target="_blank">phpBB-Amod</a> ::-->
+
+                    <b>&nbsp;phpBB Security &copy;&nbsp;</b> Has Blocked <b>97</b> Exploit Attempts.<br />
+<table colspan="3" border="0" cellpadding="0" cellspacing="0" valign="top" align="center">
+  <tr>
+   <td align="right" valign="top">
+   <img src="images/ftr_images/c_lcap.png" height="16" width="6" border="0" alt="" />
+   </td>
+	<td style="background: url(images/ftr_images/c_bar.gif); background-repeat: x-repeat;" valign="middle">
+	<a href="https://www.integramod.com/forum/portal.php" onmouseOver="MouseOverRoutine('im')" onmouseOut="MouseOutRoutine('im')"><img src="images/ftr_images/im_foot.png" width="125" height="12" hspace=0 name="im" border="0" alt="" align="top"/></a><span style="font-size: 10px;">&nbsp;</span><img src="images/ftr_images/im_cpyrt.png" width="130" height="12" hspace=0 border="0" alt="@ 2007 The Integra Team" align="top" /></td>
+   <td align="left" valign="top">
+   <img src="images/ftr_images/c_rcap.png" height="16" width="6" border="0" alt="" />
+   </td>           
+  </tr>
+</table>
+<table colspan="3" border="0" cellpadding="0" cellspacing="0" valign="top" align="center">
+  <tr>
+   <td align="right" valign="top">
+   <img src="images/ftr_images/p_lcap.png" height="18" width="6" border="0" alt="" />
+   </td>
+	<td style="background: url(images/ftr_images/p_bar.gif); background-repeat: x-repeat;" valign="middle">
+	<a href="https://www.phpbb.com" onmouseOver="MouseOverRoutine('phpbb')" onmouseOut="MouseOutRoutine('phpbb')"><img src="images/ftr_images/phpbb_foot.png" width="135" height="14" hspace=0 name="phpbb" border="0" alt="" align="absbottom"/></a><span style="color: #066c9f; font-size: 9;">&nbsp;</span><img src="images/ftr_images/phpbb_cpyrt.png" width="143" height="14" hspace=0 border="0" alt="@ 2007 phpBB Group" align="top" /></td>
+   <td align="left" valign="top">
+   <img src="images/ftr_images/p_rcap.png" height="18" width="6" border="0" alt="" />
+   </td>           
+  </tr>
+</table>
+              <div align="center" class="gensmall">
+  [ Style ::Ported by:: Pantera</a> ~ :: BBLite</a> :   All times are GMT - 7 Hours ::]
+              </div>
+              </div>
+          </td>
+          <td>
+<div align="right"><img src="templates/BBLite/images/BBLite-ft_05.gif" width="22" height="188"></div></td>
+        </tr>
+      </table><!--
+We request you retain the full copyright notice below including the link to www.phpbb.com.
+This not only gives respect to the large amount of time given freely by the developers
+but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+reason) retain the full copyright we request you at least leave in place the 
+Powered by phpBB  line, with phpBB linked to www.phpbb.com. If you refuse
+to include even this then support on our forums may be affected. 
+
+The phpBB Group : 2002
+
+You have to retain the 3 links for phpBB, IntegraMOD and forumimages. These conditions are part of the license this software is released under.  Replace forumimages with the link to the theme author if you are going to use another theme.
+
+masterdavid : 2004
+
+// -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<br />
+<center /><img src="templates/BBLite/images/BBLite-ft_08.gif" width="208" height="35" border="0" align="bottom">
+
+<!-- Start add - Complete banner MOD -->
+<!-- Banners -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="20%">
+	 <table width="100%" border="0" cellspacing="2" cellpadding="2">
+                                	</table>
+    </td>
+    <td width="60%">
+	 <table width="100%" border="0" cellspacing="2" cellpadding="2">
+                                	</table>
+    </td>
+    <td width="20%">
+	 <table width="100%" border="0" cellspacing="2" cellpadding="2">
+                                	</table>
+    </td>
+  </tr>
+</table>
+<!-- End Banners -->
+<!-- End add - Complete banner MOD -->
+</body>
+</html>
+<div class="genbig" style="text-align: center;">[Page generation time: 2.7822s (PHP: 63% | SQL: 37%) | SQL queries: 199 | GZIP disabled | Debug off]</div>
