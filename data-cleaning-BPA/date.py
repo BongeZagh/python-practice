@@ -13,7 +13,7 @@ Title,Formatted Date,URL
 
 # 使用正则表达式匹配标题中的日期并进行替换
 pattern = r"(\d{2}-\d{2}-\d{4})"
-data = re.sub(pattern, lambda x: datetime.strptime(x.group(), '%m-%d-%Y').strftime('%Y%m%d'), data)
+data = re.sub(pattern, lambda x: '[[' + datetime.strptime(x.group(), '%m-%d-%Y').strftime('%Y%m%d') + ']]', data)
 
 # 将转换后的日期替换到 Formatted Date 列
 data_lines = data.strip().split('\n')
@@ -24,6 +24,4 @@ for line in data_lines[1:]:
 # 重新组合数据行并打印结果
 data = '\n'.join([','.join(line) for line in data_lines])
 print(data)
-
-
 
