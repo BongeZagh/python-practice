@@ -1,4 +1,3 @@
-
 import os
 import requests
 from bs4 import BeautifulSoup
@@ -20,13 +19,19 @@ links = soup.find_all("a")
 # 遍历每个链接
 for link in links:
     href = link.get("href")
-    # 如果链接以".png"结尾（或其他您想要的文件类型），则下载文件
+    # 如果链接以".png"结尾（或其他您想要的文件类型），则获取文件信息
     if href and href.endswith(".png"):
         full_url = urljoin(base_url, href)
         filename = os.path.basename(full_url)
         
-        # 发送HTTP请求下载文件
-        file_response = requests.get(full_url)
-        with open(filename, "wb") as f:
-            f.write(file_response.content)
-        print(f"Downloaded: {filename}")
+        # 发送HEAD请求获取文件大小
+        head_response = requests.head(full_url)
+        content_length = head_response.headers.get("content-length")
+        
+        # 如果文件大小大于 100KB，下载文件
+        if content_length and int(content_length) > 100 * 1024:  # 100KB = 100 * 1024 bytes
+            file_response = requests.get(full_url)
+            with open(filename, "wb") as f:
+                f.write(file_response.content)
+            print(f"Downloaded: {filename}")
+
