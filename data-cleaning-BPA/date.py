@@ -1,5 +1,6 @@
-import re
+import pandas as pd
 from datetime import datetime
+import io
 
 data = """
 Title,Formatted Date,URL
@@ -11,18 +12,12 @@ Title,Formatted Date,URL
 07-30-2009,[[Invalid Date]],https://www.brookspriceaction.com/viewtopic.php?t=13
 """
 
-# 使用正则表达式匹配标题中的日期并进行转换
-pattern = r"(\d{2}-\d{2}-\d{4})"
-data = re.sub(pattern, lambda x: x.group(), data)  # 保持标题列的原始格式
+# 将数据加载为pandas的DataFrame对象
+df = pd.read_csv(io.StringIO(data))
 
-# 将转换后的日期替换到 Formatted Date 列
-data_lines = data.strip().split('\n')
-data_lines = [line.split(',') for line in data_lines]
-for line in data_lines[1:]:
-    title_date = datetime.strptime(line[0], '%m-%d-%Y').strftime('%Y%m%d')
-    line[1] = line[1].replace('[[invalid date]]', '[[' + title_date + ']]')
+# 将标题中的日期转换并替换到Formatted Date列
+df['Formatted Date'] = df.apply(lambda row: row['Formatted Date'].replace('[[invalid date]]', '[[' + datetime.strptime(row['Title'], '%m-%d-%Y').strftime('%Y%m%d') + ']]'), axis=1)
 
-# 重新组合数据行并打印结果
-data = '\n'.join([','.join(line) for line in data_lines])
-print(data)
+# 打印处理后的DataFrame
+print(df.to_csv(index=False))
 
