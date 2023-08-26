@@ -1,10 +1,10 @@
 from bs4 import BeautifulSoup
 import csv
 from datetime import datetime
-
-# 读取 HTML 文件
-with open('your_input_file.html', 'r', encoding='utf-8') as html_file:
-    data = html_file.read()
+# aug 26 11am, this version is workable for 2011 data
+# 读取 txt 文件
+with open('A.txt', 'r', encoding='utf-8') as txt_file:
+    data = txt_file.read()
 
 # 创建 Beautiful Soup 对象
 soup = BeautifulSoup(data, 'html.parser')
