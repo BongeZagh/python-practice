@@ -1,5 +1,4 @@
 import re
-
 from datetime import datetime
 
 data = """
@@ -16,5 +15,15 @@ Title,Formatted Date,URL
 pattern = r"(\d{2}-\d{2}-\d{4})"
 data = re.sub(pattern, lambda x: datetime.strptime(x.group(), '%m-%d-%Y').strftime('%Y%m%d'), data)
 
-# 打印处理后的数据
+# 将转换后的日期替换到 Formatted Date 列
+data_lines = data.strip().split('\n')
+data_lines = [line.split(',') for line in data_lines]
+for line in data_lines[1:]:
+    line[1] = line[0]  # 将标题中的日期替换到 Formatted Date 列
+
+# 重新组合数据行并打印结果
+data = '\n'.join([','.join(line) for line in data_lines])
 print(data)
+
+
+
