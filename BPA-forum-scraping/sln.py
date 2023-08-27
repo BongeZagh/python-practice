@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 import requests
+import csv
 
 # 使用WebDriverManager来自动下载并管理chromedriver
 driver = webdriver.Chrome(ChromeDriverManager().install())
@@ -23,18 +24,25 @@ try:
     # 等待登录完成
     time.sleep(3)
 
-    # 访问图片页面
-    image_url = "https://www.brookspriceaction.com/album_pic.php?pic_id=582&full=true"
-    driver.get(image_url)
+    # 读取CSV文件
+    with open('2010picid.csv', 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            pic_id = row['pic_id']
+            title = row['Title']
 
-    # 提取图片URL
-    img_element = driver.find_element(By.TAG_NAME, "img")
-    img_src = img_element.get_attribute("src")
+            # 构建图片页面URL
+            image_url = f"https://www.brookspriceaction.com/album_pic.php?pic_id={pic_id}&full=true"
+            driver.get(image_url)
 
-    # 使用requests库下载图片
-    response = requests.get(img_src)
-    with open("image.jpg", "wb") as f:
-        f.write(response.content)
+            # 提取图片URL
+            img_element = driver.find_element(By.TAG_NAME, "img")
+            img_src = img_element.get_attribute("src")
+
+            # 使用requests库下载图片
+            response = requests.get(img_src)
+            with open(f"{title}.jpg", "wb") as f:
+                f.write(response.content)
 
 except Exception as e:
     print("An error occurred:", e)
