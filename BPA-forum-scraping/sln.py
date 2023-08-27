@@ -1,22 +1,11 @@
-
 from selenium import webdriver
-
-
-chromedriver_path = '/Users/zaghyang/chromedriver_mac_arm64'
-
-driver = webdriver.Chrome('/Users/zaghyang/chromedriver_mac_arm64')  # Optional argument, if not specified will search path.
-
 from webdriver_manager.chrome import ChromeDriverManager
-
-# 使用WebDriverManager来自动下载并管理chromedriver
-driver = webdriver.Chrome(ChromeDriverManager().install())
-
-from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import requests
 
-# 初始化浏览器
+# 使用WebDriverManager来自动下载并管理chromedriver
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
 try:
     # 打开网站登录页面
@@ -52,3 +41,4 @@ except Exception as e:
 finally:
     # 关闭浏览器
     driver.quit()
+
