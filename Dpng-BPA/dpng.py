@@ -30,8 +30,18 @@ for link in links:
         
         # 如果文件大小大于 100KB，下载文件
         if content_length and int(content_length) > 100 * 1024:  # 100KB = 100 * 1024 bytes
+            # 下载文件
             file_response = requests.get(full_url)
             with open(filename, "wb") as f:
                 f.write(file_response.content)
             print(f"Downloaded: {filename}")
+            
+            # 获取原始文件的时间戳
+            original_timestamp = os.stat(filename).st_mtime
+            
+            # 获取下载文件的完整路径
+            downloaded_filepath = os.path.join(os.getcwd(), filename)
+            
+            # 将原始时间戳应用到下载的文件上
+            os.utime(downloaded_filepath, (original_timestamp, original_timestamp))
 
