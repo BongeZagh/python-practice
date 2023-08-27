@@ -1,5 +1,6 @@
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 import requests
@@ -12,8 +13,8 @@ try:
     driver.get("https://www.brookspriceaction.com/login.php")
 
     # 输入用户名和密码并提交登录
-    username = driver.find_element_by_name("username")
-    password = driver.find_element_by_name("password")
+    username = driver.find_element(By.NAME, "username")
+    password = driver.find_element(By.NAME, "password")
 
     username.send_keys("Zagh")
     password.send_keys("y6pU6YqGSA!aVYw")
@@ -27,7 +28,7 @@ try:
     driver.get(image_url)
 
     # 提取图片URL
-    img_element = driver.find_element_by_tag_name("img")
+    img_element = driver.find_element(By.TAG_NAME, "img")
     img_src = img_element.get_attribute("src")
 
     # 使用requests库下载图片
