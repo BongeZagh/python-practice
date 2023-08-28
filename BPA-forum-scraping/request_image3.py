@@ -48,7 +48,6 @@ if "logout.php" in response.text:
     print("Login successful")
 else:
     print("Login failed")
-    print(response.text)
     exit()
 
 # 获取网页内容

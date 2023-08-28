@@ -7,3 +7,6 @@
 ./urls.csv this is for ./request_image.py to read, store the pic id data
 
 ./2010picid.csv  cp ./urls.csv to this file type for ./sln.py to read
+
+
+./request_image3.py  you can choose line and execute file with this version.but it will add float number to the pic-id bu it won't effect the selenium download

@@ -4,7 +4,7 @@ import re
 import pandas as pd
 
 # 登录信息
-login_url = "https://www.brookspriceaction.com/login.php?sid=040bbcfe6e0945d2ac521e1208ca3466"
+login_url = "https://www.brookspriceaction.com/login.php"
 username = "Zagh"
 password = "y6pU6YqGSA!aVYw"
 
@@ -25,8 +25,9 @@ url_list = df['URL'].tolist()
 
 # 遍历链接列表
 for url in url_list:
-    response = session.get(url)
-    soup = BeautifulSoup(response.content, 'html.parser')
+    if pd.notna(url):  # Check if the URL is not NaN (not missing)
+        response = session.get(url)
+        soup = BeautifulSoup(response.content, 'html.parser')
     
     # 查找pic_id并打印结果
     a_tags = soup.find_all('a', href=re.compile(r'album_showpage\.php\?pic_id=(\d+)'))
@@ -46,7 +47,6 @@ if "logout.php" in response.text:
     print("Login successful")
 else:
     print("Login failed")
-    print(response.text)
     exit()
 
 url = "https://www.brookspriceaction.com/album_pic.php?pic_id=582&full=true"
