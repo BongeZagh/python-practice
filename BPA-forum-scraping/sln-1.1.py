@@ -6,6 +6,7 @@ import time
 import requests
 import csv
 import os
+# 这个版本是执行特定某一行的数据 
 
 # 使用WebDriverManager来自动下载并管理chromedriver
 driver = webdriver.Chrome(ChromeDriverManager().install())
@@ -26,10 +27,19 @@ try:
     time.sleep(3)
 
     # 读取CSV文件
-    csv_filename = '2015picid.csv'
-    selected_row = int(input("Enter the row number to execute: ")) - 1  # Subtract 1 to match Python's 0-based indexing
+    csv_filename = '2017picid.csv'
     with open(csv_filename, 'r') as csvfile:
         reader = csv.DictReader(csvfile)
+        total_rows = sum(1 for row in reader)
+        selected_row = int(input(f"Enter the row number to execute (1-{total_rows}): ")) - 1
+
+        if selected_row < 0 or selected_row >= total_rows:
+            print("Invalid row number.")
+            exit()
+
+        csvfile.seek(0)  # Reset the CSV file pointer
+        next(reader)  # Skip header row
+
         for idx, row in enumerate(reader):
             if idx != selected_row:
                 continue
@@ -45,7 +55,7 @@ try:
             img_src = img_element.get_attribute("src")
 
             # 创建保存图片的文件夹
-            folder_name = "2015"
+            folder_name = "2017"
             if not os.path.exists(folder_name):
                 os.makedirs(folder_name)
 

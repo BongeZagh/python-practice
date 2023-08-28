@@ -20,11 +20,13 @@ login_data = {
 response = session.post(login_url, data=login_data)
 
 # 读取CSV文件并获取URL列表
-df = pd.read_csv('urls.csv')
+csv_filename = input("Enter the CSV filename: ")
+start_row = int(input("Enter the starting row number: ")) - 1  # Subtract 1 to match Python's 0-based indexing
+df = pd.read_csv(csv_filename)
 url_list = df['URL'].tolist()
 
 # 遍历链接列表
-for url in url_list:
+for idx, url in enumerate(url_list[start_row:], start=start_row):
     response = session.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     
@@ -39,7 +41,7 @@ for url in url_list:
     
     # 将pic_ids写入CSV文件
     df.loc[df['URL'] == url, 'pic_id'] = ', '.join(pic_ids)
-    df.to_csv('urls3.csv', index=False)
+    df.to_csv(csv_filename, index=False)
 
 # 检查登录是否成功
 if "logout.php" in response.text:
@@ -49,14 +51,12 @@ else:
     print(response.text)
     exit()
 
-url = "https://www.brookspriceaction.com/album_pic.php?pic_id=582&full=true"
-
 # 获取网页内容
+url = "https://www.brookspriceaction.com/album_pic.php?pic_id=582&full=true"
 html_doc = requests.get(url).text
 
 # 使用正则表达式提取图片URL
 img_url = re.search(r'<img src="(.*?)"', html_doc).group(1)
 
 print(img_url)
-print(response.text)
 

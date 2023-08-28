@@ -20,7 +20,7 @@ login_data = {
 response = session.post(login_url, data=login_data)
 
 # 读取CSV文件并获取URL列表
-df = pd.read_csv('urls.csv')
+df = pd.read_csv('urls2.csv')
 url_list = df['URL'].tolist()
 
 # 遍历链接列表

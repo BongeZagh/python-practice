@@ -26,7 +26,7 @@ try:
     time.sleep(3)
 
     # 读取CSV文件
-    with open('2015picid.csv', 'r') as csvfile:
+    with open('2017picid.csv', 'r') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             pic_id = row['pic_id']
@@ -41,7 +41,7 @@ try:
             img_src = img_element.get_attribute("src")
 
             # 创建保存图片的文件夹
-            folder_name = "2015"
+            folder_name = "2017"
             if not os.path.exists(folder_name):
                 os.makedirs(folder_name)
 
