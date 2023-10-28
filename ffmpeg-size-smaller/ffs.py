@@ -1,3 +1,4 @@
+# 录屏的时候视频太大了，用这个办法压缩很方便
 import tkinter as tk
 from tkinter import filedialog
 import subprocess
