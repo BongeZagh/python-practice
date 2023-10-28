@@ -2,6 +2,7 @@ extern crate csv;
 
 use std::error::Error;
 use std::fs::File;
+use std::path::Path;
 
 fn main() {
     if let Err(e) = read_csv_file() {
@@ -10,7 +11,9 @@ fn main() {
 }
 
 fn read_csv_file() -> Result<(), Box<dyn Error>> {
-    let file = File::open("2011picid.csv")?;
+    let current_dir = std::env::current_dir()?;
+    let file_path = current_dir.join("2011picid.csv");
+    let file = File::open(&file_path)?;
     let mut reader = csv::Reader::from_reader(file);
 
     for result in reader.records() {

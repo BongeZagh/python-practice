@@ -12,5 +12,6 @@ def read_csv_file(file_name):
         print(f"An error occurred: {str(e)}")
 
 if __name__ == "__main__":
-    file_name = "2010picid.png"  # Replace with the name of your CSV file
+    file_name = "2010picid.csv"  # Replace with the name of your CSV file
     read_csv_file(file_name)
+ 

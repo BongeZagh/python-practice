@@ -1,0 +1,128 @@
+// This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+// © dwrety
+
+//@version=5
+//@version=5
+indicator("Price Action Bar Painter", overlay=true)
+
+ma_src = input(close, title="MA input source", group = "Moving Average")
+length = input(20, title="Lookback Period", group = "Moving Average")
+filterp = input(0, title="Filter %", group = "Moving Average")
+fastEMA = input(2, title="KAMA Fast Length", group = "Moving Average")
+slowEMA = input(30, title="KAMA EMA Length", group = "Moving Average")
+showKama = input(true, title="show KAMA?", group = "Moving Average")
+showEma = input(true, title="show EMA?", group = "Moving Average")
+
+CXFactor = input.float(3.0, minval=1.0, step=0.1, title="Climatic Bar Factor", group = "Price Actions")
+showStrongC = input(false, title="Show Bars with strong closes", group="Price Actions")
+
+// define colors 
+color_green = color.new(#008000, 0)
+color_light_green = color.new(#00FF00, 0)
+color_green_transp = color.new(#008000, 75)
+color_red = color.new(#CC0000, 0)
+color_red_transp = color.new(#CC0000, 75)
+color_blue = color.new(#0080FF, 0)
+color_dark_blue = color.new(#0000FF, 0)
+color_black = color.new(#000000, 0)
+color_orange = color.new(#FF8000, 0)
+color_purple = color.new(#800080, 0)
+color_magenta = color.new(#FF00FF, 0)
+color_cyan = color.new(#00FFFF, 0)
+
+// Kaufman efficient ratio 
+mom = math.abs(ta.change(ma_src, length))
+volatility = math.sum(math.abs(ta.change(ma_src)), length)
+efratio = volatility > 0 ? (mom / volatility) : 0
+fastsc = 2 / (fastEMA + 1)
+slowsc = 2 / (slowEMA + 1)
+
+// Kaufman's adaptive moving average
+alpha = math.pow(efratio * (fastsc-slowsc) + slowsc, 2)
+kama = 0.0
+kama := alpha * ma_src + (1 - alpha) * nz(kama[1], ma_src)
+
+// Always in direction
+filter = filterp / 100 * ta.stdev(kama - nz(kama[1]), length)
+kamalow = 0.0
+kamahigh = 0.0
+kamalow := kama < nz(kama[1]) ? kama : nz(kamalow[1])
+kamahigh := kama > nz(kama[1]) ? kama : nz(kamahigh[1])
+bw = (kama-kamalow) > filter ? 1 : (kamahigh-kama > filter ? -1 : 0)
+s_color = bw > 0 ? color.green : (bw < 0) ? color.red : color.black
+
+ema = ta.ema(ma_src, 20)
+ema220 = ta.ema(ma_src, 220) // 添加 220 EMA
+plot(showKama ? kama : na, title="KAMA", linewidth=1, color=s_color, editable=false)
+plot(showEma ? ema : na, title="EMA", linewidth=1, color=color_dark_blue, editable=false)
+plot(ema220, title="220 EMA", linewidth=1, color=color.orange) // 绘制 220 EMA
+
+bar_intersection(idx) =>
+    intersection = math.max(0, math.min(high, high[idx]) - math.max(low, low[idx]))
+bar_union(idx) => 
+    overlap = math.max(0, math.max(high, high[idx]) - math.min(low, low[idx]))
+
+// bar close strength
+// intra bar strength, strong bull bar >= 85, strong bear bar <= 15
+bar_range = math.max(0, (high - low))
+close_to_low = close - low
+close_to_high = high - close
+ibs = nz((close_to_low / bar_range)) * 100
+strong_bull_close = false
+strong_bear_close = false 
+if ibs > 85
+    strong_bull_close := true
+else if ibs < 15
+    strong_bear_close := true
+
+// special bars
+// Here, equal height bars are inside bars because they dont have any breakout behaviors
+inside_bar = (high <= high[1]) and (low >= low[1])
+outside_bar = (high >= high[1]) and (low <= low[1]) and not inside_bar
+
+// breakout actions
+bull_breakout = high > high[1]
+bear_breakout = low < low[1]
+bull_bar = close > open
+bear_bar = close < open
+doji_bar = close == open 
+
+// outside bar breakout strength
+// strict outside bars are BO attempts both above and below bar 
+// 1. If the bull breakout is larger than the bear breakout, it's bullish and vise versa.
+// 
+// 2. If BLBO == BRBO, look at the IBS to determine bar direction. If IBS == 50, then it's a perfect doji bar and neutral.
+outside_bar_bull = false
+outside_bar_bear = false
+perfect_doji = false
+if (outside_bar)
+    if (high - high[1] > low[1] - low)
+        outside_bar_bull := true
+    else if ((high - high[1]) < (low[1] - low)) 
+        outside_bar_bear := true
+    else 
+        if (ibs > 50)
+            outside_bar_bull := true 
+        else if (ibs < 50)
+            outside_bar_bear := true 
+        else 
+            perfect_doji := true 
+
+// outside_bar_bull = (outside_bar and (high - high[1]) >= (low[1] - low) and (high - high[1] <= bar_range[1]) and (low[1] - low <= bar_range[1])) or (outside_bar and close > open and ((high - high[1] > bar_range[1]) or (low[1] - low > bar_range[1])))
+// outside_bar_bear = (outside_bar and (high - high[1]) < (low[1] - low) and (high - high[1] <= bar_range[1]) and (low[1] - low <= bar_range[1])) or (outside_bar and close < open and ((high - high[1] > bar_range[1]) or (low[1] - low > bar_range[1])))
+
+// climatic bars in micro channel often leads to pause or PBs (bull case for example)
+// 1. need 3 bars at least, no bear BO below bars, inside bars are not allowed
+// 2. the last bar has a BO that overshoots the channel line
+bull_climax_bar = not inside_bar[1] and not outside_bar and (low >= low[1] and low[1] >= low[2]) and bull_breakout and (high - high[1] > CXFactor * (low - low[1]))
+bear_climax_bar = not inside_bar[1] and not outside_bar and (high <= high[1] and high[1] <= high[2]) and bear_breakout and (low[1] - low > CXFactor * (high[1] - high))
+// plotchar(bull_climax_bar, char="⋙", location = location.abovebar, color=color.new(#008000, 0), size=size.auto, editable = false)
+// plotchar(bear_climax_bar, char="⋘", location = location.belowbar, color=color.new(#800080, 0), size=size.auto, editable = false)
+color.white color.white 
+body_color = bull_bar ? color.white : outside_bar ? (outside_bar_bull ? color_green : outside_bar_bear ? color_orange: na) : (bull_breakout ? (bull_climax_bar ? color_cyan : color_blue) : bear_breakout ? (bear_climax_bar ? color_magenta : color_red) : color_black)
+
+wick_color = outside_bar ? (outside_bar_bull ? color_green : outside_bar_bear ? color_orange : color_purple) : bull_breakout ? (bull_climax_bar? color_cyan : color_blue) : bear_breakout ? (bear_climax_bar ? color_magenta : color_red) : color_black
+plotcandle(open, high, low, close, title='BPA Bars', color = body_color, wickcolor=wick_color, bordercolor=wick_color, editable=false)
+
+plotshape(showStrongC and strong_bull_close, location=location.abovebar, style=shape.triangleup, color=color_green_transp, size=size.auto, editable=false)
+plotshape(showStrongC and strong_bear_close, location=location.belowbar, style=shape.triangledown, color=color_red_transp, size=size.auto, editable=false)
