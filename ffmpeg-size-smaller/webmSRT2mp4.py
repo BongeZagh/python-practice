@@ -14,7 +14,7 @@ def merge_and_convert():
     
     # 加载视频和字幕
     video_clip = VideoFileClip(video_file)
-    subtitle_clip = TextClip(subtitle_file, fontsize=20, color='white').set_position(('center', 'bottom')).set_duration(video_clip.duration)
+    subtitle_clip = TextClip.from_srt(subtitle_file, fontsize=20, color='white').set_position(('center', 'bottom')).set_duration(video_clip.duration)
     
     # 合并视频和字幕
     final_clip = CompositeVideoClip([video_clip, subtitle_clip])
