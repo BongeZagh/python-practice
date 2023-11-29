@@ -1,4 +1,3 @@
-## works great only problem is wait too long on some link
 import csv
 import requests
 from bs4 import BeautifulSoup
@@ -6,14 +5,14 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import TimeoutException
 from webdriver_manager.chrome import ChromeDriverManager
 
 csv_file = 'input.csv'
 output_file = 'output.csv'
+timeout = 10  # Timeout in seconds
 
 # Set up Selenium WebDriver
-
-# 使用WebDriverManager来自动下载并管理chromedriver
 driver = webdriver.Chrome(ChromeDriverManager().install())
 
 # Get total number of rows in the CSV file
@@ -36,12 +35,17 @@ with open(csv_file, 'r') as f:
         url = row[0]
 
         try:
+            driver.set_page_load_timeout(timeout)
             driver.get(url)
             status = 'Success'
             soup = BeautifulSoup(driver.page_source, 'html.parser')
-            keywords = ['manufacturing', 'PCB','components','component','assembly']
+            keywords = ['manufacturing', 'PCB', 'components', 'component', 'assembly']
             keyword_found = any(keyword in soup.get_text() for keyword in keywords)
             error_reason = ''  # Initialize error reason as empty
+        except TimeoutException:
+            status = 'Error'
+            keyword_found = False
+            error_reason = 'Timeout'
         except Exception as e:
             status = 'Error'
             keyword_found = False
@@ -60,3 +64,4 @@ with open(csv_file, 'r') as f:
 driver.quit()
 
 print("Detection completed. The results have been saved to output.csv file.")
+
