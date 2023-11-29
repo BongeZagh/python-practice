@@ -1,0 +1,886 @@
+URL,Status,Keyword Found,Error Reason
+http://www.2e-mechatronic.de,Success,False,
+http://www.3com.com/,Success,False,
+http://www.nvidia.com/,Success,False,
+http://www.3lcoil.com/,Success,True,
+http://www.3m.com/,Success,True,
+www.3peakic.com.cn,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.3rlab.com/,Success,False,
+http://www.3ware.com/,Success,False,
+http://www.3ypower.com/,Success,False,
+http://www.4dsystems.com.au/,Success,False,
+www.aosmd.com/,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.a1semi.com,Success,True,
+http://www.8681.tradebig.com/,Success,False,
+http://www.aaeon.com/,Success,True,
+http://www.aaicorp.com/,Success,False,
+http://www.aakcorp.com/,Success,False,
+http://www.aamsi.com/,Success,True,
+http://www.aavidthermalloy.com/,Success,True,
+https://global.abb/group/en,Success,False,
+https://new.abb.com/low-voltage/products/wire-cable-management/wiring-duct-trunking,Success,False,
+http://www.abbatron.com/,Success,True,
+http://www.abbott-tech.com/,Success,False,
+http://www.abb.com/semiconductors,Success,False,
+http://www.abco.co.kr,Success,False,
+http://www.ttabconnectors.com/,Success,False,
+http://www.abctwn.com.tw/eng51.htm,Success,True,
+http://www.all-best.com.tw/html/index.asp,Success,False,
+http://www.abelconn.com/,Success,True,
+http://www.abelektronik.com/home.html,Success,False,
+www.abilis.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+https://www.ablic.com/en/semicon/,Success,True,
+https://www.ablic.com/,Success,True,
+ttps://www.abov.co.kr/en/main.php,Success,True,
+http://www.abracon.com/,Success,True,
+http://www.advancedbattery.ca/,Success,False,
+http://www.zoominfo.com/c/ab-semicon-ltd./98713,Success,False,
+http://www.absolutebattery.co.uk/,Success,False,
+http://www.acard.com/english/home.jsp,Success,False,
+http://www.acbel.com/,Success,False,
+http://www.americancapacitor.com/,Success,True,
+http://www.accmicro.com/,Success,False,
+http://www.acco.com/,Success,False,
+http://www.accton.com/,Success,False,
+http://www.acculex.com/,Success,True,
+http://www.acculogic.com/,Success,True,
+http://www.accutekmicro.com/,Success,False,
+http://www.acer.ca/,Success,False,
+http://www.advancedcomponents.com/,Success,True,
+http://www.aclstaticide.com/01/index.html,Success,True,
+http://www.acmeindustrial.com/,Success,True,
+http://www.acon.com/wps/wcm/connect/en/home/index.htm,Success,False,
+http://www.acopian.com/,Success,True,
+http://www.acptechnologies.com/,Success,True,
+http://acrian.com/,Success,False,
+http://www.acromag.com/index.cfm,Success,True,
+http://www.acrosser.com/,Success,False,
+http://www.honeywell.com/sites/acs/,Success,False,
+http://www.act1.com/home/index.php,Success,True,
+http://www.actel.com/,Success,True,
+www.actions-micro.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.actiontec.com/,Success,False,
+http://www.sst.com/,Success,False,
+http://www.actronixinc.com/,Success,False,
+http://www.actron.com/,Success,False,
+http://www.powersupplies.net/default.asp,Success,False,
+http://www.acxc.com.tw/,Success,False,
+www.adata.com.cn,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://adagecomponents.com/,Success,True,
+http://www.adam-tech.com/,Success,True,
+http://www.adam-tech.com/,Success,True,
+http://www.adaptec.com/,Success,False,
+www.adata.com.cn,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.adc.com/,Success,True,
+http://www.adco.ca/,Success,False,
+http://www.addausa.com/,Success,False,
+http://www.addtronics.com/,Success,True,
+http://adestotech.com,Success,False,
+http://www.adeunis-rf.com,Success,False,
+http://www.analog.com/,Success,False,
+http://www.quantum.com/,Success,False,
+http://www.adsi-fm.com/,Success,False,
+http://www.fenghua-advanced.com/,Success,False,
+http://www.advancechip.com/,Success,False,
+www.advanced.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.advantagememory.com/,Success,False,
+http://www.advantech.com/,Success,False,
+http://www.actcrystals.com/,Success,False,
+http://www.advanced-monolithic.com/,Success,True,
+http://www.philips.com/,Success,False,
+http://www.aeccrystal.com/,Success,True,
+https://www.aegps.com/,Success,True,
+http://no website,Error,False,"Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a0888d chromedriver + 407693
+3   chromedriver                        0x0000000100a00928 chromedriver + 375080
+4   chromedriver                        0x00000001009ef0c9 chromedriver + 303305
+5   chromedriver                        0x00000001009f07e6 chromedriver + 309222
+6   chromedriver                        0x00000001009ef497 chromedriver + 304279
+7   chromedriver                        0x00000001009ee208 chromedriver + 299528
+8   chromedriver                        0x00000001009ee1ad chromedriver + 299437
+9   chromedriver                        0x00000001009eca24 chromedriver + 293412
+10  chromedriver                        0x00000001009ecf6a chromedriver + 294762
+11  chromedriver                        0x0000000100a0b70e chromedriver + 419598
+12  chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+13  chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+14  chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+15  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+16  chromedriver                        0x0000000100a49143 chromedriver + 672067
+17  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+18  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+19  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+20  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+21  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+22  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+23  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+24  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+25  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+26  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+27  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.vishay.com/,Success,True,
+http://www.aelcrystals.co.uk/,Success,True,
+http://www.ael.ca/vendors.php,Success,False,
+http://www.aem-usa.com/,Success,True,
+http://www.aeneon.com/,Success,False,
+http://www.aepvalvebox.com/,Success,False,
+http://www.aerocommthailand.com/,Success,False,
+http://www.aero-electric.com/,Success,True,
+http://www.aeroflex.com/,Success,True,
+http://www.aeroflex.com/ams/metelics/micro-metelics-prods.cfm,Error,False,"Message: timeout: Timed out receiving message from renderer: 296.135
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a0888d chromedriver + 407693
+3   chromedriver                        0x00000001009ee2e6 chromedriver + 299750
+4   chromedriver                        0x00000001009ee1ad chromedriver + 299437
+5   chromedriver                        0x00000001009eca24 chromedriver + 293412
+6   chromedriver                        0x00000001009ed0d9 chromedriver + 295129
+7   chromedriver                        0x00000001009fdcac chromedriver + 363692
+8   chromedriver                        0x0000000100a16058 chromedriver + 462936
+9   chromedriver                        0x0000000100a1c08b chromedriver + 487563
+10  chromedriver                        0x00000001009ed920 chromedriver + 297248
+11  chromedriver                        0x0000000100a15e95 chromedriver + 462485
+12  chromedriver                        0x0000000100a9ab97 chromedriver + 1006487
+13  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+14  chromedriver                        0x0000000100a49143 chromedriver + 672067
+15  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+16  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+17  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+18  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+19  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+20  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+21  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+22  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+23  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+24  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+25  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.airco-international.com/,Success,False,
+http://www.aerospaceonline.com/doc/aerospace-rivet-manufacturers-corp-0001,Success,False,
+http://www.aerotekmfg.com/,Success,True,
+http://www.aerovox.com/,Success,False,
+http://www.aesp.com/,Success,False,
+http://www.afcap.co.za/,Success,False,
+http://www.afcon.org/about.html,Success,False,
+http://www.b2bmit.com/showroom-9008992.htm,Success,True,
+http://www.aftech-intl.com/,Success,False,
+http://relays.tycoelectronics.com/agastat.asp,Success,True,
+http://www.lsi.com/,Success,False,
+http://www.home.agilent.com/agilent/home.jspx?cc=us&lc=eng&cmpid=4533,Success,False,
+http://www.jdsu.com/,Success,False,
+http://www.aha.com/,Success,False,
+http://www.a-head.com.tw/,Success,False,
+http://www.ahg.fr/siteahg_web/uk/index.awp,Success,False,
+https://hanrun.dzsc.com/,Success,False,
+http://www.ahsltd.com/,Success,False,
+http://www.ai-thinker.com/,Success,False,
+http://www.advanced.com/,Success,True,
+http://www.aidelect.com/default.html,Success,False,
+http://www.aimelectronics.com/,Success,True,
+http://www.aimtec.com/,Success,False,
+http://www.aimtroncorporation.com/,Success,False,
+http://www.amphenol-aipc.com/,Success,False,
+http://www.airborn.com/,Success,False,
+http://www.airbus.com/,Success,False,
+http://airfasco.com/index.php,Success,True,
+http://www.okinternational.com/,Success,True,
+http://www.airindustriesgroup.com/subsidiaries/air-industries-machining-corp/,Success,False,
+http://www.airlinktransformers.com/,Success,True,
+http://www.airoha.com.tw,Success,False,
+http://www.ai-tek.us/passive-speed-sensors.php,Success,False,
+http://www.aiphone.com/,Success,False,
+Aishi.us,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+www.ait-ic.com ,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.aitech.com/,Success,False,
+http://www.ajile.com/,Success,False,
+http://www.akaneohm.com/,Success,False,
+http://www.akm.com/,Success,False,
+http://www.ak2power.com/,Success,False,
+http://www.akm.com/,Success,False,
+http://www.akro-mils.com/,Success,False,
+http://www.alacritech.com/,Success,True,
+http://www.albacom.co.uk/web/site/microwave/micro_index.asp,Success,False,
+http://www.albacom.co.uk/web/site/power/pow_index.asp,Success,False,
+http://www.albatron.com.tw/,Success,False,
+http://www.alcatel-lucent.com/wps/portal,Success,False,
+http://www.alcormicro.com,Success,False,
+http://www.te.com/,Success,True,
+http://www.aldinc.com/,Success,True,
+http://www.alfalight.com/,Success,True,
+https://www.alfatronix.com/,Success,True,
+http://www.algoodwell.com/,Success,False,
+http://www.ali.com.tw/,Success,False,
+www.alinx.com/en,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+allsensors.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.asiacom.cn,Success,False,
+http://www.allanaircraft.com/,Success,True,
+http://www.amslink.com/allayer2/company.html,Success,False,
+http://www.allegromicro.com/en/,Success,False,
+http://www.ab.com/,Success,True,
+http://www.allfastinc.com/,Success,False,
+http://www.alliancememory.com/,Success,False,
+http://www.alsc.com/,Success,False,
+https://www.alliedcomponents.com/,Success,False,
+http://www.alliedcontrols.com/,Success,False,
+http://honeywell.com/pages/home.aspx,Success,False,
+http://www.alliedtelesyn.com/,Success,False,
+https://www.all-sun.com/,Success,False,
+https://www.moreopp.com/company-details-44/12108815.html,Success,False,
+https://www.allwinnertech.com/,Success,False,
+www.allwinnertech.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.almag.com/,Success,True,
+http://alnanico.en.busytrade.com/,Success,False,
+https://www.alpha3manufacturing.com/,Success,True,
+http://www.alpha-elec.co.jp/e_index.html,Success,False,
+http://alpha-ind.com/,Success,False,
+http://www.alpha-microelectronics.de/,Success,True,
+http://www.alpha-products.com/,Success,False,
+http://www.exar.com/,Success,False,
+http://www.alphawire.com/,Success,False,
+https://www.alpsalpine.com/e/,Success,False,
+http://www.alps.com/,Success,False,
+http://www.alta-robbins.com/,Success,False,
+www.altadt.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.altair.com/default.aspx,Success,False,
+http://www.altech-group.com/ats_aboutus.htm,Success,False,
+http://www.altera.com/,Success,True,
+http://www.alternateconnect.com,Success,False,
+http://www.broadcom.com/,Success,False,
+http://www.altronix.com/,Success,False,
+http://www.alux-luxar.de,Success,False,
+http://www.amatom.com/,Success,True,
+http://www.amazingic.com/,Success,True,
+www.ambarella.com.tw,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://ambercaps.com/,Success,True,
+http://www.amcc.com/,Success,False,
+http://www.amco.com.tw/index.html,Success,False,
+http://www.amd.com/us-en/,Success,False,
+http://www.advancedmicro.com/flash/home.html,Success,False,
+http://www.amelco.com/,Success,False,
+http://www.americanbrightled.com/,Success,True,
+http://www.aecsensors.com/,Success,True,
+http://www.americanlock.com/,Success,False,
+http://www.apiams.com/api/apimain.html,Error,False,"Message: timeout: Timed out receiving message from renderer: -910.934
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a0888d chromedriver + 407693
+3   chromedriver                        0x00000001009ee2e6 chromedriver + 299750
+4   chromedriver                        0x00000001009ee1ad chromedriver + 299437
+5   chromedriver                        0x00000001009eca24 chromedriver + 293412
+6   chromedriver                        0x00000001009ed0d9 chromedriver + 295129
+7   chromedriver                        0x00000001009fdcac chromedriver + 363692
+8   chromedriver                        0x0000000100a16058 chromedriver + 462936
+9   chromedriver                        0x0000000100a1c08b chromedriver + 487563
+10  chromedriver                        0x00000001009ed920 chromedriver + 297248
+11  chromedriver                        0x0000000100a15e95 chromedriver + 462485
+12  chromedriver                        0x0000000100a9ab97 chromedriver + 1006487
+13  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+14  chromedriver                        0x0000000100a49143 chromedriver + 672067
+15  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+16  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+17  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+18  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+19  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+20  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+21  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+22  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+23  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+24  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+25  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.ametek.com/,Success,True,
+http://www.ametherm.com/,Error,False,"Message: unknown error: net::ERR_TUNNEL_CONNECTION_FAILED
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a0888d chromedriver + 407693
+3   chromedriver                        0x0000000100a00928 chromedriver + 375080
+4   chromedriver                        0x00000001009ef0c9 chromedriver + 303305
+5   chromedriver                        0x00000001009f07e6 chromedriver + 309222
+6   chromedriver                        0x00000001009ef497 chromedriver + 304279
+7   chromedriver                        0x00000001009ee208 chromedriver + 299528
+8   chromedriver                        0x00000001009ee1ad chromedriver + 299437
+9   chromedriver                        0x00000001009eca24 chromedriver + 293412
+10  chromedriver                        0x00000001009ecf6a chromedriver + 294762
+11  chromedriver                        0x0000000100a0b70e chromedriver + 419598
+12  chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+13  chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+14  chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+15  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+16  chromedriver                        0x0000000100a49143 chromedriver + 672067
+17  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+18  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+19  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+20  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+21  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+22  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+23  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+24  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+25  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+26  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+27  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.onsemi.com/,Success,False,
+http://www.amictechnology.com/,Success,False,
+http://www.amkor.com/,Success,False,
+http:////www.amotech.co.kr/eng/,Success,False,
+http://www.tycoelectronics.com/components/,Success,False,
+http://www.ampal-inc.com/,Success,False,
+http://www.atlbattery.com/about/en/about-1.htm,Success,False,
+http://www.amperite.com/,Success,False,
+http://www.ampex.com/,Success,False,
+http://www.amphenol.com/,Success,True,
+http://www.amphenol-aerospace.com/,Success,True,
+http://www.fci.com/,Success,True,
+http://www.amphenol-sine.com/     ,Success,False,
+http://www.amphenolrf.com/,Success,True,
+http://www.amphenol.info/en/index.shtml,Success,False,
+http://www.amphus.com/,Success,True,
+http://www.ampire.com.tw/eng_web/index_en.htm,Success,False,
+http://www.amplitronix.com/,Success,False,
+http://www.adlinktech.com/ampro/home.html,Success,False,
+http://www.amprobe.com/,Success,False,
+http://www.ams2000.com/,Success,False,
+http://www.amtouch.com.tw/,Success,False,
+http://www.amtek-semi.com/en/,Success,True,
+http://www.am-transformers.com/,Success,True,
+http://www.amveco.com/,Success,False,
+http://www.amwei.com/,Success,True,
+http://www.azettler.com/fileadmin/templates/home.php,Success,False,
+http://www.diodes.com/,Success,False,
+http://www.anadigics.com/,Success,False,
+http://www.anadigm.com/,Success,False,
+http://www.analog.com.tw/index.asp?lang=en&,Success,False,
+http://www.analogpowerinc.com/,Success,True,
+https://www.analog.com/,Success,False,
+http://www.analogictech.com/,Success,False,
+http://www.analogue-micro.com/,Success,True,
+http://www.anaren.com/,Success,True,
+http://www.anaren.com/,Success,True,
+http://www.anasemi.com/,Success,False,
+http://www.purdyelectronics.com/products/displays/default.cfm,Success,True,
+http://www.andersonselectronics.com/,Success,False,
+http://www.andigilog.com/,Success,False,
+www.andonelect.com ,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a086bd chromedriver + 407229
+3   chromedriver                        0x00000001009eeb16 chromedriver + 301846
+4   chromedriver                        0x00000001009ec9b6 chromedriver + 293302
+5   chromedriver                        0x00000001009ecf6a chromedriver + 294762
+6   chromedriver                        0x0000000100a0b70e chromedriver + 419598
+7   chromedriver                        0x0000000100a9b165 chromedriver + 1007973
+8   chromedriver                        0x0000000100a7eca2 chromedriver + 892066
+9   chromedriver                        0x0000000100a9ab2b chromedriver + 1006379
+10  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+11  chromedriver                        0x0000000100a49143 chromedriver + 672067
+12  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+13  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+14  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+15  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+16  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+17  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+18  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+20  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.purdyelectronics.com/products/opto/default.cfm,Success,True,
+http://www.angelica.com/,Success,False,
+http://www.vishay.com/company/brands/angstrohm/,Success,True,
+http://www.angus.com/,Success,True,
+http://www.anilloinc.com/,Success,False,
+http://www.anpec.com.tw/,Success,True,
+http://www.anritsu.com/,Success,True,
+http://www.ansellpro.com/,Success,False,
+http://www.yes-lcd.com/comcontent_detail/&i=4&comcontentid=4.html,Success,False,
+http://www.antaya.com/,Success,False,
+http://www.antec.com/,Success,True,
+https://www.antenova.com/,Success,True,
+http://www.aoctech.com/,Success,False,
+http://www.ii-vi.com/business_units/aofr.html,Success,False,
+http://www.allproducts.com/manufacture1/aohm/,Success,False,
+http://www.aopen.com/eu/products,Success,False,
+http://www.aosmd.com/,Success,False,
+http://www.aot.com.tw/,Success,False,
+http://www.aoyue.com/en,Success,False,
+http://www.apacoe.com.tw/apac/,Success,False,
+http://www.apc-plc.co.uk/,Success,False,
+http://www.apd.com.tw/,Success,False,
+http://www.a-power.com.tw,Success,False,
+http://www.apem.com/,Success,True,
+http://www.apertonet.com/,Success,False,
+http://apex.cirrus.com/en/,Success,False,
+http://www.advancedphotonix.com/,Success,False,
+http://www.delevan.com/,Success,False,
+http://aplus.osielectronics.com/,Success,True,
+http://www.apem.com/,Success,True,
+http://www.apmhexseal.com/,Success,True,
+http://www.apollodisplays.com/,Success,True,
+http://www.apolloelectronics.com/,Success,True,
+http://www.apc.com/,Success,False,
+http://www.andersonpower.com/,Success,True,
+http://www.appliedin.com/,Success,False,
+http://www.applied-optronics.com/,Success,False,
+http://www.appointech.com/,Success,False,
+http://www.ap-products.com/,Success,False,
+http://www.apricorn.com/,Success,True,
+http://www.automatedproduction.com/,Success,False,
+http://www.advpowertech.com/,Success,False,
+http://www.aptagroup.com/,Success,True,
+http://www.braider.com/about/,Success,False,
+http://www.arcoswitch.com/,Success,False,
+http://www.arco-electronics.com/,Success,False,
+http://www.arcol.co.uk/,Success,False,
+http://www.arcotronics.com/cms/index.php,Success,False,
+http://www.arc-tronics.com/,Error,False,"Message: timeout: Timed out receiving message from renderer: 280.212
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a0888d chromedriver + 407693
+3   chromedriver                        0x00000001009ee2e6 chromedriver + 299750
+4   chromedriver                        0x00000001009ee1ad chromedriver + 299437
+5   chromedriver                        0x00000001009eca24 chromedriver + 293412
+6   chromedriver                        0x00000001009ed0d9 chromedriver + 295129
+7   chromedriver                        0x00000001009fdcac chromedriver + 363692
+8   chromedriver                        0x0000000100a16058 chromedriver + 462936
+9   chromedriver                        0x0000000100a1c08b chromedriver + 487563
+10  chromedriver                        0x00000001009ed920 chromedriver + 297248
+11  chromedriver                        0x0000000100a15e95 chromedriver + 462485
+12  chromedriver                        0x0000000100a9ab97 chromedriver + 1006487
+13  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+14  chromedriver                        0x0000000100a49143 chromedriver + 672067
+15  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+16  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+17  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+18  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+19  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+20  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+21  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+22  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+23  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+24  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+25  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.arieselec.com/,Success,True,
+http://www.ario.com.tw/,Success,False,
+http://www.arktwn.com.tw/,Success,True,
+http://www.arkmicro.com/en/index.htm,Success,False,
+https://www.arlonemd.com/,Success,False,
+http://www.arm.com/,Success,False,
+http://www.arnold.af.mil/,Success,False,
+http://pewa.panasonic.com/,Success,False,
+http://www.arrayconnector.com/,Error,False,"Message: timeout: Timed out receiving message from renderer: -1005.997
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000100e37d28 chromedriver + 4795688
+1   chromedriver                        0x0000000100e2f2b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100a0888d chromedriver + 407693
+3   chromedriver                        0x00000001009ee2e6 chromedriver + 299750
+4   chromedriver                        0x00000001009ee1ad chromedriver + 299437
+5   chromedriver                        0x00000001009eca24 chromedriver + 293412
+6   chromedriver                        0x00000001009ed0d9 chromedriver + 295129
+7   chromedriver                        0x00000001009fdcac chromedriver + 363692
+8   chromedriver                        0x0000000100a16058 chromedriver + 462936
+9   chromedriver                        0x0000000100a1c08b chromedriver + 487563
+10  chromedriver                        0x00000001009ed920 chromedriver + 297248
+11  chromedriver                        0x0000000100a15e95 chromedriver + 462485
+12  chromedriver                        0x0000000100a9ab97 chromedriver + 1006487
+13  chromedriver                        0x0000000100a7ea73 chromedriver + 891507
+14  chromedriver                        0x0000000100a49143 chromedriver + 672067
+15  chromedriver                        0x0000000100a4a31e chromedriver + 676638
+16  chromedriver                        0x0000000100df8795 chromedriver + 4536213
+17  chromedriver                        0x0000000100dfd853 chromedriver + 4556883
+18  chromedriver                        0x0000000100dde001 chromedriver + 4427777
+19  chromedriver                        0x0000000100dfe59d chromedriver + 4560285
+20  chromedriver                        0x0000000100dcf48c chromedriver + 4367500
+21  chromedriver                        0x0000000100e1e0e8 chromedriver + 4690152
+22  chromedriver                        0x0000000100e1e29e chromedriver + 4690590
+23  chromedriver                        0x0000000100e2eeee chromedriver + 4759278
+24  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+25  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.eaton.com/,Success,False,
+http://www.artery2000.com/,Success,False,
+http://www.powerconversion.com/,Success,True,
+http://www.arthur-yang.com.tw/,Success,False,
+http://www.arm.com/,Success,False,
+http://www.artisancontrols.com/,Success,False,
+http://www.artisoft.net/,Success,False,
