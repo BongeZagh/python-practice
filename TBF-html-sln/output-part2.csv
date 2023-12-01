@@ -1,0 +1,1376 @@
+URL,Status,Keyword Found,Error Reason
+http://www.bhelectronics.com/,Error,False,Timeout
+http://www.bitechnologies.com/,Error,False,Timeout
+http://www.bicron.com/,Success,False,
+https://www.binder-connector.co.uk/,Error,False,Timeout
+http://www.biofit.com/,Error,False,Timeout
+http://www.bipolar.com.tw/,Error,False,Timeout
+http://www.birtcherproducts.com/,Error,False,Timeout
+http://www.bishopelectronics.com,Success,True,
+http://www.bitek.com/,Error,False,Timeout
+http://www.bitronhvacsystems.com,Error,False,Timeout
+http://www.bivar.com/,Error,False,Timeout
+http://www.microsemi.com/,Error,False,Timeout
+http://bkprecision.com/,Success,False,
+www.belling.com.cn,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.blackbox.com/,Error,False,Timeout
+http://www.bnlconnectors.com/about.html,Success,True,
+http://www.bliley.com/,Error,False,Timeout
+http://www.blockmaster.com/,Error,False,Timeout
+http://www.blpcomp.com/,Success,False,
+http://www.blsmagnet.com/en/,Error,False,Timeout
+http://www.bluechip.no/,Success,False,
+http://www.blueskyresearch.com/,Error,False,Timeout
+http://www.b-s-electric.com/,Success,False,
+http://www.hobart-electronics.com/,Error,False,Timeout
+http://www.boeing.com/,Success,False,
+https://www.boe.com/en/about/gsjs/,Error,False,Timeout
+http://www.bogen.com/,Error,False,Timeout
+http://www.bokers.com/,Error,False,Timeout
+http://www.bollhoff.com/web/usa/en/web.nsf/html/index_us.html,Success,False,
+http://www.bolymin.com.tw/,Success,False,
+http://www.bomarcrystal.com/,Success,False,
+http://www.bomarinterconnect.com/,Success,False,
+http://www.bombardier.com/en/home.html,Error,False,Timeout
+http://www.bona.com/,Error,False,Timeout
+http://www.bonafide.com.hk/,Success,False,
+http://www.bondhus.com/,Error,False,Timeout
+www.bookham.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.bopla.de/en/home.html,Error,False,Timeout
+www.bordison.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://bosanhitech.com/,Success,False,
+http://www.boschrexroth.ca/country_units/america/canada/en/index.jsp,Error,False,Timeout
+http://www.boser.com.tw/,Success,False,
+http://www.bostonlasers.com/,Error,False,Timeout
+http://www.bothhandusa.com/,Error,False,Timeout
+http://www.boundless.com/,Error,False,Timeout
+http://www.bourns.com/,Error,False,Timeout
+https://www.boydcorp.com,Error,False,Timeout
+http://www.bpsemi.com/cn/,Error,False,Timeout
+www.bpsemi.com/cn/ ,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.bradycanada.ca,Error,False,Timeout
+http://www.woodhead.com/,Error,False,Timeout
+http://www.bradycorp.com/,Error,False,Timeout
+http://www.alvarion.com/products-page/wireless-broadband/breezenet/,Success,False,
+http://www.brentek.com/,Error,False,Timeout
+http://www.bridgelux.com,Success,False,
+www.brtled.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.relay.com.tw/about.html,Success,False,
+http://www.brightled.co.kr/,Success,False,
+http://www.bvled.com.tw/,Error,False,Timeout
+http://www.bristol-industries.com/,Error,False,Timeout
+http://www.broadcom.com/,Error,False,Timeout
+http://www.broadlake.com.tw/profile.html,Error,False,Timeout
+http://www.brocade.com/,Success,False,
+http://www.conexant.com/,Success,False,
+http://www.brother-usa.com/,Error,False,Timeout
+http://www.bs-technics.com/nl,Error,False,Timeout
+http://www.bsi.com.tw/,Success,False,
+http://www.btcpower.com/,Error,False,Timeout
+http://www.tycoelectronics.com/,Error,False,Timeout
+http://www.budind.com/,Error,False,Timeout
+http://www.buehler.com/,Error,False,Timeout
+http://www.bujeon.com/,Success,False,
+http://www.bulgin.co.uk/,Error,False,Timeout
+www.bullwill.com.tw,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.burkert.com/en/,Error,False,Timeout
+https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=863108,Error,False,Timeout
+http://portal.fciconnect.com/,Error,False,Timeout
+http://www.ti.com/,Error,False,Timeout
+http://www.bueschel.com/,Error,False,Timeout
+http://www.lsi.com/,Success,False,
+http://www.bussmann.com/,Success,False,
+http://www.byd.com.cn/,Success,False,
+http://www.bytesonic.com/,Error,False,Timeout
+http://www.cselectric.co.in/,Error,False,Timeout
+www.cmedia.com.tw/tw/,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.cablemax.com.tw/,Success,False,
+http://www.cabur.it/eng/index.htm,Error,False,Timeout
+http://www.caddock.com/,Success,False,
+http://www.cadence.com/,Error,False,Timeout
+http://www.ca.com/us/,Success,False,
+http://www.calchip.com/,Error,False,Timeout
+http://www.calcrystal.com/,Success,False,
+http://www.calex.com/,Error,False,Timeout
+http://www.caliberelectronics.com/,Error,False,Timeout
+http://www.calscrew.net/new/,Error,False,Timeout
+www.pentairprotect.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://calmos-technology.allitwares.com/company/home_page.php?user_id=67059,Success,True,
+http://www.exar.com/,Success,False,
+http://www.calscrew.net/new/,Success,False,
+https://www.caltestelectronics.com/,Error,False,Timeout
+http://www.caltronind.net/,Error,False,Timeout
+http://www.caly.com.tw/,Success,False,
+http://www.cambion.com/,Error,False,Timeout
+http://www.cdtltd.co.uk/,Error,False,Timeout
+http://www.camelcom.com.my,Success,True,
+http://www.camelionbattery.com/,Success,False,
+http://www.cameronsino.com/,Error,False,Timeout
+http://www.canal.com.tw/e-index.htm,Success,False,
+http://www.canarycom.com/,Error,False,Timeout
+http://www.candocom.com/index_en.asp,Success,False,
+http://www.china-capacitors.com/,Success,False,
+http://www.capatronics.com/,Success,False,
+http://www.generalcable.com/,Error,False,Timeout
+http://www.capxongroup.com/en/index.aspx,Success,False,
+http://www.cap-xx.com/,Error,False,Timeout
+http://www.carclo-optics.com/,Error,False,Timeout
+http://www.cardinalxtal.com/,Error,False,Timeout
+http://www.carinda.com.au/,Success,False,
+http://www.carlingtech.com/,Error,False,Timeout
+http://www.carlingtech.com/,Error,False,Timeout
+http://www.tensolite.com/,Error,False,Timeout
+http://www.gavazzionline.com/,Error,False,Timeout
+http://www.carlon.com/,Error,False,Timeout
+http://www.generalcable.com/,Error,False,Timeout
+http://www.casetronic.com/,Error,False,Timeout
+http://www.casilsemi.com/asp-bin/en/?page=1,Success,False,
+http://www.calscrew.net/new/,Success,False,
+http://www.castelle.com/,Success,False,
+http://www.capitaladvanced.com/,Success,True,
+http://www.catsemi.com/,Error,False,Timeout
+http://www.catcher.com.tw/,Error,False,Timeout
+http://www.caton.com/,Success,True,
+http://www.caddell-burns.com/,Success,False,
+http://www.candcconn.com.tw/,Success,True,
+http://www.corstat.com/,Error,False,Timeout
+http://www.ccohm.com.tw/,Error,False,Timeout
+http://www.cdil.com/,Error,False,Timeout
+http://www.cdtechno.com/,Success,True,
+https://www.cec.com.cn/,Success,False,
+http://www.ceco-inc.com/,Error,False,Timeout
+http://www.customelec.com/,Success,False,
+http://www.ceiecsz.com.cn/en/,Success,False,
+http://www.cel.com/,Success,True,
+http://www.celduc-relais.com/uk/,Error,False,Timeout
+http://www.celeritous.com/,Success,False,
+http://www.celestica.com/,Error,False,Timeout
+http://www.cematsil.com/Wc88d66de5eb33.htm,Success,False,
+https://www.cenlink.com.tw/en/,Success,False,
+https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=26289,Error,False,Timeout
+http://www.century-micro.com/,Error,False,Timeout
+http://www.centralsemi.com/,Error,False,Timeout
+http://www.centuryinterconnect.com/,Error,False,Timeout
+http://www.ceramate.com.tw/,Error,False,Timeout
+http://www.vishay.com/company/brands/cera-mite/,Success,True,
+http://ceratech.tradekorea.com,Error,False,Timeout
+http://www.cermetek.com/,Success,False,
+http://www.bussmann.com/,Success,False,
+http://www.chyangfun.com/,Success,False,
+http://www.corning.com/index.aspx,Success,True,
+http://www.challengeelectronics.com/,Success,True,
+http://chamawen127.en.hisupplier.com/,Success,False,
+http://www.champ-tech.com/,Error,False,Timeout
+www.cj-elec.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.cj-elec.com/en/,Error,False,Timeout
+http://www.pc-connector.com/,Error,False,Timeout
+http://www.darter.com.tw/,Success,False,
+http://hc-elec.en.alibaba.com/,Error,False,Timeout
+http://www.coxoc.com.tw,Error,False,Timeout
+http://www.chaparraltec.com/,Error,False,Timeout
+http://www.charleswater.co.uk/,Error,False,Timeout
+https://en.wikipedia.org/wiki/chartered_semiconductor_manufacturing,Error,False,Timeout
+http://www.perle.com/,Error,False,Timeout
+http://www.chellis.com/,Error,False,Timeout
+http://www.chemtronics.com/,Error,False,Timeout
+http://www.chenbro.com/,Success,False,
+http://www.cnb.com.hk/abouten.htm,Success,False,
+http://www.chengpu.com.tw/,Success,False,
+http://www.c-y.com.tw/company-e.htm,Success,False,
+http://www.uneec.com/en/,Error,False,Timeout
+http://www.chenmko.com.tw/tw/,Success,False,
+http://www.chequers-electronic.com/,Success,False,
+http://www.cherrycorp.com/,Error,False,Timeout
+http://www.chinsan.com/welcome/,Success,True,
+http://www.chiapi.com.tw/,Error,False,Timeout
+http://www.chiaping.com.tw/,Success,False,
+http://www.agmautomotive.com/agm-automotive-partners-with-chicago-miniature-lighting-team/,Success,False,
+http://www.chieftec.com/,Success,False,
+http://www.cf-switch.com/,Success,True,
+https://www.chilisin.com/,Error,False,Timeout
+http://www.chily.com/,Error,False,Timeout
+http://www.chimeicorp.com/en-us/,Error,False,Timeout
+http://www.chimicron.com/,Error,False,Timeout
+http://www.chinmore.com/index.php,Error,False,Timeout
+http://www.chinpoon.com/en,Success,True,
+http://www.csctw.com.tw/eng/eng.html,Success,False,
+http://www.chinasound.com/,Success,False,
+http://www.chinfa.com/,Success,True,
+http://www.chinnan.com.tw/,Error,False,Timeout
+http://www.cetsemi.com/index-e.htm,Success,False,
+http://www.tycoelectronics.com,Error,False,Timeout
+www.chipanalog.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.ti.com/,Error,False,Timeout
+http://www.chipx.com/,Error,False,Timeout
+http://www.chiphomer.com/,Success,False,
+http://www.chiphomer.com,Success,False,
+https://www.chiplink.ro/,Success,False,
+http://www.chiplus.com/,Error,False,Timeout
+www.chipon-ic.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.chipower.com.cn/default.htm,Success,False,
+https://www.chipown.com.cn/,Success,False,
+http://en.wikipedia.org/wiki/Chips_and_Technologies,Success,True,
+http://www.chipstech.com/,Error,False,Timeout
+www.chipstar-ic.com  ,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.chisam.com.tw/,Error,False,Timeout
+http://www.fiberopticsonline.com/storefronts/chorum.html,Error,False,Timeout
+http://www.chrontel.com/,Success,False,
+http://www.chsay.com.tw/,Error,False,Timeout
+http://www.chtechnology.com/,Error,False,Timeout
+http://www.chuanhsin.com.tw/,Error,False,Timeout
+http://www.cptt.com.tw/,Success,False,
+http://www.chungpak.com/,Success,False,
+http://www.c-y.com.tw/company-e.htm,Success,False,
+http://www.cheyennesales.com/,Success,False,
+http://www.cidesign.com/,Error,False,Timeout
+http://www.ciicontrols.com/,Success,False,
+http://www.ciitech.com/,Error,False,Timeout
+http://www.cikautxo.es/,Error,False,Timeout
+http://www.cinch.com/,Error,False,Timeout
+http://www.cincon.com/,Error,False,Timeout
+http://www.cinterion.com/,Error,False,Timeout
+http://www.circuitassembly.com/,Error,False,Timeout
+http://www.circuittest.com/,Error,False,Timeout
+http://www.citrelay.com/index.php,Success,False,
+http://circuitco.com/,Error,False,Timeout
+http://www.intertronics.co.uk/products/circuit-works-index.htm,Success,True,
+http://www.cirrus.com/,Error,False,Timeout
+http://www.cisco.com/,Success,False,
+http://www.citel.com,Success,False,
+http://www.citizen-america.com/,Error,False,Timeout
+http://www.citrix.com/,Error,False,Timeout
+https://www.jcetglobal.com/,Success,True,
+http://www.cjt.cn,Success,False,
+http://www.ck-components.com/,Error,False,Timeout
+http://www.ck-tools.com/,Error,False,Timeout
+http://www.cksystem.com/,Error,False,Timeout
+http://www.clairex.com/,Success,True,
+http://www.claremicronix.com/,Success,False,
+http://www.clarion.com/global/en/top.html,Success,False,
+http://www.honeywell.com/,Error,False,Timeout
+http://www.clearlogictechnologies.com/,Error,False,Timeout
+http://www.clearviewinc.com/,Success,False,
+http://www.clecgroup.com/,Error,False,Timeout
+http://www.cliffinc.com/contact/index.htm,Error,False,Timeout
+http://www.clm.com.tw/,Success,False,
+http://www.cloverlcd.com/,Success,False,
+http://www.cmac.com/,Success,True,
+http://www.champion-micro.com/,Success,False,
+http://www.cmd.com/,Success,False,
+http://www.cmedia.com.tw/,Success,False,
+http://www.cml-it.com/,Error,False,Timeout
+http://www.cnetusa.com/,Error,False,Timeout
+http://www.ctparts.com/,Error,False,Timeout
+http://www.control-concepts.com/,Success,False,
+https://coaxicom.com/,Error,False,Timeout
+http://www.cobham.com ,Error,False,Timeout
+http://www.cobospa.it/,Success,False,
+http://www.demex.com.tw/company-e.htm,Success,False,
+http://www.codegenworld.com/,Success,False,
+http://www.circuitprotection.com/coev/,Error,False,Timeout
+http://www.cofan-usa.com/,Success,True,
+http://www.coherent.com/,Error,False,Timeout
+http://www.coilcraft.com/,Error,False,Timeout
+www.coilws.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.coilcraft.com/,Success,True,
+http://www.coilmaster.com/,Error,False,Timeout
+http://www.ceccoils.com/,Success,False,
+http://www.cooperbussmann.com/,Error,False,Timeout
+http://www.alphawire.com/,Error,False,Timeout
+http://www.colehersee.com/,Error,False,Timeout
+http://www.cole-switches.com/,Error,False,Timeout
+http://www.deantechnology.com/news/dean-technology-acquires-hvpsi-dallas-texas,Error,False,Timeout
+http://www.barber-colman.com/,Success,False,
+http://www.colognechip.com/,Error,False,Timeout
+http://www8.hp.com/ca/en/home.html,Error,False,Timeout
+http://www.atxcases.com/,Success,False,
+http://www.colorkinetics.com/,Error,False,Timeout
+http://www.comairrotron.com/,Error,False,Timeout
+http://www.comchiptech.com/,Success,False,
+http://isipkg.com/,Error,False,Timeout
+http://www.commandcommunications.com/,Success,False,
+http://www.cic-commonwealth.com.tw/PRODUCTS.htm,Success,False,
+http://www.commutek.com/,Success,False,
+http://www.relays-unlimited.com/,Error,False,Timeout
+http://www.compel.it/,Error,False,Timeout
+http://www.microsemi.com/,Error,False,Timeout
+https://compex.com.sg/aboutus/,Error,False,Timeout
+http://www.componentscorp.com/,Error,False,Timeout
+http://www.compostar.com/,Success,False,
+http://www.weishun.com.tw/,Success,False,
+http://www.alturaxl.com/,Success,False,
+http://www.comsetsemi.com/,Error,False,Timeout
+http://www.eaton.com/eaton/index.htm,Success,True,
+http://concord-elex.com/,Success,False,
+http://www.condorelectronics.net/,Success,True,
+http://www.conec.com/,Error,False,Timeout
+http://www.conesys.com,Error,False,Timeout
+http://www.aero-electric.com/,Success,True,
+http://www.conexant.com/,Success,False,
+http://connecmax.company.weiku.com/,Error,False,Timeout
+http://www.connectcom.ca/,Error,False,Timeout
+http://www.connectone.com/,Success,False,
+https://connectorexperts.com/,Error,False,Timeout
+http://www.amphenolconnex.com/,Error,False,Timeout
+http://www.connfly.com/,Error,False,Timeout
+http://www.conwin.com/,Success,False,
+http://www.conquer.com.tw/,Error,False,Timeout
+http://www.conwire.com/,Error,False,Timeout
+http://www.consonance-elec.com/,Error,False,Timeout
+http://www.contaclipinc.com/,Error,False,Timeout
+http://www.micross.com/,Error,False,Timeout
+http://www.cdipower.com/,Success,True,
+http://www.conwin.com.tw/,Error,False,Timeout
+http://www.conxall.com/,Error,False,Timeout
+http://www.coolaudio.com/,Error,False,Timeout
+http://www.coolermaster.com/,Error,False,Timeout
+http://www.coolinnovations.com/,Success,False,
+http://www.cooltron.com/,Success,False,
+http://www.bussmann.com/,Success,False,
+http://www.cooperhandtools.com/,Success,False,
+http://www.coorstek.com/,Success,False,
+http://www.copal-electronics.com/e/,Success,True,
+http://www.cor.com/,Error,False,Timeout
+https://www.coremaster.com.tw/en/index.html,Error,False,Timeout
+http://corebai.com/,Error,False,Timeout
+http://www.corechip-sz.com/,Success,False,
+https://www.corewinders.com/,Error,False,Timeout
+http://www.cde.com/,Error,False,Timeout
+http://www.corningfrequency.com/,Success,False,
+http://www.corsairelectricalconnectors.com/,Error,False,Timeout
+http://www.cortina-systems.com/,Success,False,
+http://www.coselusa.com/,Error,False,Timeout
+http://www.cosmo-ic.com/,Error,False,Timeout
+http://www.cosonic.com/,Success,True,
+http://www.cree.com/,Error,False,Timeout
+http://www.cotorelay.com/,Error,False,Timeout
+http://www.cougarelectronics.com/,Error,False,Timeout
+http://www.covion.com/,Success,False,
+http://www.cpcworldwide.com/,Error,False,Timeout
+http://www.clare.com/,Error,False,Timeout
+http://www.cpuser.com.tw/,Error,False,Timeout
+http://www.craneae.com/,Success,True,
+http://www.craneconnectors.com/,Success,False,
+http://www.crcindustries.com/crcwebmain/,Error,False,Timeout
+www.cresemi.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.cchitech.com.tw/,Error,False,Timeout
+http://www.cree.com/,Error,False,Timeout
+http://www.cooperhandtools.com/,Error,False,Timeout
+http://www.crystalonics.com/,Success,False,
+http://www.cristek.com/,Error,False,Timeout
+http://www.critchley.com/01/default.asp,Error,False,Timeout
+http://www.ceramicproductsgroup.com/,Error,False,Timeout
+http://www.tycoelectronics.com/,Error,False,Timeout
+http://web.crosschipmicro.com,Error,False,Timeout
+http://www.crossroads.com/,Error,False,Timeout
+http://www.crouzet-usa.com/,Error,False,Timeout
+http://www.crownconnector.com/  ,Success,False,
+http://us.creative.com/,Error,False,Timeout
+http://www.crucial.com/,Error,False,Timeout
+http://www.crydom.com/,Error,False,Timeout
+http://www.crystalfontz.com/,Error,False,Timeout
+http://www.crystalonics.com/,Success,False,
+http://www.cirrus.com/,Error,False,Timeout
+http://www.conwin.com/,Success,False,
+http://www.crystek.com/,Error,False,Timeout
+http://www.q-crystal.com/,Error,False,Timeout
+http://www.cs-electronics.com/,Error,False,Timeout
+http://www.cse-transformers.com/,Success,False,
+http://www.specotech.com/,Error,False,Timeout
+http://www.csr.com/,Success,False,
+http://www.ctccoils.com/,Success,False,
+http://www.connectech.com/,Error,False,Timeout
+http://www.coil.co.uk/,Success,False,
+http://www.ctscorp.com/,Error,False,Timeout
+http://www.cui.com/,Error,False,Timeout
+http://www.customcoils.com/,Error,False,Timeout
+http://www.eaton.com/,Error,False,Timeout
+http://www.cvilux.com.tw/en/,Error,False,Timeout
+http://www.cwb.com.cn,Success,False,
+http://www.cwind.com/,Success,False,
+http://www.chengx.com/about.aspx,Error,False,Timeout
+www.cxmt.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.cyberbond1.com/,Error,False,Timeout
+http://www.cybertouch.com/,Success,False,
+http://www.silabs.com/,Error,False,Timeout
+http://www.cylix.com/,Error,False,Timeout
+http://www.cynergy3.com/,Error,False,Timeout
+http://www.cyntec.com/,Success,False,
+http://www.cypress.com/,Error,False,Timeout
+http://www.cypressindustries.com/,Error,False,Timeout
+http://www.cyrustek.com.tw/,Error,False,Timeout
+http://www.securityinfowatch.com/company/10213390/cz-labs,Error,False,Timeout
+http://www.daburn.com/,Error,False,Timeout
+http://www.dachskondel.com/,Error,False,Timeout
+https://en.wikipedia.org/wiki/daewoo,Success,True,
+http://www.globalsources.com/si/as/dae-ryung/6008800543939/homepage.htm,Success,False,
+https://en.wikipedia.org/wiki/daewoo,Success,True,
+http://www.daico.com/,Error,False,Timeout
+http://www.daiichiparts.com.hk/,Success,False,
+http://www.dpbatteries.com/,Success,False,
+http://www.dailywell.com.tw/,Success,False,
+http://www.dain.com.tw/,Error,False,Timeout
+http://www.kds.info/index_en.htm,Error,False,Timeout
+http://www.vishay.com/company/brands/dale/,Error,False,Timeout
+http://www.vishay.com/landingpage/50year/dale.html,Error,False,Timeout
+http://www.dalicap.com/,Success,False,
+http://www.maxim-ic.com/,Error,False,Timeout
+http://www.hktdc.com/sourcing/hk_company_directory.htm?companyid=1x08xwfx&locale=en,Error,False,Timeout
+http://www.dmctools.com,Error,False,Timeout
+http://dantona.com/,Error,False,Timeout
+http://www.chinadaquan.com/,Error,False,"Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d0288d chromedriver + 407693
+3   chromedriver                        0x0000000100cfa928 chromedriver + 375080
+4   chromedriver                        0x0000000100ce90c9 chromedriver + 303305
+5   chromedriver                        0x0000000100cea7e6 chromedriver + 309222
+6   chromedriver                        0x0000000100ce9497 chromedriver + 304279
+7   chromedriver                        0x0000000100ce8208 chromedriver + 299528
+8   chromedriver                        0x0000000100ce81ad chromedriver + 299437
+9   chromedriver                        0x0000000100ce6a24 chromedriver + 293412
+10  chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+11  chromedriver                        0x0000000100d0570e chromedriver + 419598
+12  chromedriver                        0x0000000100d95165 chromedriver + 1007973
+13  chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+14  chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+15  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+16  chromedriver                        0x0000000100d43143 chromedriver + 672067
+17  chromedriver                        0x0000000100d4431e chromedriver + 676638
+18  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+19  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+20  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+21  chromedriver                        0x00000001010f859d chromedriver + 4560285
+22  chromedriver                        0x00000001010c948c chromedriver + 4367500
+23  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+24  chromedriver                        0x000000010111829e chromedriver + 4690590
+25  chromedriver                        0x0000000101128eee chromedriver + 4759278
+26  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+27  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.darfon.com/english/,Error,False,Timeout
+http://www.datacore.com/,Error,False,Timeout
+http://www.datadelay.com/,Error,False,Timeout
+http://www.ddp-leds.com/,Error,False,Timeout
+http://www.dataimagelcd.com/,Success,False,
+http://www.datavision.com.tw/english/,Error,False,Timeout
+http://www.dataram.com/,Success,False,
+http://www.datasouth.com/,Success,False,
+http://www.murata-ps.com/,Success,True,
+http://www.davicom.com.tw/,Error,False,Timeout
+http://www.dawar.com/vw/home,Error,False,Timeout
+http://www.dazor.com/,Error,False,Timeout
+http://www.dccomponents.com/,Success,True,
+http://www.dciincorporated.com/,Error,False,Timeout
+http://www.dcsfabshop.com/,Error,False,Timeout
+http://www.ddc-web.com/,Error,False,Timeout
+http://www.cdtechno.com/,Error,False,Timeout
+http://www.deerfieldlab.com/,Success,False,
+http://www.degson.com/,Error,False,Timeout
+http://www.directed.com/,Error,False,Timeout
+http://www.dek.com/,Error,False,Timeout
+http://www.dell.com,Error,False,Timeout
+http://delphi.com/,Error,False,Timeout
+http://www.deltaelectronics.com/,Success,True,
+http://www.deltecco.com/,Success,False,
+http://www.deltrol.com,Success,True,
+http://www.deltroninc.com/,Success,False,
+http://www.deluxmarket.com/en/,Success,False,
+http://www.dempseyind.com/,Error,False,Timeout
+http://www.denselight.com/,Error,False,Timeout
+http://www.densitron.com/,Success,True,
+http://www.desco.com/,Error,False,Timeout
+http://www.detoronics.com/,Error,False,Timeout
+http://www.dmcusa.com/,Success,False,
+http://www.deutsch.net,Error,False,Timeout
+http://www.deutsch.net/,Error,False,Timeout
+http://www.deutschrelays.com/,Error,False,Timeout
+www.gaiser-spedition.de,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.dfi.com,Error,False,Timeout
+https://www.emc.com,Success,False,
+www.dgnjdz.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+www.huaaoe.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.dialight.com/,Error,False,Timeout
+http://www.dialog-semiconductor.com/,Success,False,
+http://www.diamec.com/,Success,False,
+http://www.cooperhandtools.com/,Success,False,
+http://www.diamondmm.com/,Success,False,
+http://en.wikipedia.org/wiki/dibcom,Success,False,
+http://www.dicgroup.com/,Success,False,
+www.digi.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.digi.com/,Error,False,Timeout
+http://www.digisound.de/digisound_new_english/index.htm,Error,False,Timeout
+https://www.hsr.ch,Error,False,Timeout
+http://www.digitalview.com/about-dv-displaybuilder,Success,False,
+http://www.digitalview.com/,Success,True,
+http://www.digitechsys.co.kr/,Error,False,Timeout
+http://www.duch.com/,Error,False,Timeout
+http://www.dinkle.com/,Success,False,
+http://www.diodes.com/,Error,False,Timeout
+http://www.diodes.com/,Success,False,
+http://www.dionics-usa.com/,Success,False,
+https://diotec.com/,Success,True,
+http://dippersc.en.china.cn/op/corpinfo/index.htm,Success,False,
+http://www.dip.com.tw/,Error,False,Timeout
+http://www.dirpo.com.tw/,Success,False,
+http://www.dolphinics.com/,Error,False,Timeout
+http://www.chipsat.com/,Error,False,Timeout
+http://www.universaldisplays.com/,Error,False,Timeout
+http://www.displaytech-us.com/,Error,False,Timeout
+http://www.ditekcorp.com/,Error,False,Timeout
+http://www.dilabs.com/,Success,True,
+http://www.dlink.ca/,Error,False,Timeout
+http://www.digitallighting.com/,Success,False,
+www.danming-ic.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.deyoungmfg.com/,Error,False,Timeout
+www.datang.com/index.html,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+www.dominant-semi.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.domosys.com/,Error,False,Timeout
+http://www.donnex.com.tw/en/index/,Error,False,Timeout
+http://www.dong-bo.com/home.htm,Success,False,
+http://www.dongiltech.co.kr/en/,Error,False,Timeout
+http://www.donnmfg.com/,Error,False,Timeout
+http://www.dorsch-electronic.de/,Error,False,Timeout
+http://www.dosilicon.com/,Success,False,
+http://www.dowcorning.com/,Error,False,Timeout
+http://www.dowkey.com/,Error,False,Timeout
+http://www.depuw.com/,Success,False,
+http://www.dpactech.com/,Success,False,
+http://www.dragoncity.com.hk/,Success,False,
+http://www.vishay.com/company/brands/draloric/,Success,True,
+www.idreamtech.co.kr ,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.dremel.com/,Success,False,
+http://www.dsi-semiconductors.de/,Success,False,
+http://www.dsmielectronics.com/,Error,False,Timeout
+http://www.dspg.com/,Error,False,Timeout
+http://www.onsemi.com/,Error,False,Timeout
+http://www.dtsweb.com/,Error,False,Timeout
+http://www.dual-lite.com/,Error,False,Timeout
+http://www.dubilier.co.uk/,Error,False,Timeout
+http://www.dukane.com/,Error,False,Timeout
+http://www.dupont.com/,Error,False,Timeout
+http://www.duracap.com/,Success,False,
+http://www.duracell.com/,Error,False,Timeout
+http://www.durant.com/,Success,False,
+http://www.dvsinc.com/,Error,False,Timeout
+http://global.dymo.com/,Success,False,
+http://www.dynapack.com/,Error,False,Timeout
+http://www.dynapar.com/,Error,False,Timeout
+http://www.dynexsemi.com/,Error,False,Timeout
+http://www.emmanufacturing.com/,Error,False,Timeout
+http://www.storagesearch.com/e20comms.html,Success,True,
+http://www.e2v.com/,Error,False,Timeout
+https://www.eaglepicher.com/,Success,False,
+http://www.eao.com/,Success,False,
+http://www.ease.com.tw/,Success,False,
+http://www.easehouse.com.hk/,Error,False,Timeout
+www.eastsoft.com.cn,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.lprs.co.uk/easy-radio/,Error,False,Timeout
+http://www.easybraidco.com/,Error,False,Timeout
+http://www.spctechnology.com/,Error,False,Timeout
+http://www.eaton.com/,Success,False,
+http://www.ebg.at/,Error,False,Timeout
+http://www.ebmpapst.us/,Error,False,Timeout
+http://www.ebyelectro.com/,Error,False,Timeout
+http://www.ecall-elec.com.tw/,Error,False,Timeout
+http://www.ece-usa.com/,Success,False,
+http://www.ecera.com.tw/index-e.php,Error,False,Timeout
+http://www.philips.com/,Error,False,Timeout
+http://www.echelon.com/,Success,False,
+http://www.electronicschina.com/,Success,True,
+http://www.ecicaps.com/,Error,False,Timeout
+http://www.ecliptek.com/,Error,False,Timeout
+http://www.ecmelectronics.co.uk/,Success,False,
+https://www.ecomal.com/en/,Success,True,
+http://www.ecsxtal.com/,Error,False,Timeout
+http://www.edac.net/,Error,False,Timeout
+http://www.edal.com/,Error,False,Timeout
+http://www.electrodynamics.com/,Success,True,
+http://www.cooperbussmann.com/,Error,False,Timeout
+http://www.edsyn.com/,Error,False,Timeout
+http://www.edt.com/,Error,False,Timeout
+http://www.edtc.com/,Success,True,
+http://www.edwards-signals.com/,Error,False,Timeout
+http://www.eecoswitch.com/,Success,True,
+http://www.eemb.com/,Success,False,
+http://www.filmcapacitors.com/,Error,False,Timeout
+http://www.efjohnson.com/,Error,False,Timeout
+http://optoelectronics.perkinelmer.com/,Error,False,Timeout
+www.egistec.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.egtechnology.com/,Error,False,Timeout
+http://www.ehcknobs.com/,Success,False,
+http://www.eiccorp.com/,Error,False,Timeout
+http://www.eichhoff.de/,Error,False,Timeout
+http://www.eink.com/,Error,False,Timeout
+http://www.elabinc.com/,Success,False,
+http://www.emc.com.tw/eng/,Success,False,
+http://www.intersil.com/,Success,True,
+http://www.avx.com/,Error,False,Timeout
+http://www.tycoelectronics.com/,Error,False,Timeout
+http://www.elconproduct.com/,Error,False,Timeout
+https://www.eldema.net/,Success,False,
+http://www.eleceltek.com/,Success,False,
+http://www.electrotechnik.com/,Error,False,Timeout
+http://www.elecsyscorp.com/,Error,False,Timeout
+http://www.electrochemsolutions.com/,Error,False,Timeout
+http://www.ecsconn.com/,Success,False,
+http://www.vishay.com/company/brands/electro-films/,Success,True,
+http://www.electroline.com/,Error,False,Timeout
+http://www.electrospeed.ro/#,Error,False,Timeout
+http://www.hollingsworth.com/,Error,False,Timeout
+http://www.electrocube.com/,Error,False,Timeout
+http://www.electro-nc.com/,Error,False,Timeout
+http://www.eledis.com/,Success,False,
+http://www.elektroautomatik.de/en/,Error,False,Timeout
+https://www.elesta-gmbh.com/,Success,False,
+http://www.eletech.com/,Success,True,
+http://www.esmt.com.tw/,Success,True,
+http://www.elka.com.tw/,Error,False,Timeout
+http://www.elmelectronics.com/,Success,False,
+http://www.elma.com/,Error,False,Timeout
+http://www.elmecmfg.com/,Error,False,Timeout
+http://www.elmos.de/englisch/index.html,Success,False,
+http://www.elna-america.com/,Success,False,
+http://www.elonics.co.za/,Error,False,Timeout
+http://www.elotouch.com/ ,Error,False,Timeout
+https://www.elotouch.com/,Error,False,Timeout
+http://www.elpida.com/,Error,False,Timeout
+http://www.emagin.com/,Error,False,Timeout
+http://www.emblaze.com/,Success,False,
+http://www.easymagnet.com.tw/eng/index2.asp,Success,False,
+http://www.emcoltd.com/,Error,False,Timeout
+http://www.emcore.com/,Error,False,Timeout
+http://www.emct.com/,Success,False,
+http://www.ememory.com.tw/,Error,False,Timeout
+http://www.emeraldsys.com/,Success,False,
+http://emersonnetworkpower.com/connectivity/,Success,False,
+www.emiconcorp.com,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000101131d28 chromedriver + 4795688
+1   chromedriver                        0x00000001011292b3 chromedriver + 4760243
+2   chromedriver                        0x0000000100d026bd chromedriver + 407229
+3   chromedriver                        0x0000000100ce8b16 chromedriver + 301846
+4   chromedriver                        0x0000000100ce69b6 chromedriver + 293302
+5   chromedriver                        0x0000000100ce6f6a chromedriver + 294762
+6   chromedriver                        0x0000000100d0570e chromedriver + 419598
+7   chromedriver                        0x0000000100d95165 chromedriver + 1007973
+8   chromedriver                        0x0000000100d78ca2 chromedriver + 892066
+9   chromedriver                        0x0000000100d94b2b chromedriver + 1006379
+10  chromedriver                        0x0000000100d78a73 chromedriver + 891507
+11  chromedriver                        0x0000000100d43143 chromedriver + 672067
+12  chromedriver                        0x0000000100d4431e chromedriver + 676638
+13  chromedriver                        0x00000001010f2795 chromedriver + 4536213
+14  chromedriver                        0x00000001010f7853 chromedriver + 4556883
+15  chromedriver                        0x00000001010d8001 chromedriver + 4427777
+16  chromedriver                        0x00000001010f859d chromedriver + 4560285
+17  chromedriver                        0x00000001010c948c chromedriver + 4367500
+18  chromedriver                        0x00000001011180e8 chromedriver + 4690152
+19  chromedriver                        0x000000010111829e chromedriver + 4690590
+20  chromedriver                        0x0000000101128eee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.emmicroelectronic.com/,Error,False,Timeout
+https://www.emc.com.tw/emc/en,Success,False,
+https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=7770332,Error,False,Timeout
+http://www.emulex.com/,Error,False,Timeout
+http://www.keyelco.com/,Error,False,Timeout
+http://www.emz-hanauer.de/ ,Success,False,
+http://www.ergpower.com/,Error,False,Timeout
+http://www.energizer.com/,Error,False,Timeout
+http://www.enermax.com/,Error,False,Timeout
+http://www.enersys.com/,Error,False,Timeout
+http://www.engelectric.com/,Success,False,
+http://www.engenius.com/,Error,False,Timeout
+http://www.enlight-tech.com/,Success,False,
+http://www.altera.com/devices/power/power-index.html,Error,False,Timeout
+http://www.enplas.com/,Error,False,Timeout
+https://www.gmdu.net/corp-492536.html,Error,False,Timeout
+http://www.alcoa.com/epcmat/en/home.asp,Error,False,Timeout
+http://www.epcos.com/,Error,False,Timeout
+http://www.epitechnologies.com/,Success,False,
+http://www.epitex.com/,Error,False,Timeout
+http://www.eea.epson.com/,Error,False,Timeout
+http://www.ept.de/,Success,False,
+http://www.equinoxis.com/,Error,False,Timeout
+https://www.era-electronic.com/,Error,False,Timeout
+http://www.ericsson.com/,Success,False,
+http://www.erni.com/,Error,False,Timeout
+http://www.esctechnologies.net/,Success,False,
+http://www.esicotriton.com/,Error,False,Timeout
+http://www.elitesemi.com/,Error,False,Timeout
+http://www.esstech.com/,Error,False,Timeout
+http://www.essendeinki.com/,Error,False,Timeout
+http://www.estel.co.th/,Error,False,Timeout
+http://www.estron.dk/,Success,True,
+http://www.e-switch.com/,Error,False,Timeout
+http://www.eta-usa.com/,Error,False,Timeout
+http://www.e-t-a.com/,Error,False,Timeout
+http://www.etapower.com/,Success,False,
+http://www.molex.com/,Error,False,Timeout
+http://www.etco.com/,Error,False,Timeout
+http://www.e-tec.ch/,Error,False,Timeout
+http://www.etisystems.com/,Error,False,Timeout
+http://www.etindustries.com/,Error,False,Timeout
+http://www.etopower.com/,Error,False,Timeout
+http://www.etron.com/,Error,False,Timeout
+http://www.etslan.com/,Error,False,Timeout
+http://www.etsgmbh.de/english/,Error,False,Timeout
+http://www.fujitsu.com/global/about/resources/news/press-releases/2008/1219-01.html,Error,False,Timeout
+http://www.eupec.com,Error,False,Timeout
+http://www.europechemicon.de/,Error,False,Timeout
+http://www.euroclamp.eu/,Error,False,Timeout
+

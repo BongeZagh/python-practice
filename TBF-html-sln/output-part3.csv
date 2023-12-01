@@ -1,0 +1,836 @@
+URL,Status,Keyword Found,Error Reason
+http://www.euroquartz.co.uk,Error,False,Timeout
+http://www.eurotherm.com/,Error,False,Timeout
+http://www.eutechmicro.com,Success,False,
+http://www.evanscap.com/,Error,False,Timeout
+http://www.everanalog.com/,Success,False,
+http://www.evercase.com/,Error,False,Timeout
+http://www.eveready.com/,Error,False,Timeout
+http://www.asianmfrs.com/everelec/,Success,False,
+http://www.everest-semi.com,Success,False,
+http://www.ectinfo.com/,Success,False,
+http://www.everlight.com/,Success,False,
+http://www.everohms.com/index-en.htm,Success,False,
+https://www.everspin.com/,Success,True,
+http://www.evisiondisplays.com/,Error,False,Timeout
+http://www.kemet.com/,Error,False,Timeout
+http://www.exabyte.com/,Success,False,
+http://www.exar.com/,Success,False,
+http://www.excel-display.com/,Error,False,Timeout
+http://www.excelitas.com,Error,False,Timeout
+http://www.excelsys.com/,Error,False,Timeout
+http://www.excelta.com/,Error,False,Timeout
+https://exxelia.com/en/,Error,False,Timeout
+http://www.exeltech.com/,Error,False,Timeout
+http://www.exide.com/,Success,False,
+http://www.extech.com/,Error,False,Timeout
+https://exxelia.com/en/,Error,False,Timeout
+http://www.ezchip.com/,Error,False,Timeout
+http://www.ezisystems.co.za/,Error,False,Timeout
+http://www.electrocube.com/product-categories/film-capacitors1/f-dyne/,Error,False,Timeout
+http://facon.com/,Error,False,Timeout
+http://www.faddylink.com/,Success,False,
+http://www.fagorelectronica.com/in_index.html,Error,False,Timeout
+http://www.fairchildsemi.com/,Error,False,Timeout
+http://www.fair-rite.com/,Error,False,Timeout
+https://www.fairviewmicrowave.com/,Error,False,Timeout
+http://www.falcomex.com/,Error,False,Timeout
+http://www.falconstor.com/,Error,False,Timeout
+http://fancort.com/,Error,False,Timeout
+http://www.qualtekusa.com/,Error,False,Timeout
+http://www.faradnet.com/,Error,False,Timeout
+http://www.faratronic.com/en/index.asp,Success,True,
+http://www.fargo.com/,Success,False,
+http://www.meridian-audio.com/faroudja/,Success,False,
+http://farwestair.com/,Error,False,Timeout
+https://www.fastenal.com/,Success,False,
+http://www.fastenerspecialty.com/,Error,False,Timeout
+http://www.fastrongroup.com/home,Error,False,Timeout
+http://www.faulhaber-group.com/,Error,False,Timeout
+http://portal.fciconnect.com/,Error,False,Timeout
+http://fctgroup.com/,Error,False,Timeout
+http://www.fdk.com/,Error,False,Timeout
+http://www.feller-us.net/,Error,False,Timeout
+http://www.femacorp.com/,Error,False,Timeout
+http://fenghua.com/index.html,Success,False,
+http://www.honeywell.com/,Error,False,Timeout
+http://www.plesseysemiconductors.com/,Error,False,Timeout
+http://www.ferrazshawmut.com/,Error,False,Timeout
+http://www.ferrico.com/,Error,False,Timeout
+http://www.domen.ru/,Success,False,
+http://ferrocomrf.com/index.htm,Success,True,
+http://www.ferronics.com/,Error,False,Timeout
+http://www.ferroperm.co.uk/,Success,False,
+https://www.ferrotec.com/,Error,False,Timeout
+http://www.ferroxcube.com/,Error,False,Timeout
+https://www.festo.com/,Error,False,Timeout
+http://www.fgri.com/,Error,False,Timeout
+http://www.fiberxon.com/,Success,False,
+http://www.fibreoptech.co.uk/,Success,False,
+http://www.fietje-web.de/,Success,False,
+http://www.filtran.com/,Error,False,"Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000102c16d28 chromedriver + 4795688
+1   chromedriver                        0x0000000102c0e2b3 chromedriver + 4760243
+2   chromedriver                        0x00000001027e788d chromedriver + 407693
+3   chromedriver                        0x00000001027df928 chromedriver + 375080
+4   chromedriver                        0x00000001027ce0c9 chromedriver + 303305
+5   chromedriver                        0x00000001027cf7e6 chromedriver + 309222
+6   chromedriver                        0x00000001027ce497 chromedriver + 304279
+7   chromedriver                        0x00000001027cd208 chromedriver + 299528
+8   chromedriver                        0x00000001027cd1ad chromedriver + 299437
+9   chromedriver                        0x00000001027cba24 chromedriver + 293412
+10  chromedriver                        0x00000001027cbf6a chromedriver + 294762
+11  chromedriver                        0x00000001027ea70e chromedriver + 419598
+12  chromedriver                        0x000000010287a165 chromedriver + 1007973
+13  chromedriver                        0x000000010285dca2 chromedriver + 892066
+14  chromedriver                        0x0000000102879b2b chromedriver + 1006379
+15  chromedriver                        0x000000010285da73 chromedriver + 891507
+16  chromedriver                        0x0000000102828143 chromedriver + 672067
+17  chromedriver                        0x000000010282931e chromedriver + 676638
+18  chromedriver                        0x0000000102bd7795 chromedriver + 4536213
+19  chromedriver                        0x0000000102bdc853 chromedriver + 4556883
+20  chromedriver                        0x0000000102bbd001 chromedriver + 4427777
+21  chromedriver                        0x0000000102bdd59d chromedriver + 4560285
+22  chromedriver                        0x0000000102bae48c chromedriver + 4367500
+23  chromedriver                        0x0000000102bfd0e8 chromedriver + 4690152
+24  chromedriver                        0x0000000102bfd29e chromedriver + 4690590
+25  chromedriver                        0x0000000102c0deee chromedriver + 4759278
+26  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+27  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.filtro.net/,Error,False,Timeout
+http://www.filtronic.co.uk/,Error,False,Timeout
+http://www.findernet.com/,Error,False,Timeout
+http://www.finisar.com,Error,False,Timeout
+http://www.firmtech.co.kr,Error,False,Timeout
+http://www.fcisemi-mag.com/,Success,False,
+http://www.firstlight.com/,Error,False,Timeout
+http://www.fischerconnectors.com/,Error,False,Timeout
+http://www.furukawaamerica.com/,Success,False,
+http://www.fitipower.com/,Success,False,
+http://www.flattransformer.com/,Success,False,
+https://flexpowermodules.com/,Error,False,Timeout
+http://www.flextronics.com/,Error,False,Timeout
+https://www.flir.com/,Error,False,Timeout
+http://www.floeth-electronic.com/,Error,False,Timeout
+http://www.rflabs.com/,Error,False,Timeout
+http://www.floydbell.com/,Error,False,Timeout
+http://www.fluke.com/,Success,True,
+http://www.flux.dk/,Error,False,Timeout
+https://gitee.com/flycore,Error,False,Timeout
+https://fmsh.ic37.com/,Success,False,
+http://www.frequencymanagement.com/,Success,False,
+http://www.federal-mogul.com/en,Success,False,
+http://www.fn-link.com,Error,False,Timeout
+http://www.focaltech-systems.com/,Error,False,Timeout
+http://www.fondex.fr/,Error,False,Timeout
+http://www.fkusa.com/,Error,False,Timeout
+http://www.fongya.com/,Success,False,
+http://www.foq.de/,Success,False,
+http://www.fordahl.com/,Success,False,
+http://www.longsys.com,Error,False,Timeout
+http://www.formosams.com/e_index.asp,Success,False,
+http://www.fortrex.com/,Error,False,Timeout
+http://www.fspgroup.com/,Success,False,
+http://www.fortune-co.com,Error,False,Timeout
+http://www.foryard.com/index-en.asp,Success,False,
+http://www.foxonline.com/,Error,False,Timeout
+http://www.foxconn.com/,Error,False,Timeout
+http://www.fingerprints.com/?sc_lang=en,Error,False,Timeout
+http://www.fractus.com/,Error,False,Timeout
+http://www.fraen.com/,Error,False,Timeout
+http://www.frako.com/en/,Success,False,
+http://www.hypertac.com/,Success,False,
+http://web.free2move.se/,Error,False,Timeout
+ndex.php?option=com_virtuemart&Itemid=27&lang=en,Error,False,"Message: invalid argument
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000102c16d28 chromedriver + 4795688
+1   chromedriver                        0x0000000102c0e2b3 chromedriver + 4760243
+2   chromedriver                        0x00000001027e76bd chromedriver + 407229
+3   chromedriver                        0x00000001027cdb16 chromedriver + 301846
+4   chromedriver                        0x00000001027cb9b6 chromedriver + 293302
+5   chromedriver                        0x00000001027cbf6a chromedriver + 294762
+6   chromedriver                        0x00000001027ea70e chromedriver + 419598
+7   chromedriver                        0x000000010287a165 chromedriver + 1007973
+8   chromedriver                        0x000000010285dca2 chromedriver + 892066
+9   chromedriver                        0x0000000102879b2b chromedriver + 1006379
+10  chromedriver                        0x000000010285da73 chromedriver + 891507
+11  chromedriver                        0x0000000102828143 chromedriver + 672067
+12  chromedriver                        0x000000010282931e chromedriver + 676638
+13  chromedriver                        0x0000000102bd7795 chromedriver + 4536213
+14  chromedriver                        0x0000000102bdc853 chromedriver + 4556883
+15  chromedriver                        0x0000000102bbd001 chromedriver + 4427777
+16  chromedriver                        0x0000000102bdd59d chromedriver + 4560285
+17  chromedriver                        0x0000000102bae48c chromedriver + 4367500
+18  chromedriver                        0x0000000102bfd0e8 chromedriver + 4690152
+19  chromedriver                        0x0000000102bfd29e chromedriver + 4690590
+20  chromedriver                        0x0000000102c0deee chromedriver + 4759278
+21  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+22  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.freescale.com/,Error,False,Timeout
+http://www.freqdev.com/,Success,True,
+http://www.friwo.de/en/,Error,False,Timeout
+http://www.frolyt.de/en/,Error,False,Timeout
+http://www.fti-net.com/,Error,False,Timeout
+http://www.tel.com/news/2012/1012_001.htm,Error,False,Timeout
+http://www.fspgroupusa.com/,Error,False,Timeout
+http://www.fstelectronic.com/,Success,False,
+http://www.ftcap.de/,Error,False,Timeout
+http://www.ftdichip.com/,Error,False,Timeout
+http://www.ftzind.com/,Success,False,
+http://eng.fmsh.com/,Success,False,
+http://www.fujicon.com/,Success,False,
+http://www.fujikura.com/,Success,False,
+http://www.fujipoly.com/,Error,False,Timeout
+http://www.fujielectric.com/,Error,False,Timeout
+http://www.fujisoku.co.jp/index_e.html,Success,False,
+http://www.fujitsu.com/,Error,False,Timeout
+http://www.fu-futaba.co.jp/en/,Success,True,
+http://fullrise.en.forbuyers.com/about,Error,False,Timeout
+http://www.fullriver.com/,Success,True,
+http://www.furukawaamerica.com/,Success,False,
+http://www.futaba.com/,Error,False,Timeout
+http://www.futek.com/,Error,False,Timeout
+http://fullrise.en.forbuyers.com/about,Error,False,Timeout
+http://www.fuzetec.com/,Success,False,
+http://www.fwbell.com/,Error,False,Timeout
+http://www.ghtech.com/,Error,False,Timeout
+http://www.mecatronique.fr/node/228,Success,False,
+http://www.https://www.broadcom.com/press/release.php?id=387449.com/gadzoox.html,Success,False,
+https://www.gai-tronics.com/,Success,False,
+https://www.telit.com/     ,Error,False,Timeout
+http://www.gaiser-spedition.de,Error,False,Timeout
+http://www.exar.com/common/content/news.aspx?id=5372,Success,False,
+http://www.marvell.com/company/news/pressdetail.do?releaseid=76,Success,False,
+http://www.cypress.com/,Error,False,Timeout
+http://www.gammamicro.com/,Error,False,Timeout
+https://gansystems.com/,Error,False,Timeout
+http://www.gardtecinc.com/,Error,False,Timeout
+https://www.gmdu.net/corp-256463.html,Error,False,Timeout
+http://www.wpi-interconnect.com/,Error,False,Timeout
+http://www.gcelectronics.com/,Error,False,Timeout
+http://www.gctsemi.com/,Error,False,Timeout
+http://www.gigadevice.com,Error,False,Timeout
+http://www.gedlm.com/,Success,True,
+http://www.lumination.com/,Error,False,Timeout
+http://www.gemalto.com/,Error,False,Timeout
+http://www.generalcable.com/,Error,False,Timeout
+http://www.ge.com/,Error,False,Timeout
+http://www.st.com/web/en/home.html,Error,False,Timeout
+http://www.genicom.com/,Error,False,Timeout
+http://www.genius.net/,Success,False,
+http://www.gennum.com/,Success,False,
+http://www.generalphotonics.com/,Error,False,Timeout
+http://www.generaltools.com/,Error,False,Timeout
+http://www.geyer-electronic.de/,Error,False,Timeout
+http://www.giantec-semi.com/,Error,False,Timeout
+http://www.gigadevice.com/index.html,Success,False,
+http://www.gsitechnology.com/,Error,False,Timeout
+http://www.intl-lighttech.com/company/about-ilt,Success,True,
+http://www.glenair.ca/,Error,False,Timeout
+http://www.globalspecialties.com/,Success,False,
+http://www.conexant.com/,Success,False,
+http://www.globetechnologies.com/,Error,False,Timeout
+http://www.globe-motors.com/,Error,False,Timeout
+http://www.globtek.com/,Success,False,
+http://www.generaldevices.com/,Error,False,Timeout
+http://gofoton.net/index.html,Error,False,Timeout
+http://www.eetimes.com/document.asp?doc_id=1156043,Error,False,Timeout
+http://www.goertek.com/en,Error,False,Timeout
+http://www.gofordsemi.com,Success,False,
+http://www.procureinc.com/manufacturer/goguen_industries_-_arizona_capacitors/,Error,False,Timeout
+http://www.exportbureau.com/company_report.html?code=42139,Success,False,
+http://www.golledge.com/,Error,False,Timeout
+http://www.goodark.com/,Error,False,Timeout
+http://www.mfgpages.com/company/goodrich-corporation-in-minnesota-usa-10124741/,Error,False,Timeout
+http://www.gordonbrush.com/,Success,True,
+http://www.crouzet-usa.com/,Error,False,Timeout
+http://www.gouldfast.ca/,Error,False,Timeout
+http://www.gowanda.com/,Error,False,Timeout
+http://www.gowinsemi.com,Error,False,Timeout
+http://www.gpbatteries.com/,Error,False,Timeout
+http://www.gpd-ir.com/,Error,False,Timeout
+http://www.galaxypwr.com,Success,False,
+http://www.gpsemi.it/,Error,False,Timeout
+https://www.gradconn.com/,Error,False,Timeout
+http://www.grand-tek.com/,Error,False,Timeout
+http://www.grayhill.com/,Error,False,Timeout
+http://goldenregent.com/,Error,False,Timeout
+http://www.greenlee.com/,Success,False,
+http://www.greenliant.com/,Error,False,Timeout
+http://www.greenrayindustries.com/,Error,False,Timeout
+https://griffintechnology.com/,Error,False,Timeout
+http://www.lear.com/press-room/3638/lear-to-acquire-grote-hartmann.aspx,Error,False,Timeout
+http://www.group-tek.com/,Error,False,Timeout
+http://www.greatrubber.com/,Error,False,Timeout
+http://www.gruner.de,Error,False,Timeout
+http://www.grupopremo.com/,Error,False,Timeout
+http://www.grainsystems.com,Success,True,
+http://www.gsitechnology.com/,Success,False,
+http://www.grand-tek.com/,Error,False,Timeout
+http://www.gtran.com/,Error,False,Timeout
+http://www.akiwa.com/,Error,False,Timeout
+http://www.generalcable.com/,Error,False,Timeout
+http://www.guardian-electric.com/,Error,False,Timeout
+http://www.guerrilla-rf.com,Error,False,Timeout
+http://www.gulfsemi.com/,Error,False,Timeout
+http://www.gunzeusa.com/,Error,False,Timeout
+http://www.gyx-led.com/gyx-led/english/,Success,False,
+http://www.gwtt.com,Success,False,
+http://www.instek.com/,Error,False,Timeout
+https://www.galaxy-cas.com/public/html/index.html#/,Error,False,Timeout
+http://haloelectronics.com/,Error,False,Timeout
+http://www.hamamatsu.com/,Error,False,Timeout
+http://www.hamlin.com/,Success,False,
+http://www.hammondmfg.com/,Success,False,
+http://www.hannstarboard.com/wps/wcm/connect/English/HK/Profile/,Error,False,Timeout
+http://www.hannstar.com,Error,False,Timeout
+https://hanrun.dzsc.com/,Error,False,Timeout
+http://hanseele.en.ec21.com/company_info.html,Error,False,Timeout
+http://www.hansen-motor.com/,Error,False,Timeout
+http://www.hantronix.com/,Success,False,
+http://www.puritanmedproducts.com/,Error,False,Timeout
+http://www.harris.com/,Error,False,Timeout
+http://www.harting.com/,Error,False,Timeout
+http://www.hartmann-codier.de/,Error,False,Timeout
+http://www.harwin.com/,Error,False,Timeout
+http://www.hascorelays.com/,Error,False,Timeout
+http://www.hawk-cctv.com/,Error,False,Timeout
+http://www.hayes.com/,Error,False,Timeout
+http://www.hccindustries.com/,Error,False,Timeout
+http://www.hcdresearch.co.uk/,Success,True,
+http://www.he-electronics.com/,Error,False,Timeout
+http://www.hearst.com/,Error,False,Timeout
+http://www.heartlandfasteners.com/,Error,False,Timeout
+http://www.hoorayusa.com/,Success,False,
+http://www.hfcl.com/,Error,False,Timeout
+https://www.heimannsensor.com/,Error,False,Timeout
+http://www.heinemann.com/,Error,False,Timeout
+http://www.hellermann.tyton.com/,Error,False,Timeout
+http://www.helms-man.com/,Success,True,
+http://www.helukabel.com/en/home.html,Error,False,Timeout
+http://www.hengstler.com/,Error,False,Timeout
+https://www.henkel.com/,Error,False,Timeout
+https://www.henkel-adhesives.com/,Success,False,
+http://www.enersysreservepower.com/,Error,False,Timeout
+http://www.herley.com/,Error,False,Timeout
+http://www.hermeticswitch.com/,Error,False,Timeout
+http://www.hertztec.com/,Success,False,
+http://www.solaheviduty.com/,Success,False,
+http://www.hexon.com.sg/,Error,False,Timeout
+http://www.heyco.com/,Success,True,
+http://www.hgst.com/,Error,False,Timeout
+http://www.abbatron.com/,Error,False,Timeout
+http://www.higrelays.it/,Error,False,Timeout
+http://www.hical.com/,Error,False,Timeout
+http://www.hifn.com/,Error,False,Timeout
+http://www.highly.com/,Success,True,
+http://www.himediatech.com,Success,False,
+http://www.hirelco.net/,Error,False,Timeout
+http://www.hirose.com/,Error,False,Timeout
+http://hus.hirschmann.com/,Error,False,Timeout
+http://www.hisilicon.com/,Error,False,Timeout
+http://www.hitachi.com/,Error,False,Timeout
+http://www.hitachi-aic.com/english/,Error,False,Timeout
+http://www.htr-india.com/,Error,False,Timeout
+http://www.hittite.com/,Error,False,Timeout
+http://www.hivoltcapacitors.com/,Error,False,Timeout
+http://www.hjimi.com,Success,False,
+http://www.helicalwire.com/,Error,False,Timeout
+http://www.hiliwi.com,Success,False,
+http://www.sfkj-tech.com/,Success,False,
+https://www.hminternational.be/,Error,False,Timeout
+http://www.mosaicsemi.com/,Success,False,
+http://www.hochien.com/,Success,True,
+http://www.hoffmanonline.com/,Error,False,Timeout
+https://www.hdk.co.jp/english/index_e.htm,Error,False,Timeout
+http://www.hollingsworth.com/,Error,False,Timeout
+http://www.holmberg.com/,Success,False,
+http://www.holtic.com/,Error,False,Timeout
+http://www.htk-jp.com/?m=default&lang_cd=2,Success,False,
+http://www.honeywell.com,Error,False,Timeout
+http://sensing.honeywell.com/,Error,False,Timeout
+http://www.hongfa.com/,Error,False,Timeout
+http://www.hongju.com/english/,Success,False,
+http://www.hx468.com/,Success,False,
+http://www.foxconn.com/,Error,False,Timeout
+http://www.hdk.co.jp/english/index.htm,Success,False,
+http://www.hosiden.com/,Error,False,Timeout
+http://www.hosonic.com/,Error,False,Timeout
+http://www.hottechsemi.com,Error,False,Timeout
+http://www.home.agilent.com/agilent/home.jspx?cc=US&lc=eng&cmpid=4533,Error,False,Timeout
+http://www.hirose.com/,Success,False,
+http://www.hsi-inc.com/,Error,False,Timeout
+http://www.hsm.eu/,Error,False,Timeout
+http://www.hspcon.com/contact/,Success,False,
+http://www.ht-instruments.com/,Error,False,Timeout
+http://www.htckorea.co.kr/english/index.php,Error,False,Timeout
+http://www.htr-india.com/,Error,False,Timeout
+http://www.tycoelectronics.com/,Error,False,Timeout
+http://www.hua-jie.com/,Error,False,Timeout
+http://WWW.HJWSEMI.COM,Error,False,Timeout
+http://www.hubbell.com/,Error,False,Timeout
+http://www.hubersuhner.com,Error,False,Timeout
+http://www.hubersuhner.com/,Error,False,Timeout
+http://www.hughes.com,Success,False,
+http://www.humirel.com/,Error,False,Timeout
+http://dealer.huntkey.com/en/,Error,False,Timeout
+http://www.hurstmfg.com/,Error,False,Timeout
+http://www.hutsonind.com/,Success,False,
+http://www.hvca.com/,Error,False,Timeout
+https://www.rec-usa.com/millimeter-wave-products-hxi/,Error,False,Timeout
+http://www.hycal.com/,Error,False,Timeout
+http://www.hycompinc.com/,Error,False,Timeout
+https://www.hydac.com/en/,Success,True,
+http://www.hydis.com/,Error,False,Timeout
+http://www.hydra-components.cz,Error,False,Timeout
+http://www.hynix.com/,Error,False,Timeout
+http://www.hyperbattery.com/,Success,True,
+http://www.hyperstone.com/,Success,True,
+http://www.hypertac.com/,Success,False,
+http://www.hypertronics.com/,Success,False,
+http://www.hy-q.com/,Error,False,Timeout
+http://www.hytek.com/,Error,False,Timeout
+http://www.inctech.co.kr/,Error,False,Timeout
+http://www.iacindustries.com/,Error,False,Timeout
+http://www.ibek.ch/,Error,False,Timeout
+http://www.ibm.com/,Error,False,Timeout
+http://www.icatchtek.com,Error,False,Timeout
+http://www.icc107.com/,Error,False,Timeout
+http://www.icecomponents.com/,Error,False,Timeout
+http://www.icel-group.co.uk/,Error,False,Timeout
+http://www.ichaus.de/,Error,False,Timeout
+http://www.ici-cas.com/,Error,False,Timeout
+http://www.i-chipstech.com/,Error,False,Timeout
+http://www.icmic.com/,Success,False,
+http://www.icpems.com/,Success,False,
+http://www.idt.com/,Success,True,
+http://www.idt.com/,Success,True,
+http://www.icworks.com/,Error,False,Timeout
+http://www.idcmotion.com/,Error,False,Timeout
+http://www.ledidea.com/,Success,False,
+http://www.idealindustries.com/,Error,False,Timeout
+http://www.idec.com/,Error,False,Timeout
+http://www.identco.com/,Error,False,Timeout
+http://www.idesyn.com/,Success,True,
+http://www.idinet.com/,Error,False,Timeout
+http://www.idt.com/,Error,False,Timeout
+http://www.idtech.co.jp/,Success,False,
+http://www.ieeinc.com/,Error,False,Timeout
+http://www.iehcorp.com/,Error,False,Timeout
+http://www.ierc.net/,Error,False,Timeout
+http://www.iflytek.com,Success,False,
+http://www.ifm.com/,Success,False,
+http://www.ikanos.com/,Success,False,
+http://www.ilswitch.com,Error,False,Timeout
+http://www.ilitek.com/,Error,False,Timeout
+https://www.illinoiscapacitor.com/,Success,False,
+http://www.illinoiscapacitor.com/,Error,False,Timeout
+http://www.ilsiamerica.com/,Error,False,Timeout
+http://www.ilwon.com/english/,Error,False,Timeout
+http://www.imashape.com/,Success,False,
+http://www.imation.com/,Error,False,Timeout
+http://www.cypress.com/,Error,False,Timeout
+http://www.imlec.com/,Error,False,Timeout
+http://www.imopc.com/,Error,False,Timeout
+http://www.ims-resistors.com/,Error,False,Timeout
+http://www.ims-can.com/,Error,False,Timeout
+http://www.imscs.com/,Error,False,Timeout
+http://www.imsys.se/,Error,False,Timeout
+http://www.inconconnector.com/index.html,Success,False,
+http://www.inctech.co.kr,Error,False,Timeout
+http://www.ics-repair.com/,Error,False,Timeout
+http://www.inficon.com/,Error,False,Timeout
+http://www.infineon.com/,Error,False,Timeout
+http://www.ingenic.com,Success,False,
+http://www.ingentix.com/,Success,False,
+http://company.ingersollrand.com/ircorp/en/index.html,Error,False,Timeout
+http://www.initio.com/,Success,False,
+http://www.injoinic.com/,Success,False,
+http://www.aeroflex.com/ams/inmet/micro-inmet-prods.cfm,Success,True,
+http://www.innosystem.com,Success,False,
+http://www.innochips.co.kr,Success,False,
+http://www.innodisk.com,Success,True,
+http://www.innofidei.com/,Success,False,
+http://www.innolux.com/,Success,False,
+http://www.innovasic.com/,Error,False,Timeout
+http://www.innovative-technology.co.uk/,Success,False,
+http://www.ict-power.com/,Error,False,Timeout
+https://inolux-corp.com/,Success,True,
+http://www.inova-semiconductors.de/,Success,True,
+http://www.stewartefi.com/,Error,False,Timeout
+http://www.isisales.com/,Success,False,
+http://www.insultab.com/,Error,False,Timeout
+http://www.intech-lcd.com/,Success,False,
+http://www.intel.com/,Success,False,
+http://www.intelix.com/,Error,False,Timeout
+http://www.ibbattery.com/,Error,False,Timeout
+http://www.intercapinc.com/,Error,False,Timeout
+http://www.interconsystems.com/,Success,False,
+http://www.purdyelectronics.com/products/interfan/default.cfm,Error,False,Timeout
+http://www.interfet.com/,Success,True,
+http://www.intermark-usa.com/,Success,False,
+http://metro.com/,Error,False,Timeout
+http://www.purdyelectronics.com/products/fiber/default.cfm,Success,True,
+http://www.iphase.com/,Success,False,
+http://www.craneae.com/,Success,True,
+http://www.intersil.com/,Success,True,
+https://www.interstatewire.com/,Error,False,Timeout
+http://www.purdyelectronics.com/products/switches/default.cfm,Success,True,
+http://www.icc107.com/,Success,True,
+http://www.interworks.com/,Error,False,Timeout
+http://www.intlsemiconductor.com/,Error,False,Timeout
+http://www.intouchdisplays.com,Error,False,Timeout
+http://www.intronics.com/,Success,True,
+http://www.invensense.com ,Error,False,Timeout
+http://www.inventaelectro.com/,Error,False,Timeout
+http://www.iointerconnect.com/,Success,False,
+http://www.iomega.com/,Success,False,
+http://www.power-one.com/,Error,False,Timeout
+http://www.ipexinc.com/,Error,False,Timeout
+http://www.cambion.com/,Success,True,
+http://www.ipdpower.com/,Error,False,Timeout
+http://www.iqdfrequencyproducts.com,Error,False,Timeout
+http://www.irf.com/,Error,False,Timeout
+http://www.irctt.com/,Error,False,Timeout
+http://www.iriso.co.jp/english/,Success,False,
+http://www.irvine-sensors.com/,Error,False,Timeout
+https://www.isabellenhuette.de/,Error,False,Timeout
+https://www.isabellenhuette.de/,Error,False,Timeout
+https://www.idc-com.co.jp/jp/,Error,False,Timeout
+http://www.iscwales.com,Error,False,Timeout
+http://www.iscwales.com,Error,False,Timeout
+http://www.iscsemi.com,Error,False,Timeout
+http://www.winbond.com/,Error,False,Timeout
+https://www.istecc.com/sy,Success,False,
+http://www.isetinc.com/,Error,False,Timeout
+http://www.inductorsupply.com/,Error,False,Timeout
+http://www.iskra-semic.si/gb/,Error,False,Timeout
+http://www.islproducts.com/,Error,False,Timeout
+http://www.isocom.com/,Error,False,Timeout
+http://www.isotekcorp.com/,Success,False,
+http://www.isotemp.com/,Error,False,Timeout
+http://www.iso-tip.com/,Error,False,Timeout
+http://www.issi.com/,Error,False,Timeout
+http://www.petasys.com/e/,Success,False,
+http://www.rele.it/,Success,False,
+http://www.industrialtimercompany.com/,Success,True,
+http://www.inductech.com/,Success,True,
+http://www.inter-technical.com/,Error,False,Timeout
+http://www.itox.com/,Success,False,
+http://www.ittcannon.com/,Error,False,Timeout
+http://www.chemtronics.com/,Error,False,Timeout
+http://www.paktron.com/,Error,False,Timeout
+https://www.shltjx.com/,Success,False,
+http://www.insulatedwire.com,Error,False,Timeout
+http://www.iwatt.com,Error,False,Timeout
+http://www.ixys.com/,Success,False,
+http://www.jae.com/en/index.html,Success,False,
+http://www.jaegerconnecteurs.com/,Error,False,Timeout
+http://www.jae.com/en/index.html,Success,False,
+http://www.jameco.com,Success,False,
+http://www.jamicon.com/,Error,False,Timeout
+http://www.jammaboards.com/,Error,False,Timeout
+http://www.jancocorp.com/,Error,False,Timeout
+http://www.jiannwa.com/,Error,False,Timeout
+http://www.jrm.co.jp/english/,Success,False,
+http://www.jarocomponents.com/,Success,False,
+https://www.jauch.com,Success,False,
+http://www.jauchusa.com/,Success,True,
+http://www.jayconsystems.com/home,Error,False,Timeout
+https://www.jcetglobal.com/,Error,False,Timeout
+http://www.jdsu.com/,Error,False,Timeout
+http://www.jeanleaf.com/,Error,False,Timeout
+http://www.jenningstech.com/,Error,False,Timeout
+http://www.jpcon.com/,Error,False,Timeout
+http://jianghai-europe.com/products,Error,False,Timeout
+http://www.ceratronics.com/,Error,False,Timeout
+http://www.jianghai-europe.com/,Success,False,
+http://www.jic-group.com/,Error,False,Timeout
+http://www.jariec.com/,Error,False,Timeout
+http://www.jilicom.com/intro_en.html,Error,False,Timeout
+http://www.sdjingdao.com,Error,False,Timeout
+http://www.jjwdz.com/,Error,False,Timeout
+http://www.jkllamps.com/,Error,False,Timeout
+http://www.jlworld.com/,Error,False,Timeout
+http://www.jmar.com/,Error,False,Timeout
+http://www.jmicron.com/,Success,False,
+http://www.jnj-industries.com/,Error,False,Timeout
+http://www.johansondielectrics.com/,Error,False,Timeout
+http://www.jonard.com/,Error,False,Timeout
+https://www.joulwatt.com/,Success,False,
+http://www.njr.co.jp/index_e.htm,Error,False,Timeout
+http://www.jst.com/home4.html,Error,False,Timeout
+http://www.j-tech.com/,Success,False,
+http://www.jukentech.com/index.php,Success,False,
+http://www.justicesemi.com/,Success,False,
+http://www.jvc.com/,Success,False,
+http://www.bourns.com/,Error,False,Timeout
+http://www.cooperhandtools.com/,Error,False,Timeout
+http://www.kaifeng-contacts.com/,Success,True,
+http://www.jamicon.com/,Error,False,Timeout
+http://www.kaitousa.com/,Error,False,Timeout
+http://www.k-f.ch/,Error,False,Timeout
+http://www.kamaya.co.jp/us/,Success,False,
+http://www.kanda.com/,Success,False,
+http://www.globar.com/,Error,False,Timeout
+http://www.megachips.us/,Success,False,
+http://www.kayer.com/,Error,False,Timeout
+http://www.kayoco.com/e_mainpagen.htm,Error,False,Timeout
+http://www.aeroflex-kdi.com/,Error,False,Timeout
+http://www.kdk-group.co.jp/,Success,False,
+http://www.kds.info/index_en.htm,Error,False,Timeout
+http://keben.company.weiku.com/,Error,False,Timeout
+http://www.keccorp.com/,Error,False,Timeout
+http://www.kekon.com/,Error,False,Timeout
+http://www.keko-varicon.si/,Success,False,
+http://www.hubbell-wiring.com/,Error,False,Timeout
+http://www.arcotronics.com/cms/index.php,Success,False,
+https://www.kendeil.com/,Error,False,Timeout
+http://www.micrel.com/,Error,False,Timeout
+http://www.kenlott.com/,Success,False,
+http://www.kentdisplays.com/,Error,False,Timeout
+http://www.kentrontech.com/,Error,False,Timeout
+http://www.kenwood.com/,Error,False,Timeout
+http://www.kester.com/,Error,False,Timeout
+http://www.rtie.com/,Error,False,Timeout
+http://www.mgrind.com/,Error,False,Timeout
+http://www.kmepc.com/,Success,False,
+http://www.keysight.com/main/home.jspx?cc=CA&lc=eng,Success,False,
+http://www.keyelco.com/,Error,False,Timeout
+http://www.keytronics.com/,Error,False,Timeout
+http://www.khatod.com/,Error,False,Timeout
+http://www.khelamps.de/en/index.php,Error,False,Timeout
+http://www.kimrenbattery.com/,Error,False,Timeout
+http://www.kingbank.com,Error,False,Timeout
+http://www.kingbrightusa.com/,Error,False,Timeout
+http://www.kingcore.com/,Success,True,
+http://www.kingfont.com/,Error,False,Timeout
+http://www.kingley.com/,Error,False,Timeout
+http://www.kingselectronics.com/,Error,False,"Message: unknown error: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000104defd28 chromedriver + 4795688
+1   chromedriver                        0x0000000104de72b3 chromedriver + 4760243
+2   chromedriver                        0x00000001049c088d chromedriver + 407693
+3   chromedriver                        0x00000001049b8928 chromedriver + 375080
+4   chromedriver                        0x00000001049a70c9 chromedriver + 303305
+5   chromedriver                        0x00000001049a87e6 chromedriver + 309222
+6   chromedriver                        0x00000001049a7497 chromedriver + 304279
+7   chromedriver                        0x00000001049a6208 chromedriver + 299528
+8   chromedriver                        0x00000001049a61ad chromedriver + 299437
+9   chromedriver                        0x00000001049a4a24 chromedriver + 293412
+10  chromedriver                        0x00000001049a4f6a chromedriver + 294762
+11  chromedriver                        0x00000001049c370e chromedriver + 419598
+12  chromedriver                        0x0000000104a53165 chromedriver + 1007973
+13  chromedriver                        0x0000000104a36ca2 chromedriver + 892066
+14  chromedriver                        0x0000000104a52b2b chromedriver + 1006379
+15  chromedriver                        0x0000000104a36a73 chromedriver + 891507
+16  chromedriver                        0x0000000104a01143 chromedriver + 672067
+17  chromedriver                        0x0000000104a0231e chromedriver + 676638
+18  chromedriver                        0x0000000104db0795 chromedriver + 4536213
+19  chromedriver                        0x0000000104db5853 chromedriver + 4556883
+20  chromedriver                        0x0000000104d96001 chromedriver + 4427777
+21  chromedriver                        0x0000000104db659d chromedriver + 4560285
+22  chromedriver                        0x0000000104d8748c chromedriver + 4367500
+23  chromedriver                        0x0000000104dd60e8 chromedriver + 4690152
+24  chromedriver                        0x0000000104dd629e chromedriver + 4690590
+25  chromedriver                        0x0000000104de6eee chromedriver + 4759278
+26  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+27  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://www.kingston.com/,Error,False,Timeout
+http://www.kingtronics.com/,Error,False,Timeout
+http://www.kingtronics.com/,Error,False,Timeout
+http://www.kinsun.com/,Success,True,
+http://www.esterline.com/engineeredmaterials/KirkhillProducts/Profile/KirkhillElastomers.aspx,Error,False,Timeout
+http://www.esterline.com/engineeredmaterials/Overview.aspx,Success,False,
+https://www.te.com/usa-en/products/brands/kissling.html?tab=pgp-story,Error,False,Timeout
+http://kiwiinst.com/,Error,False,Timeout
+http://www.sensata.com/,Error,False,Timeout
+http://www.klocknermoeller.com/,Success,True,
+http://www.klsele.com/,Success,True,
+http://www.k-micro.us/,Success,False,
+http://www.knitter-switch.com/,Error,False,Timeout
+https://www.knorr-bremse.com/en/,Error,False,Timeout
+http://www.knowles.com/,Error,False,Timeout
+http://www.semtexindustrial.com/knox.html,Error,False,Timeout
+http://www.koaspeer.com/,Error,False,Timeout
+http://www.kodak.com/,Error,False,Timeout
+http://www.kodenshi.co.jp/english/,Success,False,
+http://www.koe.j-display.com ,Success,False,
+http://www.kolektor.com/,Error,False,Timeout
+http://www.konek.com/,Success,False,
+http://www.kontek-comatel.com/eng/,Error,False,Timeout
+http://us.kontron.com/,Error,False,Timeout
+http://www.kopin.com/,Error,False,Timeout
+http://www.korchip.com,Success,True,
+http://www.kostal.com/,Error,False,Timeout
+http://www.kouhi.com/,Success,False,
+http://www.kristel.com/,Success,True,
+http://www.krlbantry.com/,Success,True,
+http://www.kroy.com/,Error,False,Timeout
+http://www.kraecker.de/,Error,False,Timeout
+http://www.ksmelectronics.com/,Error,False,Timeout
+http://www.avx.com/kss.html,Error,False,Timeout
+http://www.ktassemblies.co.uk/,Success,True,
+http://www.ktronicslc.com/,Error,False,Timeout
+http://www.kuhnke.com/,Error,False,Timeout
+http://www.marathonsp.com/,Error,False,Timeout
+http://www.ikum.kr/en,Success,False,
+http://www.yongyutai.com/,Success,False,
+http://www.kvg-gmbh.de/,Error,False,Timeout
+http://www.kwalityindia.com/,Success,False,
+http://www.kycon.com/,Success,False,
+http://global.kyocera.com/,Error,False,Timeout
+http://www.kitrans.com/,Error,False,Timeout
+http://www.microdyne.com/,Error,False,Timeout
+http://www.labtec.com/,Success,False,
+https://www.laird.com/,Error,False,Timeout
+http://www.lairdtech.com/,Error,False,Timeout
+https://www.e-switch.com/,Error,False,Timeout
+http://www.lambdapower.com/,Error,False,Timeout
+http://www.laminasi.com.pl/index_en.htm,Success,False,
+http://www.landmarktek.com/,Success,False,
+http://www.lansdale.com/,Success,True,
+http://www.lanser-displaytech.de/en/,Success,False,
+https://www.lansus.com/,Error,False,Timeout
+https://www.lantiq.com/,Error,False,Timeout
+http://www.lantronix.com/,Error,False,Timeout
+http://www.lanwave.com/,Success,False,
+https://www.lappkabel.com/,Error,False,Timeout
+http://www.laptech.com/,Error,False,Timeout
+https://www.lasaero.com/,Success,False,
+http://www.lasermate.com/,Error,False,Timeout
+http://www.latticesemi.com/,Error,False,Timeout
+http://www.lavalink.com/,Error,False,Timeout
+http://www.lawsonfuses.eu/,Success,False,
+http://www.lightcountry.com/,Success,True,
+http://www.lightingcomponents.com/,Error,False,Timeout
+http://www.lc-led.com/,Success,True,
+http://www.l-com.com/home.aspx,Error,False,Timeout
+http://www.lcr-inc.com/,Error,False,Timeout
+http://www.logicconcept.eu/about_firm/,Error,False,Timeout
+http://www.ldic.com/,Success,True,
+http://www.ldxoptronics.com/,Success,False,
+http://www.leachintl.com/,Error,False,Timeout
+http://www.leadis.com/,Success,False,
+http://www.leadman.com/,Error,False,Timeout
+http://www.leamax.com/,Success,False,
+http://www.lear.com/,Error,False,Timeout
+http://www.leclanche.ch/,Error,False,Timeout
+http://www.leddynamics.com/,Error,False,Timeout
+http://www.ledex.com/,Error,False,Timeout
+http://www.ledil.fi/,Error,False,Timeout
+http://www.ledopto.pl/en/,Error,False,Timeout
+http://www.ledpower.com/,Error,False,Timeout
+http://www.ledtechusa.com/,Error,False,Timeout
+http://www.ledtrolight.com,Success,False,
+http://www.ledtronics.com/,Error,False,Timeout
+http://www.vcclite.com/index.php,Error,False,Timeout
+http://www.legacyelectronics.com/,Error,False,Timeout
+http://www.legato.com/,Error,False,Timeout
+http://www.legerity.com/,Success,False,
+http://www.lem.com/hq/en,Error,False,Timeout
+http://www.lemo.com/,Error,False,Timeout
+http://www.lenline.ca/,Error,False,Timeout
+http://www.lenovo.com/ca/,Error,False,Timeout
+http://leonif.diytrade.com/,Error,False,Timeout
+http://www.level1fasteners.com/,Error,False,Timeout
+http://www.level1.com/,Success,False,
+http://www.lexmark.com/,Error,False,Timeout
+http://www.lgdisplay.com/,Error,False,Timeout
+http://www.lgphilips-lcd.com/,Success,False,
+http://www.hynix.com/,Error,False,Timeout
+http://www.lginnotek.co.kr,Success,False,
+http://www.lgdisplay.com/eng/main,Success,True,
+http://www.elexp.com/,Error,False,Timeout
+http://www.lighthouse-tech.com,Error,False,Timeout
+http://www.lian-li.com/,Error,False,Timeout
+http://www.liean-gimn.com/,Success,False,
+http://www.lightcountry.com/,Success,True,
+http://www.rfconnector.com/,Error,False,Timeout
+http://www.ligitek.com/,Error,False,Timeout
+https://limemicro.com/,Error,False,Timeout
+http://www.lindstromtools.com/,Error,False,"Message: no such execution context
+  (Session info: chrome=119.0.6045.159)
+Stacktrace:
+0   chromedriver                        0x0000000103461d28 chromedriver + 4795688
+1   chromedriver                        0x00000001034592b3 chromedriver + 4760243
+2   chromedriver                        0x00000001030326bd chromedriver + 407229
+3   chromedriver                        0x0000000103018b16 chromedriver + 301846
+4   chromedriver                        0x00000001030169b6 chromedriver + 293302
+5   chromedriver                        0x00000001030170d9 chromedriver + 295129
+6   chromedriver                        0x00000001030285db chromedriver + 366043
+7   chromedriver                        0x0000000103040058 chromedriver + 462936
+8   chromedriver                        0x000000010304608b chromedriver + 487563
+9   chromedriver                        0x0000000103017920 chromedriver + 297248
+10  chromedriver                        0x000000010303fd32 chromedriver + 462130
+11  chromedriver                        0x00000001030c4b97 chromedriver + 1006487
+12  chromedriver                        0x00000001030a8a73 chromedriver + 891507
+13  chromedriver                        0x0000000103073143 chromedriver + 672067
+14  chromedriver                        0x000000010307431e chromedriver + 676638
+15  chromedriver                        0x0000000103422795 chromedriver + 4536213
+16  chromedriver                        0x0000000103427853 chromedriver + 4556883
+17  chromedriver                        0x0000000103408001 chromedriver + 4427777
+18  chromedriver                        0x000000010342859d chromedriver + 4560285
+19  chromedriver                        0x00000001033f948c chromedriver + 4367500
+20  chromedriver                        0x00000001034480e8 chromedriver + 4690152
+21  chromedriver                        0x000000010344829e chromedriver + 4690590
+22  chromedriver                        0x0000000103458eee chromedriver + 4759278
+23  libsystem_pthread.dylib             0x00007ff80a62f1d3 _pthread_start + 125
+24  libsystem_pthread.dylib             0x00007ff80a62abd3 thread_start + 15
+"
+http://lineartech.com/,Error,False,Timeout
+http://www.linear.com/,Error,False,Timeout
+http://www.linemaster.com/,Error,False,Timeout
+http://www.microsemi.com/,Error,False,Timeout
+http://www.link-tec.com/,Success,False,
+http://www.linksys.com/,Error,False,Timeout
+https://www.lintek.com.au/,Error,False,Timeout
+http://www.linxtechnologies.com/,Error,False,Timeout
+http://www.linearsystems.com/,Error,False,Timeout
+http://www.litelink.com/,Error,False,Timeout
+https://www.litemax.com/,Error,False,Timeout
+http://www.us.liteon.com/opto.index.html,Error,False,Timeout
+http://www.diodes.com/,Error,False,Timeout
+http://www.liteon-semi.com/,Error,False,Timeout
+https://www.littelfuse.com/,Error,False,Timeout
+http://www.littonppi.com/,Error,False,Timeout
+http://www.philmore-datak.com/,Success,True,
+http://www.bjlcs-tech.com,Error,False,Timeout
+http://www.lmicorp.com/,Success,True,
+http://www.natlinear.com/,Success,False,
+http://www.locosystech.com/,Error,False,Timeout
+http://www.locosystech.com,Success,False,
+http://www.henkel.com/,Success,True,
+http://www.logicdevices.com/,Success,False,
+http://www.logictechnologies.com/,Success,True,
+http://www.logicaldevices.com/,Error,False,Timeout
+http://www.logitech.com/,Success,False,
+http://www.longwell.com/,Success,False,
+https://www.lonten.cc/,Success,False,
+http://www.lontiumsemi.com,Success,False,
+http://www.lorch.com/,Error,False,Timeout
+http://www.lorlinelectronics.com/,Error,False,Timeout
+http://chip-link.com,Success,False,
+https://www.lowpowers.com/,Error,False,Timeout
+http://www.lptech.com/,Error,False,Timeout
+http://www.logicpd.com/,Error,False,Timeout
+http://www.lsis.co.kr,Error,False,Timeout
+http://www.lsicsi.com/,Error,False,Timeout
+http://www.lspst.com/,Error,False,Timeout
+http://www.ltec.fujikura.co.th/,Success,False,
+http://www.lubriplate.com/,Success,False,
+http://www.alcatel-lucent.com/,Error,False,Timeout
+https://www.lufft.com/,Error,False,Timeout
+http://www.cooperhandtools.com/,Error,False,Timeout
+http://www.lumberg.com/,Success,True,
+http://www.lumex.com/,Error,False,Timeout
+http://www.lumileds.com/,Error,False,Timeout
+http://www.fiberxon.com/,Success,False,
+http://www.luminioussales.com/,Success,False,
