@@ -1,0 +1,871 @@
+URL,Status,Keyword Found,Error Reason
+http://www.2e-mechatronic.de,Success,False,
+http://www.3com.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.nvidia.com/,Success,False,
+http://www.3lcoil.com/,Success,False,
+http://www.3m.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+www.3peakic.com.cn,Error,False,Invalid URL 'www.3peakic.com.cn': No scheme supplied. Perhaps you meant https://www.3peakic.com.cn?
+http://www.3rlab.com/,Success,False,
+http://www.3ware.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.3ypower.com/,Success,False,
+http://www.4dsystems.com.au/,Success,True,
+www.aosmd.com/,Error,False,Invalid URL 'www.aosmd.com/': No scheme supplied. Perhaps you meant https://www.aosmd.com/?
+http://www.a1semi.com,Success,False,
+http://www.8681.tradebig.com/,Error,False,403 Client Error: Forbidden for url: http://www.8681.tradebig.com/
+http://www.aaeon.com/,Success,True,
+http://www.aaicorp.com/,Success,False,
+http://www.aakcorp.com/,Success,True,
+http://www.aamsi.com/,Success,False,
+http://www.aavidthermalloy.com/,Success,False,
+https://global.abb/group/en,Success,False,
+https://new.abb.com/low-voltage/products/wire-cable-management/wiring-duct-trunking,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.abbatron.com/,Error,False,403 Client Error: Forbidden for url: http://www.abbatron.com/
+http://www.abbott-tech.com/,Success,False,
+http://www.abb.com/semiconductors,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.abco.co.kr,Success,False,
+http://www.ttabconnectors.com/,Error,False,"HTTPSConnectionPool(host='www.ttelectronics.com', port=443): Max retries exceeded with url: /products/brands/ab-connectors/ (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1007)')))"
+http://www.abctwn.com.tw/eng51.htm,Error,False,404 Client Error: Not Found for url: https://www.atec-group.com/eng51.htm
+http://www.all-best.com.tw/html/index.asp,Success,False,
+http://www.abelconn.com/,Error,False,403 Client Error: Forbidden for url: http://abelconn.com/
+http://www.abelektronik.com/home.html,Error,False,404 Client Error: Not Found for url: http://www.abelektronik.com/home.html
+www.abilis.com,Error,False,Invalid URL 'www.abilis.com': No scheme supplied. Perhaps you meant https://www.abilis.com?
+https://www.ablic.com/en/semicon/,Success,True,
+https://www.ablic.com/,Success,True,
+ttps://www.abov.co.kr/en/main.php,Error,False,No connection adapters were found for 'ttps://www.abov.co.kr/en/main.php'
+http://www.abracon.com/,Error,False,403 Client Error: Forbidden for url: http://www.abracon.com/
+http://www.advancedbattery.ca/,Error,False,403 Client Error: Forbidden for url: http://www.advancedbattery.ca/
+http://www.zoominfo.com/c/ab-semicon-ltd./98713,Error,False,403 Client Error: Forbidden for url: https://www.zoominfo.com/c/ab-semicon-ltd./98713
+http://www.absolutebattery.co.uk/,Success,False,
+http://www.acard.com/english/home.jsp,Error,False,404 Client Error: Not Found for url: http://www.acard.com/english/home.jsp
+http://www.acbel.com/,Success,False,
+http://www.americancapacitor.com/,Error,False,406 Client Error: Not Acceptable for url: http://www.americancapacitor.com/
+http://www.accmicro.com/,Success,False,
+http://www.acco.com/,Success,False,
+http://www.accton.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.acculex.com/,Success,True,
+http://www.acculogic.com/,Success,True,
+http://www.accutekmicro.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.acer.ca/,Success,False,
+http://www.advancedcomponents.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.aclstaticide.com/01/index.html,Error,False,404 Client Error: Not Found for url: https://www.aclstaticide.com/01/index.html
+http://www.acmeindustrial.com/,Success,True,
+http://www.acon.com/wps/wcm/connect/en/home/index.htm,Success,False,
+http://www.acopian.com/,Success,True,
+http://www.acptechnologies.com/,Success,False,
+http://acrian.com/,Success,False,
+http://www.acromag.com/index.cfm,Success,True,
+http://www.acrosser.com/,Success,True,
+http://www.honeywell.com/sites/acs/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.act1.com/home/index.php,Error,False,406 Client Error: Not Acceptable for url: http://www.act1.com/home/index.php
+http://www.actel.com/,Error,False,403 Client Error: Forbidden for url: https://www.microchip.com/en-us/products/fpgas-and-plds
+www.actions-micro.com,Error,False,Invalid URL 'www.actions-micro.com': No scheme supplied. Perhaps you meant https://www.actions-micro.com?
+http://www.actiontec.com/,Success,False,
+http://www.sst.com/,Success,False,
+http://www.actronixinc.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.actron.com/,Success,False,
+http://www.powersupplies.net/default.asp,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.acxc.com.tw/,Success,True,
+www.adata.com.cn,Error,False,Invalid URL 'www.adata.com.cn': No scheme supplied. Perhaps you meant https://www.adata.com.cn?
+http://adagecomponents.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.adam-tech.com/,Success,True,
+http://www.adam-tech.com/,Success,True,
+http://www.adaptec.com/,Error,False,"HTTPSConnectionPool(host='www.adaptec.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))"
+www.adata.com.cn,Error,False,Invalid URL 'www.adata.com.cn': No scheme supplied. Perhaps you meant https://www.adata.com.cn?
+http://www.adc.com/,Success,False,
+http://www.adco.ca/,Success,False,
+http://www.addausa.com/,Success,False,
+http://www.addtronics.com/,Error,False,403 Client Error: Forbidden for url: http://www.addtronics.com/
+http://adestotech.com,Error,False,523 Server Error:  for url: http://adestotech.com/
+http://www.adeunis-rf.com,Success,False,
+http://www.analog.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.quantum.com/,Error,False,"HTTPConnectionPool(host='www.quantum.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb04f41c0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.adsi-fm.com/,Error,False,"HTTPConnectionPool(host='www.adsi-fm.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb04f4220>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.fenghua-advanced.com/,Error,False,"HTTPConnectionPool(host='127.0.0.1', port=1082): Max retries exceeded with url: http://www.fenghua-advanced.com/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb04f41c0>: Failed to establish a new connection: [Errno 61] Connection refused')))"
+http://www.advancechip.com/,Success,False,
+www.advanced.com,Error,False,Invalid URL 'www.advanced.com': No scheme supplied. Perhaps you meant https://www.advanced.com?
+http://www.advantagememory.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.advantech.com/,Success,False,
+http://www.actcrystals.com/,Success,True,
+http://www.advanced-monolithic.com/,Success,True,
+http://www.philips.com/,Success,False,
+http://www.aeccrystal.com/,Error,False,403 Client Error: Forbidden for url: http://www.aeccrystal.com/
+https://www.aegps.com/,Success,False,
+http://no website,Error,False,"HTTPConnectionPool(host='no%20website', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb04f6650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.vishay.com/,Success,True,
+http://www.aelcrystals.co.uk/,Error,False,403 Client Error: Forbidden for url: https://abracon.com/brands/ael-crystals?utm_source=aelcrystals.co.uk&utm_medium=301
+http://www.ael.ca/vendors.php,Error,False,404 Client Error: Not Found for url: http://www.ael.ca/vendors.php
+http://www.aem-usa.com/,Success,True,
+http://www.aeneon.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.aepvalvebox.com/,Success,False,
+http://www.aerocommthailand.com/,Success,False,
+http://www.aero-electric.com/,Success,True,
+http://www.aeroflex.com/,Success,False,
+http://www.aeroflex.com/ams/metelics/micro-metelics-prods.cfm,Success,True,
+http://www.airco-international.com/,Success,True,
+http://www.aerospaceonline.com/doc/aerospace-rivet-manufacturers-corp-0001,Success,False,
+http://www.aerotekmfg.com/,Success,False,
+http://www.aerovox.com/,Success,False,
+http://www.aesp.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.afcap.co.za/,Success,False,
+http://www.afcon.org/about.html,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.b2bmit.com/showroom-9008992.htm,Error,False,"HTTPSConnectionPool(host='www.b2bmit.com', port=443): Max retries exceeded with url: /showroom-9008992.htm (Caused by SSLError(SSLError(1, '[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1007)')))"
+http://www.aftech-intl.com/,Success,False,
+http://relays.tycoelectronics.com/agastat.asp,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.lsi.com/,Success,False,
+http://www.home.agilent.com/agilent/home.jspx?cc=us&lc=eng&cmpid=4533,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.jdsu.com/,Success,True,
+http://www.aha.com/,Error,False,409 Client Error: Conflict for url: http://www.aha.com/
+http://www.a-head.com.tw/,Success,False,
+http://www.ahg.fr/siteahg_web/uk/index.awp,Error,False,404 Client Error: Not Found for url: http://www.ahg.fr/siteahg_web/uk/index.awp
+https://hanrun.dzsc.com/,Success,False,
+http://www.ahsltd.com/,Success,False,
+http://www.ai-thinker.com/,Success,False,
+http://www.advanced.com/,Success,True,
+http://www.aidelect.com/default.html,Error,False,403 Client Error: Forbidden for url: https://www.hugedomains.com/domain_profile.cfm?d=aidelect.com
+http://www.aimelectronics.com/,Error,False,406 Client Error: Not Acceptable for url: http://www.aimelectronics.com/
+http://www.aimtec.com/,Success,True,
+http://www.aimtroncorporation.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.amphenol-aipc.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.airborn.com/,Success,False,
+http://www.airbus.com/,Success,False,
+http://airfasco.com/index.php,Success,True,
+http://www.okinternational.com/,Error,False,"HTTPSConnectionPool(host='www.okinternational.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))"
+http://www.airindustriesgroup.com/subsidiaries/air-industries-machining-corp/,Error,False,403 Client Error: Forbidden for url: http://www.airindustriesgroup.com/subsidiaries/air-industries-machining-corp/
+http://www.airlinktransformers.com/,Success,True,
+http://www.airoha.com.tw,Error,False,"HTTPSConnectionPool(host='www.airoha.com.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError(""hostname 'www.airoha.com.tw' doesn't match either of 'www.airoha.com', 'airoha.com'"")))"
+http://www.ai-tek.us/passive-speed-sensors.php,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.aiphone.com/,Error,False,403 Client Error: Forbidden for url: http://www.aiphone.com/
+Aishi.us,Error,False,Invalid URL 'Aishi.us': No scheme supplied. Perhaps you meant https://Aishi.us?
+www.ait-ic.com ,Error,False,Invalid URL 'www.ait-ic.com ': No scheme supplied. Perhaps you meant https://www.ait-ic.com ?
+http://www.aitech.com/,Success,False,
+http://www.ajile.com/,Success,False,
+http://www.akaneohm.com/,Success,False,
+http://www.akm.com/,Success,False,
+http://www.ak2power.com/,Error,False,403 Client Error: Forbidden for url: https://ak2power.com/
+http://www.akm.com/,Success,False,
+http://www.akro-mils.com/,Success,False,
+http://www.alacritech.com/,Success,False,
+http://www.albacom.co.uk/web/site/microwave/micro_index.asp,Error,False,403 Client Error: Forbidden for url: http://www.albacom.co.uk/web/site/microwave/micro_index.asp
+http://www.albacom.co.uk/web/site/power/pow_index.asp,Error,False,403 Client Error: Forbidden for url: http://www.albacom.co.uk/web/site/power/pow_index.asp
+http://www.albatron.com.tw/,Success,False,
+http://www.alcatel-lucent.com/wps/portal,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.alcormicro.com,Success,False,
+http://www.te.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.aldinc.com/,Success,True,
+http://www.alfalight.com/,Success,False,
+https://www.alfatronix.com/,Success,False,
+http://www.algoodwell.com/,Success,False,
+http://www.ali.com.tw/,Success,True,
+www.alinx.com/en,Error,False,Invalid URL 'www.alinx.com/en': No scheme supplied. Perhaps you meant https://www.alinx.com/en?
+allsensors.com,Error,False,Invalid URL 'allsensors.com': No scheme supplied. Perhaps you meant https://allsensors.com?
+http://www.asiacom.cn,Success,False,
+http://www.allanaircraft.com/,Success,False,
+http://www.amslink.com/allayer2/company.html,Error,False,403 Client Error: Forbidden for url: https://www.hugedomains.com/domain_profile.cfm?d=amslink.com
+http://www.allegromicro.com/en/,Success,True,
+http://www.ab.com/,Success,False,
+http://www.allfastinc.com/,Success,False,
+http://www.alliancememory.com/,Success,True,
+http://www.alsc.com/,Success,False,
+https://www.alliedcomponents.com/,Success,False,
+http://www.alliedcontrols.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://honeywell.com/pages/home.aspx,Success,False,
+http://www.alliedtelesyn.com/,Error,False,404 Client Error: Not Found for url: http://www.alliedtelesyn.com/
+https://www.all-sun.com/,Success,True,
+https://www.moreopp.com/company-details-44/12108815.html,Success,False,
+https://www.allwinnertech.com/,Success,False,
+www.allwinnertech.com,Error,False,Invalid URL 'www.allwinnertech.com': No scheme supplied. Perhaps you meant https://www.allwinnertech.com?
+http://www.almag.com/,Success,False,
+http://alnanico.en.busytrade.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.alpha3manufacturing.com/,Success,False,
+http://www.alpha-elec.co.jp/e_index.html,Success,False,
+http://alpha-ind.com/,Success,True,
+http://www.alpha-microelectronics.de/,Success,True,
+http://www.alpha-products.com/,Success,False,
+http://www.exar.com/,Success,False,
+http://www.alphawire.com/,Success,False,
+https://www.alpsalpine.com/e/,Success,False,
+http://www.alps.com/,Success,False,
+http://www.alta-robbins.com/,Success,False,
+www.altadt.com,Error,False,Invalid URL 'www.altadt.com': No scheme supplied. Perhaps you meant https://www.altadt.com?
+http://www.altair.com/default.aspx,Success,False,
+http://www.altech-group.com/ats_aboutus.htm,Error,False,404 Client Error: Not Found for url: https://altech-group.com/ats_aboutus.htm
+http://www.altera.com/,Success,False,
+http://www.alternateconnect.com,Error,False,404 Client Error: Not Found for url: http://www.alternateconnect.com/
+http://www.broadcom.com/,Success,False,
+http://www.altronix.com/,Success,True,
+http://www.alux-luxar.de,Error,False,503 Server Error: Service Unavailable for url: http://www.alux-fahrzeugfenster.de/
+http://www.amatom.com/,Success,True,
+http://www.amazingic.com/,Success,False,
+www.ambarella.com.tw,Error,False,Invalid URL 'www.ambarella.com.tw': No scheme supplied. Perhaps you meant https://www.ambarella.com.tw?
+http://ambercaps.com/,Success,False,
+http://www.amcc.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.amco.com.tw/index.html,Error,False,404 Client Error: Not Found for url: https://www.amco.com.tw/index.html
+http://www.amd.com/us-en/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.advancedmicro.com/flash/home.html,Error,False,"HTTPConnectionPool(host='www.advancedmicro.com', port=80): Max retries exceeded with url: /flash/home.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097c310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.amelco.com/,Error,False,"HTTPConnectionPool(host='www.amelco.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097c190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.americanbrightled.com/,Error,False,"HTTPConnectionPool(host='www.americanbrightled.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097ff40>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.aecsensors.com/,Error,False,"HTTPConnectionPool(host='www.aecsensors.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097feb0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.americanlock.com/,Error,False,"HTTPConnectionPool(host='www.americanlock.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097c430>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.apiams.com/api/apimain.html,Error,False,"HTTPConnectionPool(host='www.apiams.com', port=80): Max retries exceeded with url: /api/apimain.html (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097c550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.ametek.com/,Error,False,"HTTPConnectionPool(host='www.ametek.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097c280>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.ametherm.com/,Error,False,"HTTPConnectionPool(host='127.0.0.1', port=1082): Max retries exceeded with url: http://www.ametherm.com/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097c490>: Failed to establish a new connection: [Errno 61] Connection refused')))"
+http://www.onsemi.com/,Error,False,"HTTPConnectionPool(host='127.0.0.1', port=1082): Max retries exceeded with url: http://www.onsemi.com/ (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb097ceb0>: Failed to establish a new connection: [Errno 61] Connection refused')))"
+http://www.amictechnology.com/,Success,False,
+http://www.amkor.com/,Success,False,
+http:////www.amotech.co.kr/eng/,Error,False,Invalid URL 'http:////www.amotech.co.kr/eng/': No host supplied
+http://www.tycoelectronics.com/components/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ampal-inc.com/,Error,False,403 Client Error: Forbidden for url: https://www.usmetalpowders.com/
+http://www.atlbattery.com/about/en/about-1.htm,Error,False,404 Client Error: Not Found for url: https://www.atlbattery.com/about/en/about-1.htm
+http://www.amperite.com/,Error,False,403 Client Error: Forbidden for url: http://www.amperite.com/
+http://www.ampex.com/,Error,False,403 Client Error: Forbidden for url: http://www.ampex.com/
+http://www.amphenol.com/,Error,False,403 Client Error: Forbidden for url: http://www.amphenol.com/
+http://www.amphenol-aerospace.com/,Success,True,
+http://www.fci.com/,Error,False,403 Client Error: Forbidden for url: https://www.amphenol-cs.com/
+http://www.amphenol-sine.com/     ,Error,False,403 Client Error: Forbidden for url: http://www.amphenol-sine.com/%20%20%20%20%20
+http://www.amphenolrf.com/,Success,True,
+http://www.amphenol.info/en/index.shtml,Error,False,404 Client Error: Not Found for url: http://www.amphenol.info/en/index.shtml
+http://www.amphus.com/,Success,True,
+http://www.ampire.com.tw/eng_web/index_en.htm,Success,False,
+http://www.amplitronix.com/,Success,False,
+http://www.adlinktech.com/ampro/home.html,Error,False,404 Client Error: Not Found for url: https://www.adlinktech.com/ampro/home.html
+http://www.amprobe.com/,Success,False,
+http://www.ams2000.com/,Error,False,403 Client Error: Forbidden for url: http://www.ams2000.com/
+http://www.amtouch.com.tw/,Success,True,
+http://www.amtek-semi.com/en/,Success,False,
+http://www.am-transformers.com/,Success,True,
+http://www.amveco.com/,Success,False,
+http://www.amwei.com/,Error,False,403 Client Error: Forbidden for url: http://amwei.com/
+http://www.azettler.com/fileadmin/templates/home.php,Error,False,404 Client Error: Not Found for url: https://www.azettler.com/fileadmin/templates/home.php
+http://www.diodes.com/,Success,False,
+http://www.anadigics.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.anadigm.com/,Success,False,
+http://www.analog.com.tw/index.asp?lang=en&,Success,False,
+http://www.analogpowerinc.com/,Success,False,
+https://www.analog.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.analogictech.com/,Success,False,
+http://www.analogue-micro.com/,Success,True,
+http://www.anaren.com/,Success,True,
+http://www.anaren.com/,Success,True,
+http://www.anasemi.com/,Success,False,
+http://www.purdyelectronics.com/products/displays/default.cfm,Success,False,
+http://www.andersonselectronics.com/,Success,True,
+http://www.andigilog.com/,Error,False,404 Client Error: Not Found for url: http://www.andigilog.com/
+www.andonelect.com ,Error,False,Invalid URL 'www.andonelect.com ': No scheme supplied. Perhaps you meant https://www.andonelect.com ?
+http://www.purdyelectronics.com/products/opto/default.cfm,Success,False,
+http://www.angelica.com/,Success,False,
+http://www.vishay.com/company/brands/angstrohm/,Success,True,
+http://www.angus.com/,Success,False,
+http://www.anilloinc.com/,Success,False,
+http://www.anpec.com.tw/,Success,False,
+http://www.anritsu.com/,Error,False,403 Client Error: Forbidden for url: http://www.anritsu.com/
+http://www.ansellpro.com/,Error,False,403 Client Error: Forbidden for url: https://www.ansell.com/us/en/factory-certificate-search
+http://www.yes-lcd.com/comcontent_detail/&i=4&comcontentid=4.html,Error,False,406 Client Error: Not Acceptable for url: https://www.yes-lcd.com/comcontent_detail/&i=4&comcontentid=4.html
+http://www.antaya.com/,Success,True,
+http://www.antec.com/,Success,False,
+https://www.antenova.com/,Error,False,403 Client Error: Forbidden for url: https://www.antenova.com/
+http://www.aoctech.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ii-vi.com/business_units/aofr.html,Error,False,404 Client Error: Not Found for url: https://ii-vi.com/business_units/aofr.html
+http://www.allproducts.com/manufacture1/aohm/,Success,True,
+http://www.aopen.com/eu/products,Success,False,
+http://www.aosmd.com/,Success,False,
+http://www.aot.com.tw/,Success,False,
+http://www.aoyue.com/en,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.apacoe.com.tw/apac/,Error,False,404 Client Error: Not Found for url: https://www.apacoe.com.tw/apac/
+http://www.apc-plc.co.uk/,Success,False,
+http://www.apd.com.tw/,Success,False,
+http://www.a-power.com.tw,Success,False,
+http://www.apem.com/,Success,False,
+http://www.apertonet.com/,Success,True,
+http://apex.cirrus.com/en/,Error,False,403 Client Error: Forbidden for url: http://apex.cirrus.com/en/
+http://www.advancedphotonix.com/,Success,False,
+http://www.delevan.com/,Success,True,
+http://aplus.osielectronics.com/,Success,True,
+http://www.apem.com/,Success,False,
+http://www.apmhexseal.com/,Success,False,
+http://www.apollodisplays.com/,Success,False,
+http://www.apolloelectronics.com/,Success,False,
+http://www.apc.com/,Success,False,
+http://www.andersonpower.com/,Success,False,
+http://www.appliedin.com/,Success,False,
+http://www.applied-optronics.com/,Success,False,
+http://www.appointech.com/,Success,True,
+http://www.ap-products.com/,Success,False,
+http://www.apricorn.com/,Success,False,
+http://www.automatedproduction.com/,Success,False,
+http://www.advpowertech.com/,Success,False,
+http://www.aptagroup.com/,Error,False,403 Client Error: Forbidden for url: https://perfectdomain.com/domain/aptagroup.com
+http://www.braider.com/about/,Success,True,
+http://www.arcoswitch.com/,Error,False,403 Client Error: Forbidden for url: https://www.hugedomains.com/domain_profile.cfm?d=arcoswitch.com
+http://www.arco-electronics.com/,Error,False,436 Client Error:  for url: http://www.arco-electronics.com/
+http://www.arcol.co.uk/,Success,False,
+http://www.arcotronics.com/cms/index.php,Success,False,
+http://www.arc-tronics.com/,Success,True,
+http://www.arieselec.com/,Success,True,
+http://www.ario.com.tw/,Success,True,
+http://www.arktwn.com.tw/,Success,True,
+http://www.arkmicro.com/en/index.htm,Error,False,403 Client Error: Forbidden for url: http://www.arkmicro.com/en/index.htm
+https://www.arlonemd.com/,Success,True,
+http://www.arm.com/,Success,False,
+http://www.arnold.af.mil/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://pewa.panasonic.com/,Success,False,
+http://www.arrayconnector.com/,Error,False,"HTTPSConnectionPool(host='www.arrayconnector.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError(""hostname 'www.arrayconnector.com' doesn't match either of 'qira.net', '*.qira.net'"")))"
+http://www.eaton.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.artery2000.com/,Success,False,
+http://www.powerconversion.com/,Success,False,
+http://www.arthur-yang.com.tw/,Success,True,
+http://www.arm.com/,Success,False,
+http://www.artisancontrols.com/,Success,True,
+http://www.artisoft.net/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.aosong.com/,Success,False,
+http://www.asante.com/,Success,False,
+http://www.listcompany.org/asb_inc_info.html,Success,False,
+http://www.ascapacitor.com/,Success,True,
+http://www.ascom.com/en,Success,True,
+http://www3.asemal.com.my/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.asg-jergens.com/,Success,True,
+http://www.advancedsemiconductor.com/,Success,False,
+http://www.computerhope.com/comp/asiliant.htm,Success,True,
+http://www.asix.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.asj.com.sg/,Success,False,
+http://www.mmaasmedia.com/,Success,False,
+www.aspeedtech.com  ,Error,False,Invalid URL 'www.aspeedtech.com  ': No scheme supplied. Perhaps you meant https://www.aspeedtech.com  ?
+http://www.aspro.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.americanbeautytools.com/,Success,True,
+http://www.assmannusa.com/,Success,False,
+http://astmachines.com/,Success,False,
+http://www.powerconversion.com/,Success,False,
+http://www.astrodyne.com/,Success,True,
+http://www.astroncorp.com/,Success,False,
+http://www.astrotool.com/,Success,True,
+http://www.asus.com/,Error,False,401 Client Error: Unauthorized for url: https://www.asus.com/
+http://www.atceramics.com/,Success,True,
+http://www.atcsd.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ate-electronics.com/,Success,False,
+http://www.atechtpe.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.atecom.com/,Success,False,
+http://www.ate-electronics.com/eng/indexeng.htm,Error,False,404 Client Error: Not Found for url: https://www.ate-electronics.com/eng/indexeng.htm
+http://www.zoominfo.com/s/#!search/profile/company?companyid=5163831&targetid=profile,Error,False,403 Client Error: Forbidden for url: https://www.zoominfo.com/s/#!search/profile/company?companyid=5163831&targetid=profile
+http://www.atheros.com/,Success,False,
+http://www.analogtechnologies.com/,Success,False,
+http://www.atk.com/,Success,False,
+https://www.gmdu.net/corp-363850.html,Error,False,"HTTPSConnectionPool(host='www.gmdu.net', port=443): Max retries exceeded with url: /corp-363850.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))"
+http://www.atmel.com/,Error,False,403 Client Error: Forbidden for url: https://www.microchip.com/filehandler/redirect?http://www.atmel.com/
+www.atosolution.com,Error,False,Invalid URL 'www.atosolution.com': No scheme supplied. Perhaps you meant https://www.atosolution.com?
+http://www.atoptechnology.com/,Success,True,
+http://www.anytronic.com.tw,Success,False,
+http://www.atronix.com/,Success,False,
+http://www.qats.com/index.asp,Success,True,
+https://www.att.com/,Error,False,403 Client Error: Forbidden for url: https://www.att.com/
+http://www.attotech.com/,Success,False,
+http://www.zhone.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://auo.com/,Error,False,403 Client Error: ModSecurity Action for url: https://auo.com/
+http://www.audiocodes.com/,Error,False,403 Client Error: Forbidden for url: https://www.audiocodes.com/
+http://www.tycoelectronics.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.aukconnector.com/,Success,True,
+http://www.slpower.com/,Error,False,403 Client Error: Forbidden for url: https://slpower.com/
+http://www.aurel.it/en/,Success,True,
+http://www.aurorabearing.com/index.html,Success,True,
+http://www.auspex.com.au/,Success,False,
+http://www.austinsemiconductor.com/,Success,False,
+http://www.austriamicrosystems.com/,Success,True,
+http://www.autec.com/,Success,False,
+http://www.authentec.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.automaticconnector.com/,Success,False,
+http://www.autronic.de/enh/index.htm,Error,False,404 Client Error: Not Found for url: https://autronic.de/enh/index.htm
+http://www.avagotech.com/,Success,False,
+http://www.photonics.com/,Success,False,
+http://www.avance.com.tw/,Error,False,500 Server Error: Internal Server Error for url: https://www.avance.com.tw/
+http://www.avaya.com,Success,False,
+http://www.av-display.com.cn/en/,Error,False,"HTTPSConnectionPool(host='www.av-display.com.cn', port=443): Max retries exceeded with url: /en/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')))"
+http://www.aveddisplay.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.avedmemory.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.aventools.com/,Success,False,
+http://www.averlogic.com/,Success,False,
+http://www.averydennison.com/,Success,True,
+http://www.avnet.com/,Error,False,400 Client Error: Bad Request for url: http://www.avnet.com/
+http://www.avocent.com/,Error,False,403 Client Error: Forbidden for url: https://www.vertiv.com/en-us/products/brands/avocent-and-cybex/
+http://www.avomecindustries.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.avonmagnetics.com/,Success,True,
+http://www.avx.com/,Success,True,
+https://www.awag.ch/ekat/fr/search/kitagawa.html,Error,False,404 Client Error: Not Found for url: https://www.awag.ch/ekat/fr/search/kitagawa.html
+www.awinic.com.cn ,Error,False,Invalid URL 'www.awinic.com.cn ': No scheme supplied. Perhaps you meant https://www.awinic.com.cn ?
+http://www.allworldtech.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.axcelphotonics.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.axelite.com.tw,Success,False,
+http://axicom.com/,Error,False,403 Client Error: Forbidden for url: https://axicom.com/
+Axicon.com,Error,False,Invalid URL 'Axicon.com': No scheme supplied. Perhaps you meant https://Axicon.com?
+http://www.axiohm.com/,Success,False,
+http://www.axis.com/,Success,False,
+http://www.axon-cable.com/,Success,True,
+http://www.axt.com/site/index.php?q=node/1,Success,False,
+http://www.axtal.com/,Success,True,
+http://www.azdisplays.com/,Success,False,
+http://www.azi.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.azmicrotek.com/,Success,False,
+http://www.vishay.com/company/brands/aztronic/,Success,True,
+www.azurewave.com ,Error,False,Invalid URL 'www.azurewave.com ': No scheme supplied. Perhaps you meant https://www.azurewave.com ?
+http://www.babcock.com/,Success,False,
+http://www.baesystems.com/,Error,False,403 Client Error: Forbidden for url: https://www.baesystems.com/
+http://www.baknor.com/,Success,True,
+www.balluff.com,Error,False,Invalid URL 'www.balluff.com': No scheme supplied. Perhaps you meant https://www.balluff.com?
+http://www.bannerengineering.com/en-us/,Error,False,403 Client Error: Forbidden for url: http://www.bannerengineering.com/en-us/
+http://www.barantec.com/,Success,True,
+http://www.barber-colman.com/,Success,False,
+http://www.barcharts.com/,Success,False,
+http://www.barfieldinc.com/,Error,False,403 Client Error: Forbidden for url: https://www.barfieldinc.com/
+http://www.barnesgroupinc.com/,Success,False,
+http://acquired by intel,Error,False,"HTTPConnectionPool(host='acquired%20by%20intel', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fbeb0a87d90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+http://www.data-modul.com/,Success,True,
+http://www.baumer.com/ca-en/,Success,False,
+http://www.baynetworks.com/,Success,False,
+http://www.bit.com.tw,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.bcdsemi.com,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.molex.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://beautechinc.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+www.beckhoff.com.cn/zh-cn,Error,False,Invalid URL 'www.beckhoff.com.cn/zh-cn': No scheme supplied. Perhaps you meant https://www.beckhoff.com.cn/zh-cn?
+http://www.beckman.com/,Success,False,
+http://beechcraft.txtav.com/,Success,False,
+http://beechcraft.txtav.com/,Success,False,
+http://www.beiied.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+www.bekencorp.com ,Error,False,Invalid URL 'www.bekencorp.com ': No scheme supplied. Perhaps you meant https://www.bekencorp.com ?
+http://www.bekencorp.com/en/index.asp,Error,False,404 Client Error: Not Found for url: http://www.bekencorp.com/en/index.asp
+http://www.bel-india.com/index.aspx,Success,False,
+http://www.belden.com/,Success,False,
+http://www.belfuse.com/,Success,True,
+http://www.belkin.com/,Success,False,
+http://www.belling.com.cn/col89/index.htm1?id=89,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.belfuse.com/stewartconnector/,Success,False,
+http://www.belton.co.kr/,Success,False,
+http://en.bencent.com.cn,Success,False,
+http://www.ti.com/,Success,False,
+http://www.amphenol-aerospace.com/default.asp,Error,False,404 Client Error: Not Found for url: https://www.amphenol-aerospace.com/default.asp
+http://www.federalmogul.com/en-us/oe/brands/bentley-harris/pages/home.aspx,Success,False,
+http://portal.fciconnect.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.nexans.us/,Success,False,
+http://www.bermo.com/,Error,False,403 Client Error: Forbidden for url: http://www.bermo.com/
+http://www.bernier.tm.fr/index.php,Success,True,
+http://www.be-star.com/,Success,False,
+http://www.bestool.com/,Error,False,403 Client Error: Forbidden for url: https://sedo.com/search/details/?domain=www.bestool.com&campaignId=329145&origin=sales_lander_15
+http://www.bestrely.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.betatherm.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.bevco.com/,Success,False,
+http://www.beyond-tek.com/,Success,False,
+http://www.vishay.com/company/brands/beyschlag/,Success,True,
+http://www.bfc-inc.com/,Success,False,
+http://www.bglabs.com/,Success,False,
+http://www.bhc.co.uk/,Success,False,
+http://www.bhelectronics.com/,Success,True,
+http://www.bitechnologies.com/,Error,False,"HTTPSConnectionPool(host='www.ttelectronics.com', port=443): Max retries exceeded with url: /products/brands/bi-technologies/ (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1007)')))"
+http://www.bicron.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.binder-connector.co.uk/,Success,False,
+http://www.biofit.com/,Success,False,
+http://www.bipolar.com.tw/,Success,True,
+http://www.birtcherproducts.com/,Success,True,
+http://www.bishopelectronics.com,Success,True,
+http://www.bitek.com/,Success,False,
+http://www.bitronhvacsystems.com,Success,False,
+http://www.bivar.com/,Success,False,
+http://www.microsemi.com/,Success,False,
+http://bkprecision.com/,Success,False,
+www.belling.com.cn,Error,False,Invalid URL 'www.belling.com.cn': No scheme supplied. Perhaps you meant https://www.belling.com.cn?
+http://www.blackbox.com/,Error,False,403 Client Error: Forbidden for url: http://www.blackbox.com/
+http://www.bnlconnectors.com/about.html,Success,False,
+http://www.bliley.com/,Success,False,
+http://www.blockmaster.com/,Success,False,
+http://www.blpcomp.com/,Success,False,
+http://www.blsmagnet.com/en/,Success,True,
+http://www.bluechip.no/,Success,False,
+http://www.blueskyresearch.com/,Success,True,
+http://www.b-s-electric.com/,Success,False,
+http://www.hobart-electronics.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.boeing.com/,Success,False,
+https://www.boe.com/en/about/gsjs/,Error,False,404 Client Error: Not Found for url: https://www.boe.com/en/about/gsjs/
+http://www.bogen.com/,Success,False,
+http://www.bokers.com/,Success,True,
+http://www.bollhoff.com/web/usa/en/web.nsf/html/index_us.html,Error,False,404 Client Error: Not Found for url: https://www.boellhoff.com/web/usa/en/web.nsf/html/index_us.html
+http://www.bolymin.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.bomarcrystal.com/,Success,False,
+http://www.bomarinterconnect.com/,Error,False,"('Connection aborted.', BadStatusLine('HTTP/1.1 401.2 Unauthorized\r\n'))"
+http://www.bombardier.com/en/home.html,Success,False,
+http://www.bona.com/,Success,False,
+http://www.bonafide.com.hk/,Error,False,"HTTPSConnectionPool(host='www.bonafide.com.hk', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError(""hostname 'www.bonafide.com.hk' doesn't match 'bonafide.com.hk'"")))"
+http://www.bondhus.com/,Success,True,
+www.bookham.com,Error,False,Invalid URL 'www.bookham.com': No scheme supplied. Perhaps you meant https://www.bookham.com?
+http://www.bopla.de/en/home.html,Success,True,
+www.bordison.com,Error,False,Invalid URL 'www.bordison.com': No scheme supplied. Perhaps you meant https://www.bordison.com?
+http://bosanhitech.com/,Error,False,"HTTPSConnectionPool(host='bosanhitech.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError(""hostname 'bosanhitech.com' doesn't match 'c69126.sgvps.net'"")))"
+http://www.boschrexroth.ca/country_units/america/canada/en/index.jsp,Success,True,
+http://www.boser.com.tw/,Error,False,500 Server Error: Internal Server Error for url: http://www.boser.com.tw/
+http://www.bostonlasers.com/,Success,False,
+http://www.bothhandusa.com/,Error,False,406 Client Error: Not Acceptable for url: http://www.bothhandusa.com/
+http://www.boundless.com/,Success,False,
+http://www.bourns.com/,Success,False,
+https://www.boydcorp.com,Success,False,
+http://www.bpsemi.com/cn/,Success,False,
+www.bpsemi.com/cn/ ,Error,False,Invalid URL 'www.bpsemi.com/cn/ ': No scheme supplied. Perhaps you meant https://www.bpsemi.com/cn/ ?
+http://www.bradycanada.ca,Success,True,
+http://www.woodhead.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.bradycorp.com/,Success,True,
+http://www.alvarion.com/products-page/wireless-broadband/breezenet/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.brentek.com/,Success,False,
+http://www.bridgelux.com,Success,False,
+www.brtled.com,Error,False,Invalid URL 'www.brtled.com': No scheme supplied. Perhaps you meant https://www.brtled.com?
+http://www.relay.com.tw/about.html,Error,False,404 Client Error: Not Found for url: https://www.relay.com.tw/about.html
+http://www.brightled.co.kr/,Success,False,
+http://www.bvled.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.bristol-industries.com/,Success,False,
+http://www.broadcom.com/,Success,False,
+http://www.broadlake.com.tw/profile.html,Error,False,404 Client Error: Not Found for url: https://www.broadlake.com/profile.html
+http://www.brocade.com/,Success,False,
+http://www.conexant.com/,Error,False,404 Client Error: Not Found for url: http://www.conexant.com/
+http://www.brother-usa.com/,Success,False,
+http://www.bs-technics.com/nl,Success,False,
+http://www.bsi.com.tw/,Success,False,
+http://www.btcpower.com/,Success,True,
+http://www.tycoelectronics.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.budind.com/,Success,False,
+http://www.buehler.com/,Success,False,
+http://www.bujeon.com/,Success,False,
+http://www.bulgin.co.uk/,Error,False,403 Client Error: Forbidden for url: https://www.bulgin.com/
+www.bullwill.com.tw,Error,False,Invalid URL 'www.bullwill.com.tw': No scheme supplied. Perhaps you meant https://www.bullwill.com.tw?
+http://www.burkert.com/en/,Success,False,
+https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=863108,Success,False,
+http://portal.fciconnect.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ti.com/,Success,False,
+http://www.bueschel.com/,Success,False,
+http://www.lsi.com/,Success,False,
+http://www.bussmann.com/,Success,False,
+http://www.byd.com.cn/,Error,False,403 Client Error: Forbidden for url: http://www.byd.com.cn/
+http://www.bytesonic.com/,Error,False,403 Client Error: Forbidden for url: http://www.bytesonic.com/
+http://www.cselectric.co.in/,Success,False,
+www.cmedia.com.tw/tw/,Error,False,Invalid URL 'www.cmedia.com.tw/tw/': No scheme supplied. Perhaps you meant https://www.cmedia.com.tw/tw/?
+http://www.cablemax.com.tw/,Success,True,
+http://www.cabur.it/eng/index.htm,Error,False,403 Client Error: Forbidden for url: http://www.cabur.it/eng/index.htm
+http://www.caddock.com/,Success,True,
+http://www.cadence.com/,Error,False,403 Client Error: Forbidden for url: http://www.cadence.com/
+http://www.ca.com/us/,Error,False,404 Client Error: Not Found for url: https://www.broadcom.com/404-ca-technologies
+http://www.calchip.com/,Error,False,403 Client Error: Forbidden for url: http://www.calchip.com/
+http://www.calcrystal.com/,Success,True,
+http://www.calex.com/,Success,False,
+http://www.caliberelectronics.com/,Success,False,
+http://www.calscrew.net/new/,Success,True,
+www.pentairprotect.com,Error,False,Invalid URL 'www.pentairprotect.com': No scheme supplied. Perhaps you meant https://www.pentairprotect.com?
+http://calmos-technology.allitwares.com/company/home_page.php?user_id=67059,Success,True,
+http://www.exar.com/,Success,False,
+http://www.calscrew.net/new/,Success,True,
+https://www.caltestelectronics.com/,Success,False,
+http://www.caltronind.net/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.caly.com.tw/,Success,True,
+http://www.cambion.com/,Success,True,
+http://www.cdtltd.co.uk/,Success,False,
+http://www.camelcom.com.my,Error,False,403 Client Error: Forbidden for url: http://www.camelcom.com.my/
+http://www.camelionbattery.com/,Success,False,
+http://www.cameronsino.com/,Success,False,
+http://www.canal.com.tw/e-index.htm,Error,False,404 Client Error: Not Found for url: https://www.canal.com.tw/e-index.htm
+http://www.canarycom.com/,Error,False,406 Client Error: Not Acceptable for url: http://www.canarycom.com/
+http://www.candocom.com/index_en.asp,Error,False,404 Client Error: Not Found for url: http://www.candocom.com/index_en.asp
+http://www.china-capacitors.com/,Success,True,
+http://www.capatronics.com/,Error,False,403 Client Error: Forbidden for url: https://www.capatronics.com/
+http://www.generalcable.com/,Error,False,403 Client Error: Forbidden for url: http://www.generalcable.com/
+http://www.capxongroup.com/en/index.aspx,Error,False,404 Client Error: Not Found for url: https://www.capxongroup.com/en/index.aspx
+http://www.cap-xx.com/,Error,False,403 Client Error: Forbidden for url: http://www.cap-xx.com/
+http://www.carclo-optics.com/,Success,True,
+http://www.cardinalxtal.com/,Success,False,
+http://www.carinda.com.au/,Error,False,403 Client Error: Forbidden for url: http://www.carinda.com.au/
+http://www.carlingtech.com/,Success,True,
+http://www.carlingtech.com/,Success,True,
+http://www.tensolite.com/,Success,False,
+http://www.gavazzionline.com/,Success,True,
+http://www.carlon.com/,Error,False,403 Client Error: Forbidden for url: http://www.carlon.com/
+http://www.generalcable.com/,Error,False,403 Client Error: Forbidden for url: http://www.generalcable.com/
+http://www.casetronic.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.casilsemi.com/asp-bin/en/?page=1,Error,False,403 Client Error: Forbidden for url: http://www.casilsemi.com/asp-bin/en/?page=1
+http://www.calscrew.net/new/,Success,True,
+http://www.castelle.com/,Success,False,
+http://www.capitaladvanced.com/,Success,True,
+http://www.catsemi.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.catcher.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.caton.com/,Error,False,403 Client Error: Forbidden for url: http://caton.com/
+http://www.caddell-burns.com/,Error,False,404 Client Error: Not Found for url: http://www.caddell-burns.com/
+http://www.candcconn.com.tw/,Success,True,
+http://www.corstat.com/,Error,False,403 Client Error: Forbidden for url: http://www.corstat.com/
+http://www.ccohm.com.tw/,Success,False,
+http://www.cdil.com/,Success,True,
+http://www.cdtechno.com/,Success,True,
+https://www.cec.com.cn/,Success,False,
+http://www.ceco-inc.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.customelec.com/,Success,False,
+http://www.ceiecsz.com.cn/en/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cel.com/,Success,False,
+http://www.celduc-relais.com/uk/,Success,False,
+http://www.celeritous.com/,Error,False,403 Client Error: Forbidden for url: http://www.celeritous.com/
+http://www.celestica.com/,Success,False,
+http://www.cematsil.com/Wc88d66de5eb33.htm,Error,False,403 Client Error: Forbidden for url: http://www.cematsil.com/Wc88d66de5eb33.htm
+https://www.cenlink.com.tw/en/,Success,False,
+https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapid=26289,Success,False,
+http://www.century-micro.com/,Success,False,
+http://www.centralsemi.com/,Success,True,
+http://www.centuryinterconnect.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ceramate.com.tw/,Success,False,
+http://www.vishay.com/company/brands/cera-mite/,Success,True,
+http://ceratech.tradekorea.com,Success,False,
+http://www.cermetek.com/,Success,True,
+http://www.bussmann.com/,Success,False,
+http://www.chyangfun.com/,Error,False,"HTTPSConnectionPool(host='www.chyangfun.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)')))"
+http://www.corning.com/index.aspx,Success,False,
+http://www.challengeelectronics.com/,Success,True,
+http://chamawen127.en.hisupplier.com/,Success,True,
+http://www.champ-tech.com/,Success,True,
+www.cj-elec.com,Error,False,Invalid URL 'www.cj-elec.com': No scheme supplied. Perhaps you meant https://www.cj-elec.com?
+http://www.cj-elec.com/en/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.pc-connector.com/,Success,True,
+http://www.darter.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://hc-elec.en.alibaba.com/,Success,False,
+http://www.coxoc.com.tw,Success,False,
+http://www.chaparraltec.com/,Success,False,
+http://www.charleswater.co.uk/,Success,False,
+https://en.wikipedia.org/wiki/chartered_semiconductor_manufacturing,Error,False,404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Chartered_semiconductor_manufacturing
+http://www.perle.com/,Success,True,
+http://www.chellis.com/,Success,False,
+http://www.chemtronics.com/,Success,True,
+http://www.chenbro.com/,Error,False,Exceeded 30 redirects.
+http://www.cnb.com.hk/abouten.htm,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.chengpu.com.tw/,Success,False,
+http://www.c-y.com.tw/company-e.htm,Error,False,404 Client Error: Not Found for url: http://www.c-y.com.tw/company-e.htm
+http://www.uneec.com/en/,Success,True,
+http://www.chenmko.com.tw/tw/,Success,False,
+http://www.chequers-electronic.com/,Success,False,
+http://www.cherrycorp.com/,Success,False,
+http://www.chinsan.com/welcome/,Success,False,
+http://www.chiapi.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.chiaping.com.tw/,Success,False,
+http://www.agmautomotive.com/agm-automotive-partners-with-chicago-miniature-lighting-team/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.chieftec.com/,Error,False,403 Client Error: Forbidden for url: http://www.chieftec.com/server-status
+http://www.cf-switch.com/,Success,False,
+https://www.chilisin.com/,Success,False,
+http://www.chily.com/,Success,False,
+http://www.chimeicorp.com/en-us/,Success,True,
+http://www.chimicron.com/,Success,True,
+http://www.chinmore.com/index.php,Success,True,
+http://www.chinpoon.com/en,Success,True,
+http://www.csctw.com.tw/eng/eng.html,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.chinasound.com/,Success,False,
+http://www.chinfa.com/,Success,False,
+http://www.chinnan.com.tw/,Success,True,
+http://www.cetsemi.com/index-e.htm,Success,False,
+http://www.tycoelectronics.com,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+www.chipanalog.com,Error,False,Invalid URL 'www.chipanalog.com': No scheme supplied. Perhaps you meant https://www.chipanalog.com?
+http://www.ti.com/,Success,False,
+http://www.chipx.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.chiphomer.com/,Success,False,
+http://www.chiphomer.com,Success,False,
+https://www.chiplink.ro/,Success,False,
+http://www.chiplus.com/,Success,False,
+www.chipon-ic.com,Error,False,Invalid URL 'www.chipon-ic.com': No scheme supplied. Perhaps you meant https://www.chipon-ic.com?
+http://www.chipower.com.cn/default.htm,Success,False,
+https://www.chipown.com.cn/,Success,False,
+http://en.wikipedia.org/wiki/Chips_and_Technologies,Success,True,
+http://www.chipstech.com/,Success,False,
+www.chipstar-ic.com  ,Error,False,Invalid URL 'www.chipstar-ic.com  ': No scheme supplied. Perhaps you meant https://www.chipstar-ic.com  ?
+http://www.chisam.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.fiberopticsonline.com/storefronts/chorum.html,Error,False,404 Client Error: Not Found for url: https://www.fiberopticsonline.com/storefronts/chorum.html
+http://www.chrontel.com/,Success,False,
+http://www.chsay.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.chtechnology.com/,Success,False,
+http://www.chuanhsin.com.tw/,Error,False,"HTTPSConnectionPool(host='www.chuanhsin.com.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))"
+http://www.cptt.com.tw/,Success,False,
+http://www.chungpak.com/,Error,False,"HTTPSConnectionPool(host='www.chungpak.com', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError(""hostname 'www.chungpak.com' doesn't match either of 'host201.com', 'www.host201.com'"")))"
+http://www.c-y.com.tw/company-e.htm,Error,False,404 Client Error: Not Found for url: http://www.c-y.com.tw/company-e.htm
+http://www.cheyennesales.com/,Success,False,
+http://www.cidesign.com/,Error,False,403 Client Error: Forbidden for url: http://www.cidesign.com/
+http://www.ciicontrols.com/,Success,False,
+http://www.ciitech.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cikautxo.es/,Success,False,
+http://www.cinch.com/,Success,False,
+http://www.cincon.com/,Success,False,
+http://www.cinterion.com/,Success,False,
+http://www.circuitassembly.com/,Success,True,
+http://www.circuittest.com/,Success,False,
+http://www.citrelay.com/index.php,Success,True,
+http://circuitco.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.intertronics.co.uk/products/circuit-works-index.htm,Success,True,
+http://www.cirrus.com/,Success,False,
+http://www.cisco.com/,Success,False,
+http://www.citel.com,Success,False,
+http://www.citizen-america.com/,Success,False,
+http://www.citrix.com/,Success,False,
+https://www.jcetglobal.com/,Success,False,
+http://www.cjt.cn,Success,False,
+http://www.ck-components.com/,Success,True,
+http://www.ck-tools.com/,Success,False,
+http://www.cksystem.com/,Error,False,403 Client Error: Forbidden for url: http://www.cksystem.com/
+http://www.clairex.com/,Error,False,403 Client Error: Forbidden for url: http://www.clairex.com/
+http://www.claremicronix.com/,Error,False,500 Server Error: Internal Server Error for url: https://www.claremicronix.com/
+http://www.clarion.com/global/en/top.html,Error,False,403 Client Error: ModSecurity Action for url: http://www.clarion.com/global/en/top.html
+http://www.honeywell.com/,Success,False,
+http://www.clearlogictechnologies.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.clearviewinc.com/,Error,False,403 Client Error: Forbidden for url: https://uniregistry.com/market/domain/clearviewinc.com
+http://www.clecgroup.com/,Success,True,
+http://www.cliffinc.com/contact/index.htm,Success,True,
+http://www.clm.com.tw/,Success,True,
+http://www.cloverlcd.com/,Success,False,
+http://www.cmac.com/,Success,False,
+http://www.champion-micro.com/,Success,False,
+http://www.cmd.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cmedia.com.tw/,Success,False,
+http://www.cml-it.com/,Success,True,
+http://www.cnetusa.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ctparts.com/,Success,False,
+http://www.control-concepts.com/,Success,False,
+https://coaxicom.com/,Success,True,
+http://www.cobham.com ,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cobospa.it/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.demex.com.tw/company-e.htm,Error,False,404 Client Error: Not Found for url: https://www.demex.com.tw/company-e.htm
+http://www.codegenworld.com/,Error,False,436 Client Error:  for url: http://www.codegenworld.com/
+http://www.circuitprotection.com/coev/,Success,True,
+http://www.cofan-usa.com/,Success,True,
+http://www.coherent.com/,Success,True,
+http://www.coilcraft.com/,Success,True,
+www.coilws.com,Error,False,Invalid URL 'www.coilws.com': No scheme supplied. Perhaps you meant https://www.coilws.com?
+http://www.coilcraft.com/,Success,True,
+http://www.coilmaster.com/,Success,False,
+http://www.ceccoils.com/,Success,False,
+http://www.cooperbussmann.com/,Error,False,"HTTPSConnectionPool(host='www.cooperbussmann.com', port=443): Max retries exceeded with url: /country.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))"
+http://www.alphawire.com/,Success,False,
+http://www.colehersee.com/,Success,True,
+http://www.cole-switches.com/,Success,True,
+http://www.deantechnology.com/news/dean-technology-acquires-hvpsi-dallas-texas,Error,False,403 Client Error: Forbidden for url: http://www.deantechnology.com/news/dean-technology-acquires-hvpsi-dallas-texas
+http://www.barber-colman.com/,Success,False,
+http://www.colognechip.com/,Success,False,
+http://www8.hp.com/ca/en/home.html,Success,False,
+http://www.atxcases.com/,Success,False,
+http://www.colorkinetics.com/,Success,False,
+http://www.comairrotron.com/,Success,False,
+http://www.comchiptech.com/,Success,False,
+http://isipkg.com/,Success,False,
+http://www.commandcommunications.com/,Success,False,
+http://www.cic-commonwealth.com.tw/PRODUCTS.htm,Success,False,
+http://www.commutek.com/,Success,True,
+http://www.relays-unlimited.com/,Error,False,403 Client Error: Forbidden for url: http://www.relays-unlimited.com/
+http://www.compel.it/,Success,False,
+http://www.microsemi.com/,Success,False,
+https://compex.com.sg/aboutus/,Error,False,403 Client Error: Forbidden for url: https://compex.com.sg/aboutus/
+http://www.componentscorp.com/,Success,True,
+http://www.compostar.com/,Success,False,
+http://www.weishun.com.tw/,Success,False,
+http://www.alturaxl.com/,Error,False,400 Client Error: Bad Request for url: http://www.alturaxl.com/
+http://www.comsetsemi.com/,Success,True,
+http://www.eaton.com/eaton/index.htm,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://concord-elex.com/,Error,False,404 Client Error: Not Found for url: http://concord-elex.com/
+http://www.condorelectronics.net/,Success,True,
+http://www.conec.com/,Error,False,403 Client Error: Forbidden for url: http://www.conec.com/
+http://www.conesys.com,Success,True,
+http://www.aero-electric.com/,Success,True,
+http://www.conexant.com/,Error,False,404 Client Error: Not Found for url: http://www.conexant.com/
+http://connecmax.company.weiku.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.connectcom.ca/,Success,False,
+http://www.connectone.com/,Success,False,
+https://connectorexperts.com/,Success,False,
+http://www.amphenolconnex.com/,Success,True,
+http://www.connfly.com/,Success,False,
+http://www.conwin.com/,Success,False,
+http://www.conquer.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.conwire.com/,Error,False,403 Client Error: Forbidden for url: http://www.conwire.com/
+http://www.consonance-elec.com/,Success,False,
+http://www.contaclipinc.com/,Success,False,
+http://www.micross.com/,Success,False,
+http://www.cdipower.com/,Success,True,
+http://www.conwin.com.tw/,Error,False,Exceeded 30 redirects.
+http://www.conxall.com/,Success,True,
+http://www.coolaudio.com/,Success,False,
+http://www.coolermaster.com/,Error,False,403 Client Error: Forbidden for url: http://www.coolermaster.com/
+http://www.coolinnovations.com/,Error,False,406 Client Error: Not Acceptable for url: http://www.coolinnovations.com/
+http://www.cooltron.com/,Error,False,406 Client Error: Not Acceptable for url: http://www.cooltron.com/
+http://www.bussmann.com/,Success,False,
+http://www.cooperhandtools.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.coorstek.com/,Error,False,503 Server Error: Service Unavailable for url: http://www.coorstek.com/
+http://www.copal-electronics.com/e/,Success,False,
+http://www.cor.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.coremaster.com.tw/en/index.html,Success,True,
+http://corebai.com/,Success,False,
+http://www.corechip-sz.com/,Success,False,
+https://www.corewinders.com/,Success,False,
+http://www.cde.com/,Success,False,
+http://www.corningfrequency.com/,Success,False,
+http://www.corsairelectricalconnectors.com/,Success,False,
+http://www.cortina-systems.com/,Success,True,
+http://www.coselusa.com/,Success,False,
+http://www.cosmo-ic.com/,Success,False,
+http://www.cosonic.com/,Success,True,
+http://www.cree.com/,Success,False,
+http://www.cotorelay.com/,Success,False,
+http://www.cougarelectronics.com/,Success,True,
+http://www.covion.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cpcworldwide.com/,Success,True,
+http://www.clare.com/,Success,False,
+http://www.cpuser.com.tw/,Success,True,
+http://www.craneae.com/,Success,True,
+http://www.craneconnectors.com/,Success,False,
+http://www.crcindustries.com/crcwebmain/,Success,False,
+www.cresemi.com,Error,False,Invalid URL 'www.cresemi.com': No scheme supplied. Perhaps you meant https://www.cresemi.com?
+http://www.cchitech.com.tw/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cree.com/,Success,False,
+http://www.cooperhandtools.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.crystalonics.com/,Success,True,
+http://www.cristek.com/,Success,False,
+http://www.critchley.com/01/default.asp,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.ceramicproductsgroup.com/,Error,False,403 Client Error: Forbidden for url: http://www.ceramicproductsgroup.com/
+http://www.tycoelectronics.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://web.crosschipmicro.com,Success,False,
+http://www.crossroads.com/,Error,False,403 Client Error: Forbidden for url: http://www.crossroads.com/
+http://www.crouzet-usa.com/,Success,True,
+http://www.crownconnector.com/  ,Error,False,404 Client Error: Not Found for url: https://www.crownconnector.com:443/%20%20
+http://us.creative.com/,Success,False,
+http://www.crucial.com/,Success,True,
+http://www.crydom.com/,Error,False,403 Client Error: Forbidden for url: https://www.sensata.com/products/relays/solid-state-relays
+http://www.crystalfontz.com/,Success,False,
+http://www.crystalonics.com/,Success,True,
+http://www.cirrus.com/,Success,False,
+http://www.conwin.com/,Success,False,
+http://www.crystek.com/,Success,True,
+http://www.q-crystal.com/,Success,True,
+http://www.cs-electronics.com/,Success,False,
+http://www.cse-transformers.com/,Success,False,
+http://www.specotech.com/,Success,False,
+http://www.csr.com/,Error,False,409 Client Error: Conflict for url: http://www.csr.com/
+http://www.ctccoils.com/,Success,False,
+http://www.connectech.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.coil.co.uk/,Success,True,
+http://www.ctscorp.com/,Success,True,
+http://www.cui.com/,Success,True,
+http://www.customcoils.com/,Success,True,
+http://www.eaton.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cvilux.com.tw/en/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cwb.com.cn,Success,True,
+http://www.cwind.com/,Success,True,
+http://www.chengx.com/about.aspx,Success,False,
+www.cxmt.com,Error,False,Invalid URL 'www.cxmt.com': No scheme supplied. Perhaps you meant https://www.cxmt.com?
+http://www.cyberbond1.com/,Error,False,403 Client Error: Forbidden for url: https://diygaragedoorparts.com/springs/
+http://www.cybertouch.com/,Error,False,403 Client Error: Forbidden for url: https://www.cybertouch.com/
+http://www.silabs.com/,Success,False,
+http://www.cylix.com/,Success,False,
+http://www.cynergy3.com/,Success,True,
+http://www.cyntec.com/,Success,False,
+http://www.cypress.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.cypressindustries.com/,Success,True,
+http://www.cyrustek.com.tw/,Success,False,
+http://www.securityinfowatch.com/company/10213390/cz-labs,Success,False,
+http://www.daburn.com/,Success,True,
+http://www.dachskondel.com/,Success,False,
+https://en.wikipedia.org/wiki/daewoo,Success,True,
+http://www.globalsources.com/si/as/dae-ryung/6008800543939/homepage.htm,Success,False,
+https://en.wikipedia.org/wiki/daewoo,Success,True,
+http://www.daico.com/,Error,False,403 Client Error: Forbidden for url: https://daico.com/
+http://www.daiichiparts.com.hk/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.dpbatteries.com/,Error,False,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+http://www.dailywell.com.tw/,Success,True,
+http://www.dain.com.tw/,Error,False,406 Client Error: Not Acceptable for url: http://www.dain.com.tw/
+http://www.kds.info/index_en.htm,Success,False,
+http://www.vishay.com/company/brands/dale/,Success,True,
+http://www.vishay.com/landingpage/50year/dale.html,Success,True,
+http://www.dalicap.com/,Success,False,

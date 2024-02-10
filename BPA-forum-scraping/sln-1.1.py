@@ -26,7 +26,7 @@ try:
     time.sleep(3)
 
     # 读取CSV文件
-    csv_filename = '2022picid.csv'
+    csv_filename = '2016picid.csv'
     with open(csv_filename, 'r') as csvfile:
         reader = csv.DictReader(csvfile)
         total_rows = sum(1 for row in reader)

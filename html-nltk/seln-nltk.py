@@ -22,8 +22,8 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 
 
 # 示例网页A和网页B的URL
-url_a = 'https://www.nltk.org/install.html'
-url_b = 'https://github.com/nltk/nltk'
+url_a = 'http://www.ascapacitor.com/'
+url_b = ' http://www.asg-jergens.com/'
 
 # 加载网页A
 driver.get(url_a)
