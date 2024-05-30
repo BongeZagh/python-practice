@@ -1,0 +1,123 @@
+---
+title: "Divvy Project alone"
+author: "Zagh"
+date: "2024-05-16"
+output: html_document
+---
+## Load libraries
+```{r setup, include=FALSE}
+library("janitor") #data cleaning
+library("tidyverse") 
+library("dplyr")   
+library("here")
+library("skimr") #summrize view
+
+```
+
+##  Load datasets
+
+```{r }
+q1_2019 <- read.csv("~/Downloads/Divvy_Trips_2019_Q1.csv")
+
+q1_2020 <- read.csv("~/Downloads/Divvy_Trips_2020_Q1.csv")
+
+```
+
+## Check the columns
+We need to match two data set's  column names
+
+```{r pressure, echo=FALSE}
+colnames(q1_2019)
+colnames(q1_2020)
+
+```
+# Matching the column names
+We can use google sheet to edit the column names without typing them out, with this way we could reduce typo and more effective. we can first let the ChatGPT clean out the quotes and number, make sure the format is clean. then join them together just like playing pulses.
+```{r}
+q1_2019 <- rename(q1_2019 , ride_id=trip_id, started_at=start_time, ended_at=end_time, rideable_type=bikeid, start_station_name=from_station_name, start_station_id=from_station_id, end_station_name=to_station_name, end_station_id=to_station_id, member_casual=usertype)
+```
+
+# Compare the comluns
+
+As you can see the data type of ride_id and rideable_type need to align
+```{r}
+compare_df_cols(q1_2019,q1_2020) 
+```
+
+
+## Check the columns again
+
+```{r pressure, echo=FALSE}
+colnames(q1_2019)
+colnames(q1_2020)
+
+```
+
+
+# Match the data type
+```{r}
+q1_2019$ride_id <- as.character(q1_2019$ride_id)
+q1_2019$rideable_type <- as.character(q1_2019$rideable_type)
+
+```
+
+# Check the data type
+Okay, It's done
+```{r}
+class(q1_2019$ride_id)
+class(q1_2019$rideable_type)
+```
+
+# Combind two files
+```{r}
+all_trips <- bind_rows(q1_2019,q1_2020)
+compare_df_cols(q1_2019,q1_2020) 
+```
+# remove all the unecercerily columns
+```{r}
+all_trips <- all_trips %>%
+select(-c(end_lng,birthyear,end_lat,gender,start_lat,start_lng,tripduration ))
+```
+
+# make sure the coloum is deleted
+```{r}
+ncol(all_trips)
+```
+# question: How do annual members and casual riders use Cyclistic bikes differently?
+
+So we need to check on the member_causal column make sure the data is the way we want.
+
+```{r}
+table(all_trips$member_casual)
+```
+
+# Correct the data in member_casual
+```{r}
+
+all_trips <- all_trips %>%  mutate(member_casual = recode(member_casual, "Subscriber" = "member", "Customer" = "casual"))
+
+
+table(all_trips$member_casual)
+```
+# Summary
+```{r}
+summary(all_trips)
+```
+# Ride_length
+```{r}
+ all_trips$ride_length <- difftime(all_trips$ended_at,all_trips$started_at) 
+```
+
+# conver the started_at into different time format
+```{r}
+all_trips$date <- as.Date(all_trips$started_at)
+all_trips$day_of_month <- format(as.Date(all_trips$started_at),"%d")
+all_trips$week_of_day <- format(as.Date(all_trips$started_at),"%A")
+all_trips$time_in_day <-  format(as.POSIXct(all_trips$started_at), "%H")
+```
+
+
+```{r}
+str(all_trips)
+```
+

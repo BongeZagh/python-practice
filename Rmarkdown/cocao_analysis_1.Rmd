@@ -1,0 +1,143 @@
+---
+title: "Cocao Analysis"
+output: 
+  html_document:
+    number_sections: false
+    toc: true
+    toc_depth: 6
+    highlight: tango
+    theme: yeti
+    code_folding: show
+    df_print: kable
+---
+
+## Load libraries
+
+```{r import csv, include=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(readr)
+library(stringr)
+library(lubridate)
+library(dplyr)
+library(rworldmap)
+```
+
+## Import CSV
+
+```{r  message = FALSE, warning = FALSE, error = FALSE}
+full_data <- read_csv('~/Downloads/flavors_of_cacao.csv')
+
+```
+
+## View dataset columns
+
+You can see the column name include space and line break. If we don't clean that it might cause error in ggplot.
+
+```{r pressure, echo=FALSE}
+names(full_data)
+```
+
+### Clean columns name format
+
+```{r clean_column_names}
+# Remove and replace spaces and line breaks
+names(full_data) <- tolower(gsub(pattern = '[[:space:]+]', '_', names(full_data)))
+
+# View the new column names 
+names(full_data)
+```
+
+### Explain the columns in Chinese
+
+1.  "company_maker": 制造巧克力的公司或品牌的名称。
+2.  "specific_bean_origin_or_bar_name": 指定可可豆的原产地或巧克力棒的名称。这个列可能包含有关可可豆种类或巧克力产品的其他特定信息。
+3.  "ref": 参考编号，可能是与巧克力产品或数据相关的参考编号。
+4.  "review_date": 评论日期，指示对巧克力进行评价的日期。
+5.  "cocoa_percent": 可可含量，表示巧克力中可可固体的百分比。
+6.  "company_location": 制造公司的所在地或总部所在地。
+7.  "rating": 对巧克力产品的评级或评分。
+8.  "bean_type": 可可豆的类型或品种。
+9.  "broad_bean_origin":可可豆的产地或原产地，指示制作巧克力所用可可豆的来源。
+
+## Explore the data
+
+Just find anything I interested
+
+### Data collection date
+
+```{r echo=FALSE}
+ggplot(data=full_data) + geom_bar(mapping = aes(x=review_date)) 
+```
+
+## Cocoa percentage
+
+```{r}
+
+# 将百分比字符串转换为数值
+full_data$cocoa_percent_numeric <- as.numeric(sub("%", "", full_data$cocoa_percent)) / 100
+
+# 设置刻度间距为每隔10%显示一个标签
+ggplot(data = full_data) + 
+  geom_jitter(mapping = aes(x = review_date, y = cocoa_percent_numeric)) +
+  scale_y_continuous(breaks = seq(0, 1, by = 0.1), labels = scales::percent)
+
+
+
+```
+
+## broad_bean_origin 统计
+
+"specific_bean_origin_or_bar_name" 是具体地点，broad_bean_origin 对于的地点相对广泛，更利于统计,但是数据仍然需要进一步清洗
+
+```{r}
+# 假设您的数据框名为df，列名为specific_bean_origin_or_bar_name
+df_counts <- full_data %>%
+  group_by(broad_bean_origin) %>%
+  summarise(count = n())
+
+# 查看计数结果
+print(df_counts)
+```
+
+## ref 的含义
+
+由于查询不到ref 的具体含义，先统计查看原因
+
+```{r}
+# 假设您的数据框名为df，列名为specific_bean_origin_or_bar_name
+ref_counts <- full_data %>%
+  group_by(`company _(maker-if_known)`) %>%
+  summarise(count = n())
+
+# 查看计数结果
+print(ref_counts)
+```
+没有什么用处。
+
+## Try rworldmap
+
+learning YANGYA's code, It's not teach in coursera's course.
+
+```{r}
+omap <- group_by(full_data,broad_bean_origin)
+omap1 <- summarise(omap,broad_bean_origin)
+map2 <- joinCountryData2Map(omap1,joinCode="NAME",nameJoinColumn = "broad_bean_origin")
+mapCountryData(map2, mapTitle = "Cocao Origin Distribution", colourPalette = "negpos9")
+```
+
+## Company location
+
+This value means where the chocolate manufacture company base at.
+
+```{r}
+cmap <- group_by(full_data,company_location)
+cmap1 <- summarise(cmap,count=n())
+map3 <- joinCountryData2Map(cmap1,joinCode="NAME",nameJoinColumn = "company_location")
+mapCountryData(map3,nameColumnToPlot = "count", mapTitle = "Chocolate Factory Distribution", colourPalette = "negpos8")
+```
+
+51 codes from your data successfully matched countries in the map 9 codes from your data failed to match with a country code in the map 192 codes from the map weren't represented in your data about 260 failed data
+
+
+

@@ -1,0 +1,15 @@
+\begin{tikzpicture}
+  \draw[gray, fill=gray!20] (0,0) -- (10,0) -- (10,2) -- cycle;
+  \draw[black] (0,0) -- (10,0);
+  \draw[black] (0,0) -- (0,2);
+  \draw[black, thick] (0,\sampleMeanA) -- (10,\sampleMeanA);
+  \draw[black, thick] (0,\sampleMeanA + \sampleSD) -- (10,\sampleMeanA + \sampleSD);
+  \draw[black, thick] (0,\sampleMeanA - \sampleSD) -- (10,\sampleMeanA - \sampleSD);
+  \node[left] at (0,0) {0};
+  \node[left] at (0,\sampleMeanA) {$\mu_x$};
+  \node[left] at (0,\sampleMeanA + \sampleSD) {$\mu_x + \sigma_x$};
+  \node[left] at (0,\sampleMeanA - \sampleSD) {$\mu_x - \sigma_x$};
+  \node[right] at (10,0) {$x$};
+\end{tikzpicture}
+
+
